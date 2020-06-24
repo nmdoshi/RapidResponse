@@ -1,0 +1,903 @@
+product,market,month,value
+Gown protective,Wayne County,Jan-20,32
+Gown protective,Wayne County,Feb-20,9
+Gown protective,Wayne County,Mar-20,2
+Gown protective,Oakland County,Jan-20,37
+Gown protective,Oakland County,Feb-20,10
+Gown protective,Oakland County,Mar-20,2
+Gown protective,Macomb County,Jan-20,36
+Gown protective,Macomb County,Feb-20,9
+Gown protective,Macomb County,Mar-20,2
+Gown protective,Genesee County,Jan-20,26
+Gown protective,Genesee County,Feb-20,7
+Gown protective,Genesee County,Mar-20,1
+Gown protective,Washtenaw County,Jan-20,29
+Gown protective,Washtenaw County,Feb-20,7
+Gown protective,Washtenaw County,Mar-20,1
+Gown protective,Kent County,Jan-20,33
+Gown protective,Kent County,Feb-20,8
+Gown protective,Kent County,Mar-20,2
+Gown protective,Saginaw County,Jan-20,9
+Gown protective,Saginaw County,Feb-20,3
+Gown protective,Ingham County,Mar-20,27
+Gown protective,Ingham County,Jan-20,7
+Gown protective,Ingham County,Feb-20,1
+Gown protective,Livingston County,Mar-20,13
+Gown protective,Livingston County,Jan-20,3
+Gown protective,Livingston County,Feb-20,1
+Gown protective,St. Clair County,Mar-20,35
+Gown protective,St. Clair County,Jan-20,8
+Gown protective,St. Clair County,Feb-20,2
+Gown protective,Monroe County,Mar-20,26
+Gown protective,Monroe County,Jan-20,6
+Gown protective,Monroe County,Feb-20,1
+Scrubs tops,Wayne County,Mar-20,11
+Scrubs tops,Wayne County,Jan-20,3
+Scrubs tops,Oakland County,Feb-20,8
+Scrubs tops,Oakland County,Mar-20,2
+Scrubs tops,Macomb County,Jan-20,25
+Scrubs tops,Macomb County,Feb-20,6
+Scrubs tops,Macomb County,Mar-20,1
+Scrubs tops,Genesee County,Jan-20,18
+Scrubs tops,Genesee County,Feb-20,4
+Scrubs tops,Genesee County,Mar-20,1
+Scrubs tops,Washtenaw County,Jan-20,11
+Scrubs tops,Washtenaw County,Feb-20,3
+Scrubs tops,Washtenaw County,Mar-20,1
+Scrubs tops,Kent County,Jan-20,43
+Scrubs tops,Kent County,Feb-20,11
+Scrubs tops,Kent County,Mar-20,2
+Scrubs tops,Saginaw County,Jan-20,14
+Scrubs tops,Saginaw County,Feb-20,5
+Scrubs tops,Saginaw County,Mar-20,1
+Scrubs tops,Ingham County,Jan-20,8
+Scrubs tops,Ingham County,Feb-20,2
+Scrubs tops,Livingston County,Mar-20,3
+Scrubs tops,Livingston County,Jan-20,1
+Scrubs tops,St. Clair County,Feb-20,13
+Scrubs tops,St. Clair County,Mar-20,4
+Scrubs tops,St. Clair County,Jan-20,1
+Scrubs tops,Monroe County,Feb-20,4
+Scrubs tops,Monroe County,Mar-20,1
+Lab screening test kit,Wayne County,Jan-20,2
+Lab screening test kit,Oakland County,Feb-20,30
+Lab screening test kit,Oakland County,Mar-20,7
+Lab screening test kit,Oakland County,Jan-20,2
+Lab screening test kit,Macomb County,Feb-20,29
+Lab screening test kit,Macomb County,Mar-20,7
+Lab screening test kit,Macomb County,Jan-20,1
+Lab screening test kit,Genesee County,Feb-20,30
+Lab screening test kit,Genesee County,Mar-20,8
+Lab screening test kit,Genesee County,Jan-20,2
+Lab screening test kit,Washtenaw County,Feb-20,10
+Lab screening test kit,Washtenaw County,Mar-20,3
+Lab screening test kit,Washtenaw County,Jan-20,1
+Lab screening test kit,Kent County,Feb-20,47
+Lab screening test kit,Kent County,Mar-20,12
+Lab screening test kit,Kent County,Jan-20,2
+Lab screening test kit,Saginaw County,Feb-20,43
+Lab screening test kit,Saginaw County,Mar-20,11
+Lab screening test kit,Saginaw County,Jan-20,2
+Lab screening test kit,Ingham County,Feb-20,28
+Lab screening test kit,Ingham County,Mar-20,7
+Lab screening test kit,Ingham County,Jan-20,2
+Lab screening test kit,Livingston County,Feb-20,32
+Lab screening test kit,Livingston County,Mar-20,8
+Lab screening test kit,Livingston County,Jan-20,2
+Lab screening test kit,St. Clair County,Feb-20,40
+Lab screening test kit,St. Clair County,Mar-20,10
+Lab screening test kit,St. Clair County,Jan-20,2
+Lab screening test kit,Monroe County,Feb-20,9
+Lab screening test kit,Monroe County,Mar-20,2
+Lab extraction kit,Wayne County,Jan-20,29
+Lab extraction kit,Wayne County,Feb-20,8
+Lab extraction kit,Wayne County,Mar-20,2
+Lab extraction kit,Oakland County,Jan-20,21
+Lab extraction kit,Oakland County,Feb-20,5
+Lab extraction kit,Oakland County,Mar-20,1
+Lab extraction kit,Macomb County,Jan-20,10
+Lab extraction kit,Macomb County,Feb-20,3
+Lab extraction kit,Genesee County,Mar-20,44
+Lab extraction kit,Genesee County,Jan-20,10
+Lab extraction kit,Genesee County,Feb-20,2
+Lab extraction kit,Washtenaw County,Mar-20,12
+Lab extraction kit,Washtenaw County,Jan-20,3
+Lab extraction kit,Washtenaw County,Feb-20,1
+Lab extraction kit,Kent County,Mar-20,9
+Lab extraction kit,Kent County,Jan-20,2
+Lab extraction kit,Kent County,Feb-20,1
+Lab extraction kit,Saginaw County,Mar-20,9
+Lab extraction kit,Saginaw County,Jan-20,3
+Lab extraction kit,Ingham County,Feb-20,8
+Lab extraction kit,Ingham County,Mar-20,2
+Lab extraction kit,Livingston County,Jan-20,10
+Lab extraction kit,Livingston County,Feb-20,3
+Lab extraction kit,St. Clair County,Mar-20,32
+Lab extraction kit,St. Clair County,Jan-20,7
+Lab extraction kit,St. Clair County,Feb-20,2
+Lab extraction kit,Monroe County,Mar-20,33
+Lab extraction kit,Monroe County,Jan-20,9
+Lab extraction kit,Monroe County,Feb-20,2
+powered air purifying respirators,Wayne County,Mar-20,19
+powered air purifying respirators,Wayne County,Jan-20,5
+powered air purifying respirators,Wayne County,Feb-20,1
+powered air purifying respirators,Oakland County,Mar-20,8
+powered air purifying respirators,Oakland County,Jan-20,2
+powered air purifying respirators,Oakland County,Feb-20,1
+powered air purifying respirators,Macomb County,Mar-20,4
+powered air purifying respirators,Macomb County,Jan-20,1
+powered air purifying respirators,Genesee County,Feb-20,36
+powered air purifying respirators,Genesee County,Mar-20,9
+powered air purifying respirators,Genesee County,Jan-20,2
+powered air purifying respirators,Washtenaw County,Feb-20,11
+powered air purifying respirators,Washtenaw County,Mar-20,3
+powered air purifying respirators,Washtenaw County,Jan-20,1
+powered air purifying respirators,Kent County,Feb-20,33
+powered air purifying respirators,Kent County,Mar-20,9
+powered air purifying respirators,Kent County,Jan-20,2
+powered air purifying respirators,Saginaw County,Feb-20,44
+powered air purifying respirators,Saginaw County,Mar-20,12
+powered air purifying respirators,Saginaw County,Jan-20,3
+powered air purifying respirators,Ingham County,Feb-20,18
+powered air purifying respirators,Ingham County,Mar-20,5
+powered air purifying respirators,Ingham County,Jan-20,1
+powered air purifying respirators,Livingston County,Feb-20,42
+powered air purifying respirators,Livingston County,Mar-20,12
+powered air purifying respirators,Livingston County,Jan-20,2
+powered air purifying respirators,St. Clair County,Feb-20,23
+powered air purifying respirators,St. Clair County,Mar-20,6
+powered air purifying respirators,St. Clair County,Jan-20,1
+powered air purifying respirators,Monroe County,Feb-20,19
+powered air purifying respirators,Monroe County,Mar-20,6
+powered air purifying respirators,Monroe County,Jan-20,1
+Wipes,Wayne County,Feb-20,40
+Wipes,Wayne County,Mar-20,11
+Wipes,Wayne County,Jan-20,2
+Wipes,Oakland County,Feb-20,6
+Wipes,Oakland County,Mar-20,2
+Wipes,Macomb County,Jan-20,23
+Wipes,Macomb County,Feb-20,6
+Wipes,Macomb County,Mar-20,1
+Wipes,Genesee County,Jan-20,34
+Wipes,Genesee County,Feb-20,9
+Wipes,Genesee County,Mar-20,2
+Wipes,Washtenaw County,Jan-20,10
+Wipes,Washtenaw County,Feb-20,3
+Wipes,Washtenaw County,Mar-20,1
+Wipes,Kent County,Jan-20,14
+Wipes,Kent County,Feb-20,4
+Wipes,Kent County,Mar-20,1
+Wipes,Saginaw County,Jan-20,23
+Wipes,Saginaw County,Feb-20,5
+Wipes,Saginaw County,Mar-20,1
+Wipes,Ingham County,Jan-20,26
+Wipes,Ingham County,Feb-20,6
+Wipes,Ingham County,Mar-20,1
+Wipes,Livingston County,Jan-20,14
+Wipes,Livingston County,Feb-20,4
+Wipes,Livingston County,Mar-20,1
+Wipes,St. Clair County,Jan-20,14
+Wipes,St. Clair County,Feb-20,4
+Wipes,St. Clair County,Mar-20,1
+Wipes,Monroe County,Jan-20,29
+Wipes,Monroe County,Feb-20,7
+Wipes,Monroe County,Mar-20,1
+Alcohol-based hand rub,Wayne County,Jan-20,4
+Alcohol-based hand rub,Wayne County,Feb-20,1
+Alcohol-based hand rub,Oakland County,Mar-20,42
+Alcohol-based hand rub,Oakland County,Jan-20,10
+Alcohol-based hand rub,Oakland County,Feb-20,2
+Alcohol-based hand rub,Macomb County,Mar-20,15
+Alcohol-based hand rub,Macomb County,Jan-20,4
+Alcohol-based hand rub,Macomb County,Feb-20,1
+Alcohol-based hand rub,Genesee County,Mar-20,14
+Alcohol-based hand rub,Genesee County,Jan-20,3
+Alcohol-based hand rub,Genesee County,Feb-20,1
+Alcohol-based hand rub,Washtenaw County,Mar-20,46
+Alcohol-based hand rub,Washtenaw County,Jan-20,11
+Alcohol-based hand rub,Washtenaw County,Feb-20,2
+Alcohol-based hand rub,Kent County,Mar-20,16
+Alcohol-based hand rub,Kent County,Jan-20,4
+Alcohol-based hand rub,Kent County,Feb-20,1
+Alcohol-based hand rub,Saginaw County,Mar-20,17
+Alcohol-based hand rub,Saginaw County,Jan-20,4
+Alcohol-based hand rub,Saginaw County,Feb-20,1
+Alcohol-based hand rub,Ingham County,Mar-20,24
+Alcohol-based hand rub,Ingham County,Jan-20,6
+Alcohol-based hand rub,Ingham County,Feb-20,1
+Alcohol-based hand rub,Livingston County,Mar-20,9
+Alcohol-based hand rub,Livingston County,Jan-20,2
+Alcohol-based hand rub,St. Clair County,Feb-20,5
+Alcohol-based hand rub,St. Clair County,Mar-20,1
+Alcohol-based hand rub,Monroe County,Jan-20,16
+Alcohol-based hand rub,Monroe County,Feb-20,4
+Alcohol-based hand rub,Monroe County,Mar-20,1
+"Chlorine, HTH 70%",Wayne County,Jan-20,43
+"Chlorine, HTH 70%",Wayne County,Feb-20,11
+"Chlorine, HTH 70%",Wayne County,Mar-20,2
+"Chlorine, HTH 70%",Oakland County,Jan-20,17
+"Chlorine, HTH 70%",Oakland County,Feb-20,4
+"Chlorine, HTH 70%",Oakland County,Mar-20,1
+"Chlorine, HTH 70%",Macomb County,Jan-20,6
+"Chlorine, HTH 70%",Macomb County,Feb-20,1
+"Chlorine, HTH 70%",Genesee County,Mar-20,4
+"Chlorine, HTH 70%",Genesee County,Jan-20,1
+"Chlorine, HTH 70%",Washtenaw County,Feb-20,21
+"Chlorine, HTH 70%",Washtenaw County,Mar-20,5
+"Chlorine, HTH 70%",Washtenaw County,Jan-20,1
+"Chlorine, HTH 70%",Kent County,Feb-20,46
+"Chlorine, HTH 70%",Kent County,Mar-20,11
+"Chlorine, HTH 70%",Kent County,Jan-20,2
+"Chlorine, HTH 70%",Saginaw County,Feb-20,6
+"Chlorine, HTH 70%",Saginaw County,Mar-20,2
+"Chlorine, HTH 70%",Ingham County,Jan-20,38
+"Chlorine, HTH 70%",Ingham County,Feb-20,10
+"Chlorine, HTH 70%",Ingham County,Mar-20,2
+"Chlorine, HTH 70%",Livingston County,Jan-20,16
+"Chlorine, HTH 70%",Livingston County,Feb-20,5
+"Chlorine, HTH 70%",Livingston County,Mar-20,1
+"Chlorine, HTH 70%",St. Clair County,Jan-20,27
+"Chlorine, HTH 70%",St. Clair County,Feb-20,7
+"Chlorine, HTH 70%",St. Clair County,Mar-20,1
+"Chlorine, HTH 70%",Monroe County,Jan-20,9
+"Chlorine, HTH 70%",Monroe County,Feb-20,2
+Safety box,Wayne County,Mar-20,28
+Safety box,Wayne County,Jan-20,7
+Safety box,Wayne County,Feb-20,1
+Safety box,Oakland County,Mar-20,35
+Safety box,Oakland County,Jan-20,9
+Safety box,Oakland County,Feb-20,2
+Safety box,Macomb County,Mar-20,4
+Safety box,Macomb County,Jan-20,1
+Safety box,Genesee County,Feb-20,38
+Safety box,Genesee County,Mar-20,10
+Safety box,Genesee County,Jan-20,2
+Safety box,Washtenaw County,Feb-20,19
+Safety box,Washtenaw County,Mar-20,5
+Safety box,Washtenaw County,Jan-20,1
+Safety box,Kent County,Feb-20,21
+Safety box,Kent County,Mar-20,5
+Safety box,Kent County,Jan-20,1
+Safety box,Saginaw County,Feb-20,19
+Safety box,Saginaw County,Mar-20,4
+Safety box,Saginaw County,Jan-20,1
+Safety box,Ingham County,Feb-20,34
+Safety box,Ingham County,Mar-20,9
+Safety box,Ingham County,Jan-20,2
+Safety box,Livingston County,Feb-20,10
+Safety box,Livingston County,Mar-20,3
+Safety box,Livingston County,Jan-20,1
+Safety box,St. Clair County,Feb-20,39
+Safety box,St. Clair County,Mar-20,10
+Safety box,St. Clair County,Jan-20,2
+Safety box,Monroe County,Feb-20,20
+Safety box,Monroe County,Mar-20,5
+Safety box,Monroe County,Jan-20,1
+Non contact infrared Thermometer,Wayne County,Feb-20,6
+Non contact infrared Thermometer,Wayne County,Mar-20,2
+Non contact infrared Thermometer,Oakland County,Jan-20,29
+Non contact infrared Thermometer,Oakland County,Feb-20,7
+Non contact infrared Thermometer,Oakland County,Mar-20,1
+Non contact infrared Thermometer,Macomb County,Jan-20,39
+Non contact infrared Thermometer,Macomb County,Feb-20,10
+Non contact infrared Thermometer,Macomb County,Mar-20,2
+Non contact infrared Thermometer,Genesee County,Jan-20,19
+Non contact infrared Thermometer,Genesee County,Feb-20,5
+Non contact infrared Thermometer,Genesee County,Mar-20,1
+Non contact infrared Thermometer,Washtenaw County,Jan-20,21
+Non contact infrared Thermometer,Washtenaw County,Feb-20,6
+Non contact infrared Thermometer,Washtenaw County,Mar-20,1
+Non contact infrared Thermometer,Kent County,Jan-20,10
+Non contact infrared Thermometer,Kent County,Feb-20,3
+Non contact infrared Thermometer,Kent County,Mar-20,1
+Non contact infrared Thermometer,Saginaw County,Jan-20,14
+Non contact infrared Thermometer,Saginaw County,Feb-20,3
+Non contact infrared Thermometer,Saginaw County,Mar-20,1
+Non contact infrared Thermometer,Ingham County,Jan-20,28
+Non contact infrared Thermometer,Ingham County,Feb-20,8
+Non contact infrared Thermometer,Ingham County,Mar-20,1
+Non contact infrared Thermometer,Livingston County,Jan-20,28
+Non contact infrared Thermometer,Livingston County,Feb-20,7
+Non contact infrared Thermometer,Livingston County,Mar-20,2
+Non contact infrared Thermometer,St. Clair County,Jan-20,2
+Non contact infrared Thermometer,St. Clair County,Feb-20,1
+Non contact infrared Thermometer,Monroe County,Mar-20,10
+Non contact infrared Thermometer,Monroe County,Jan-20,2
+Goggles protective,Wayne County,Feb-20,34
+Goggles protective,Wayne County,Mar-20,8
+Goggles protective,Wayne County,Jan-20,2
+Goggles protective,Oakland County,Feb-20,40
+Goggles protective,Oakland County,Mar-20,10
+Goggles protective,Oakland County,Jan-20,2
+Goggles protective,Macomb County,Feb-20,32
+Goggles protective,Macomb County,Mar-20,8
+Goggles protective,Macomb County,Jan-20,2
+Goggles protective,Genesee County,Feb-20,42
+Goggles protective,Genesee County,Mar-20,10
+Goggles protective,Genesee County,Jan-20,2
+Goggles protective,Washtenaw County,Feb-20,14
+Goggles protective,Washtenaw County,Mar-20,4
+Goggles protective,Washtenaw County,Jan-20,1
+Goggles protective,Kent County,Feb-20,37
+Goggles protective,Kent County,Mar-20,9
+Goggles protective,Kent County,Jan-20,2
+Goggles protective,Saginaw County,Feb-20,36
+Goggles protective,Saginaw County,Mar-20,8
+Goggles protective,Saginaw County,Jan-20,2
+Goggles protective,Ingham County,Feb-20,34
+Goggles protective,Ingham County,Mar-20,8
+Goggles protective,Ingham County,Jan-20,2
+Goggles protective,Livingston County,Feb-20,44
+Goggles protective,Livingston County,Mar-20,11
+Goggles protective,Livingston County,Jan-20,2
+Goggles protective,St. Clair County,Feb-20,14
+Goggles protective,St. Clair County,Mar-20,4
+Goggles protective,St. Clair County,Jan-20,1
+Goggles protective,Monroe County,Feb-20,30
+Goggles protective,Monroe County,Mar-20,7
+Goggles protective,Monroe County,Jan-20,2
+Disposable foot covers,Wayne County,Feb-20,6
+Disposable foot covers,Wayne County,Mar-20,2
+Disposable foot covers,Oakland County,Jan-20,33
+Disposable foot covers,Oakland County,Feb-20,9
+Disposable foot covers,Oakland County,Mar-20,2
+Disposable foot covers,Macomb County,Jan-20,42
+Disposable foot covers,Macomb County,Feb-20,10
+Disposable foot covers,Macomb County,Mar-20,2
+Disposable foot covers,Genesee County,Jan-20,25
+Disposable foot covers,Genesee County,Feb-20,6
+Disposable foot covers,Genesee County,Mar-20,1
+Disposable foot covers,Washtenaw County,Jan-20,15
+Disposable foot covers,Washtenaw County,Feb-20,4
+Disposable foot covers,Washtenaw County,Mar-20,1
+Disposable foot covers,Kent County,Jan-20,21
+Disposable foot covers,Kent County,Feb-20,6
+Disposable foot covers,Kent County,Mar-20,1
+Disposable foot covers,Saginaw County,Jan-20,26
+Disposable foot covers,Saginaw County,Feb-20,7
+Disposable foot covers,Saginaw County,Mar-20,1
+Disposable foot covers,Ingham County,Jan-20,32
+Disposable foot covers,Ingham County,Feb-20,7
+Disposable foot covers,Ingham County,Mar-20,2
+Disposable foot covers,Livingston County,Jan-20,17
+Disposable foot covers,Livingston County,Feb-20,5
+Disposable foot covers,Livingston County,Mar-20,1
+Disposable foot covers,St. Clair County,Jan-20,26
+Disposable foot covers,St. Clair County,Feb-20,6
+Disposable foot covers,St. Clair County,Mar-20,1
+Disposable foot covers,Monroe County,Jan-20,11
+Disposable foot covers,Monroe County,Feb-20,2
+M4 viral media,Wayne County,Mar-20,39
+M4 viral media,Wayne County,Jan-20,10
+M4 viral media,Wayne County,Feb-20,2
+M4 viral media,Oakland County,Mar-20,34
+M4 viral media,Oakland County,Jan-20,9
+M4 viral media,Oakland County,Feb-20,2
+M4 viral media,Macomb County,Mar-20,29
+M4 viral media,Macomb County,Jan-20,7
+M4 viral media,Macomb County,Feb-20,1
+M4 viral media,Genesee County,Mar-20,12
+M4 viral media,Genesee County,Jan-20,2
+M4 viral media,Washtenaw County,Feb-20,14
+M4 viral media,Washtenaw County,Mar-20,4
+M4 viral media,Washtenaw County,Jan-20,1
+M4 viral media,Kent County,Feb-20,19
+M4 viral media,Kent County,Mar-20,5
+M4 viral media,Kent County,Jan-20,1
+M4 viral media,Saginaw County,Feb-20,30
+M4 viral media,Saginaw County,Mar-20,8
+M4 viral media,Saginaw County,Jan-20,2
+M4 viral media,Ingham County,Feb-20,15
+M4 viral media,Ingham County,Mar-20,4
+M4 viral media,Ingham County,Jan-20,1
+M4 viral media,Livingston County,Feb-20,35
+M4 viral media,Livingston County,Mar-20,8
+M4 viral media,Livingston County,Jan-20,2
+M4 viral media,St. Clair County,Feb-20,32
+M4 viral media,St. Clair County,Mar-20,7
+M4 viral media,St. Clair County,Jan-20,2
+M4 viral media,Monroe County,Feb-20,5
+M4 viral media,Monroe County,Mar-20,1
+Triple packaging boxes,Wayne County,Jan-20,34
+Triple packaging boxes,Wayne County,Feb-20,9
+Triple packaging boxes,Wayne County,Mar-20,2
+Triple packaging boxes,Oakland County,Jan-20,20
+Triple packaging boxes,Oakland County,Feb-20,5
+Triple packaging boxes,Oakland County,Mar-20,1
+Triple packaging boxes,Macomb County,Jan-20,4
+Triple packaging boxes,Macomb County,Feb-20,1
+Triple packaging boxes,Genesee County,Mar-20,15
+Triple packaging boxes,Genesee County,Jan-20,4
+Triple packaging boxes,Genesee County,Feb-20,1
+Triple packaging boxes,Washtenaw County,Mar-20,15
+Triple packaging boxes,Washtenaw County,Jan-20,4
+Triple packaging boxes,Washtenaw County,Feb-20,1
+Triple packaging boxes,Kent County,Mar-20,10
+Triple packaging boxes,Kent County,Jan-20,3
+Triple packaging boxes,Kent County,Feb-20,1
+Triple packaging boxes,Saginaw County,Mar-20,2
+Triple packaging boxes,Saginaw County,Jan-20,1
+Triple packaging boxes,Ingham County,Feb-20,40
+Triple packaging boxes,Ingham County,Mar-20,10
+Triple packaging boxes,Ingham County,Jan-20,2
+Triple packaging boxes,Livingston County,Feb-20,31
+Triple packaging boxes,Livingston County,Mar-20,8
+Triple packaging boxes,Livingston County,Jan-20,2
+Triple packaging boxes,St. Clair County,Feb-20,40
+Triple packaging boxes,St. Clair County,Mar-20,9
+Triple packaging boxes,St. Clair County,Jan-20,2
+Triple packaging boxes,Monroe County,Feb-20,33
+Triple packaging boxes,Monroe County,Mar-20,8
+Triple packaging boxes,Monroe County,Jan-20,1
+Liquid soap,Wayne County,Feb-20,14
+Liquid soap,Wayne County,Mar-20,4
+Liquid soap,Wayne County,Jan-20,1
+Liquid soap,Oakland County,Feb-20,21
+Liquid soap,Oakland County,Mar-20,6
+Liquid soap,Oakland County,Jan-20,1
+Liquid soap,Macomb County,Feb-20,9
+Liquid soap,Macomb County,Mar-20,3
+Liquid soap,Macomb County,Jan-20,1
+Liquid soap,Genesee County,Feb-20,33
+Liquid soap,Genesee County,Mar-20,9
+Liquid soap,Genesee County,Jan-20,2
+Liquid soap,Washtenaw County,Feb-20,32
+Liquid soap,Washtenaw County,Mar-20,9
+Liquid soap,Washtenaw County,Jan-20,2
+Liquid soap,Kent County,Feb-20,38
+Liquid soap,Kent County,Mar-20,10
+Liquid soap,Kent County,Jan-20,2
+Liquid soap,Saginaw County,Feb-20,47
+Liquid soap,Saginaw County,Mar-20,12
+Liquid soap,Saginaw County,Jan-20,2
+Liquid soap,Ingham County,Feb-20,34
+Liquid soap,Ingham County,Mar-20,10
+Liquid soap,Ingham County,Jan-20,2
+Liquid soap,Livingston County,Feb-20,26
+Liquid soap,Livingston County,Mar-20,7
+Liquid soap,Livingston County,Jan-20,1
+Liquid soap,St. Clair County,Feb-20,31
+Liquid soap,St. Clair County,Mar-20,8
+Liquid soap,St. Clair County,Jan-20,2
+Liquid soap,Monroe County,Feb-20,18
+Liquid soap,Monroe County,Mar-20,5
+Liquid soap,Monroe County,Jan-20,1
+Mask medical,Wayne County,Feb-20,26
+Mask medical,Wayne County,Mar-20,7
+Mask medical,Wayne County,Jan-20,2
+Mask medical,Oakland County,Feb-20,11
+Mask medical,Oakland County,Mar-20,4
+Mask medical,Oakland County,Jan-20,1
+Mask medical,Macomb County,Feb-20,32
+Mask medical,Macomb County,Mar-20,8
+Mask medical,Macomb County,Jan-20,2
+Mask medical,Genesee County,Feb-20,35
+Mask medical,Genesee County,Mar-20,9
+Mask medical,Genesee County,Jan-20,2
+Mask medical,Washtenaw County,Feb-20,14
+Mask medical,Washtenaw County,Mar-20,4
+Mask medical,Washtenaw County,Jan-20,1
+Mask medical,Kent County,Feb-20,36
+Mask medical,Kent County,Mar-20,9
+Mask medical,Kent County,Jan-20,2
+Mask medical,Saginaw County,Feb-20,14
+Mask medical,Saginaw County,Mar-20,3
+Mask medical,Saginaw County,Jan-20,1
+Mask medical,Ingham County,Feb-20,11
+Mask medical,Ingham County,Mar-20,3
+Mask medical,Ingham County,Jan-20,1
+Mask medical,Livingston County,Feb-20,35
+Mask medical,Livingston County,Mar-20,9
+Mask medical,Livingston County,Jan-20,2
+Mask medical,St. Clair County,Feb-20,1
+Mask medical,Monroe County,Mar-20,23
+Mask medical,Monroe County,Jan-20,6
+Mask medical,Monroe County,Feb-20,1
+Scrubs pants,Wayne County,Mar-20,17
+Scrubs pants,Wayne County,Jan-20,4
+Scrubs pants,Wayne County,Feb-20,1
+Scrubs pants,Oakland County,Mar-20,4
+Scrubs pants,Oakland County,Jan-20,1
+Scrubs pants,Macomb County,Feb-20,8
+Scrubs pants,Macomb County,Mar-20,2
+Scrubs pants,Genesee County,Jan-20,30
+Scrubs pants,Genesee County,Feb-20,8
+Scrubs pants,Genesee County,Mar-20,1
+Scrubs pants,Washtenaw County,Jan-20,16
+Scrubs pants,Washtenaw County,Feb-20,5
+Scrubs pants,Washtenaw County,Mar-20,1
+Scrubs pants,Kent County,Jan-20,26
+Scrubs pants,Kent County,Feb-20,6
+Scrubs pants,Kent County,Mar-20,1
+Scrubs pants,Saginaw County,Jan-20,16
+Scrubs pants,Saginaw County,Feb-20,5
+Scrubs pants,Saginaw County,Mar-20,1
+Scrubs pants,Ingham County,Jan-20,17
+Scrubs pants,Ingham County,Feb-20,4
+Scrubs pants,Ingham County,Mar-20,1
+Scrubs pants,Livingston County,Jan-20,21
+Scrubs pants,Livingston County,Feb-20,5
+Scrubs pants,Livingston County,Mar-20,1
+Scrubs pants,St. Clair County,Jan-20,22
+Scrubs pants,St. Clair County,Feb-20,5
+Scrubs pants,St. Clair County,Mar-20,1
+Scrubs pants,Monroe County,Jan-20,18
+Scrubs pants,Monroe County,Feb-20,5
+Scrubs pants,Monroe County,Mar-20,1
+Face shield,Wayne County,Jan-20,23
+Face shield,Wayne County,Feb-20,6
+Face shield,Wayne County,Mar-20,1
+Face shield,Oakland County,Jan-20,5
+Face shield,Oakland County,Feb-20,2
+Face shield,Macomb County,Mar-20,23
+Face shield,Macomb County,Jan-20,6
+Face shield,Macomb County,Feb-20,1
+Face shield,Genesee County,Mar-20,34
+Face shield,Genesee County,Jan-20,9
+Face shield,Genesee County,Feb-20,2
+Face shield,Washtenaw County,Mar-20,37
+Face shield,Washtenaw County,Jan-20,10
+Face shield,Washtenaw County,Feb-20,2
+Face shield,Kent County,Mar-20,32
+Face shield,Kent County,Jan-20,8
+Face shield,Kent County,Feb-20,2
+Face shield,Saginaw County,Mar-20,11
+Face shield,Saginaw County,Jan-20,2
+Face shield,Ingham County,Feb-20,38
+Face shield,Ingham County,Mar-20,9
+Face shield,Ingham County,Jan-20,2
+Face shield,Livingston County,Feb-20,27
+Face shield,Livingston County,Mar-20,7
+Face shield,Livingston County,Jan-20,1
+Face shield,St. Clair County,Feb-20,40
+Face shield,St. Clair County,Mar-20,10
+Face shield,St. Clair County,Jan-20,2
+Face shield,Monroe County,Feb-20,39
+Face shield,Monroe County,Mar-20,10
+Face shield,Monroe County,Jan-20,2
+Gloves,Wayne County,Feb-20,30
+Gloves,Wayne County,Mar-20,7
+Gloves,Wayne County,Jan-20,2
+Gloves,Oakland County,Feb-20,27
+Gloves,Oakland County,Mar-20,8
+Gloves,Oakland County,Jan-20,2
+Gloves,Macomb County,Feb-20,6
+Gloves,Macomb County,Mar-20,1
+Gloves,Genesee County,Jan-20,19
+Gloves,Genesee County,Feb-20,5
+Gloves,Genesee County,Mar-20,1
+Gloves,Washtenaw County,Jan-20,43
+Gloves,Washtenaw County,Feb-20,11
+Gloves,Washtenaw County,Mar-20,2
+Gloves,Kent County,Jan-20,28
+Gloves,Kent County,Feb-20,7
+Gloves,Kent County,Mar-20,1
+Gloves,Saginaw County,Jan-20,13
+Gloves,Saginaw County,Feb-20,3
+Gloves,Saginaw County,Mar-20,1
+Gloves,Ingham County,Jan-20,19
+Gloves,Ingham County,Feb-20,5
+Gloves,Ingham County,Mar-20,1
+Gloves,Livingston County,Jan-20,4
+Gloves,Livingston County,Feb-20,1
+Gloves,St. Clair County,Mar-20,34
+Gloves,St. Clair County,Jan-20,9
+Gloves,St. Clair County,Feb-20,2
+Gloves,Monroe County,Mar-20,21
+Gloves,Monroe County,Jan-20,5
+Gloves,Monroe County,Feb-20,1
+Nasal testing swabs,Wayne County,Mar-20,22
+Nasal testing swabs,Wayne County,Jan-20,5
+Nasal testing swabs,Wayne County,Feb-20,1
+Nasal testing swabs,Oakland County,Mar-20,24
+Nasal testing swabs,Oakland County,Jan-20,6
+Nasal testing swabs,Oakland County,Feb-20,1
+Nasal testing swabs,Macomb County,Mar-20,42
+Nasal testing swabs,Macomb County,Jan-20,11
+Nasal testing swabs,Macomb County,Feb-20,2
+Nasal testing swabs,Genesee County,Mar-20,26
+Nasal testing swabs,Genesee County,Jan-20,8
+Nasal testing swabs,Genesee County,Feb-20,1
+Nasal testing swabs,Washtenaw County,Mar-20,43
+Nasal testing swabs,Washtenaw County,Jan-20,11
+Nasal testing swabs,Washtenaw County,Feb-20,2
+Nasal testing swabs,Kent County,Mar-20,40
+Nasal testing swabs,Kent County,Jan-20,10
+Nasal testing swabs,Kent County,Feb-20,2
+Nasal testing swabs,Saginaw County,Mar-20,11
+Nasal testing swabs,Saginaw County,Jan-20,3
+Nasal testing swabs,Saginaw County,Feb-20,1
+Nasal testing swabs,Ingham County,Mar-20,19
+Nasal testing swabs,Ingham County,Jan-20,5
+Nasal testing swabs,Ingham County,Feb-20,1
+Nasal testing swabs,Livingston County,Mar-20,44
+Nasal testing swabs,Livingston County,Jan-20,10
+Nasal testing swabs,Livingston County,Feb-20,2
+Nasal testing swabs,St. Clair County,Mar-20,22
+Nasal testing swabs,St. Clair County,Jan-20,5
+Nasal testing swabs,St. Clair County,Feb-20,1
+Nasal testing swabs,Monroe County,Mar-20,21
+Nasal testing swabs,Monroe County,Jan-20,6
+Nasal testing swabs,Monroe County,Feb-20,1
+InvasiveVentilators,Wayne County,Mar-20,39
+InvasiveVentilators,Wayne County,Jan-20,10
+InvasiveVentilators,Wayne County,Feb-20,2
+InvasiveVentilators,Oakland County,Mar-20,25
+InvasiveVentilators,Oakland County,Jan-20,6
+InvasiveVentilators,Oakland County,Feb-20,1
+InvasiveVentilators,Macomb County,Mar-20,26
+InvasiveVentilators,Macomb County,Jan-20,7
+InvasiveVentilators,Macomb County,Feb-20,1
+InvasiveVentilators,Genesee County,Mar-20,33
+InvasiveVentilators,Genesee County,Jan-20,9
+InvasiveVentilators,Genesee County,Feb-20,2
+InvasiveVentilators,Washtenaw County,Mar-20,46
+InvasiveVentilators,Washtenaw County,Jan-20,11
+InvasiveVentilators,Washtenaw County,Feb-20,2
+InvasiveVentilators,Kent County,Mar-20,9
+InvasiveVentilators,Kent County,Jan-20,2
+InvasiveVentilators,Kent County,Feb-20,1
+InvasiveVentilators,Saginaw County,Mar-20,22
+InvasiveVentilators,Saginaw County,Jan-20,6
+InvasiveVentilators,Saginaw County,Feb-20,1
+InvasiveVentilators,Ingham County,Mar-20,43
+InvasiveVentilators,Ingham County,Jan-20,12
+InvasiveVentilators,Ingham County,Feb-20,2
+InvasiveVentilators,Livingston County,Mar-20,14
+InvasiveVentilators,Livingston County,Jan-20,3
+InvasiveVentilators,Livingston County,Feb-20,1
+InvasiveVentilators,St. Clair County,Mar-20,40
+InvasiveVentilators,St. Clair County,Jan-20,10
+InvasiveVentilators,St. Clair County,Feb-20,2
+InvasiveVentilators,Monroe County,Mar-20,13
+InvasiveVentilators,Monroe County,Jan-20,3
+InvasiveVentilators,Monroe County,Feb-20,1
+Non Invasive Ventilators,Wayne County,Mar-20,24
+Non Invasive Ventilators,Wayne County,Jan-20,6
+Non Invasive Ventilators,Wayne County,Feb-20,1
+Non Invasive Ventilators,Oakland County,Mar-20,26
+Non Invasive Ventilators,Oakland County,Jan-20,7
+Non Invasive Ventilators,Oakland County,Feb-20,1
+Non Invasive Ventilators,Macomb County,Mar-20,12
+Non Invasive Ventilators,Macomb County,Jan-20,4
+Non Invasive Ventilators,Macomb County,Feb-20,1
+Non Invasive Ventilators,Genesee County,Mar-20,36
+Non Invasive Ventilators,Genesee County,Jan-20,10
+Non Invasive Ventilators,Genesee County,Feb-20,2
+Non Invasive Ventilators,Washtenaw County,Mar-20,28
+Non Invasive Ventilators,Washtenaw County,Jan-20,6
+Non Invasive Ventilators,Washtenaw County,Feb-20,1
+Non Invasive Ventilators,Kent County,Mar-20,40
+Non Invasive Ventilators,Kent County,Jan-20,10
+Non Invasive Ventilators,Kent County,Feb-20,2
+Non Invasive Ventilators,Saginaw County,Mar-20,23
+Non Invasive Ventilators,Saginaw County,Jan-20,6
+Non Invasive Ventilators,Saginaw County,Feb-20,1
+Non Invasive Ventilators,Ingham County,Mar-20,4
+Non Invasive Ventilators,Ingham County,Jan-20,1
+Non Invasive Ventilators,Livingston County,Feb-20,10
+Non Invasive Ventilators,Livingston County,Mar-20,2
+Non Invasive Ventilators,St. Clair County,Jan-20,32
+Non Invasive Ventilators,St. Clair County,Feb-20,9
+Non Invasive Ventilators,St. Clair County,Mar-20,2
+Non Invasive Ventilators,Monroe County,Jan-20,36
+Non Invasive Ventilators,Monroe County,Feb-20,9
+Non Invasive Ventilators,Monroe County,Mar-20,2
+BioHazard Liner bags 2gallon,Wayne County,Jan-20,25
+BioHazard Liner bags 2gallon,Wayne County,Feb-20,6
+BioHazard Liner bags 2gallon,Wayne County,Mar-20,1
+BioHazard Liner bags 2gallon,Oakland County,Jan-20,1
+BioHazard Liner bags 2gallon,Macomb County,Feb-20,10
+BioHazard Liner bags 2gallon,Macomb County,Mar-20,3
+BioHazard Liner bags 2gallon,Genesee County,Jan-20,31
+BioHazard Liner bags 2gallon,Genesee County,Feb-20,7
+BioHazard Liner bags 2gallon,Genesee County,Mar-20,1
+BioHazard Liner bags 2gallon,Washtenaw County,Jan-20,4
+BioHazard Liner bags 2gallon,Washtenaw County,Feb-20,2
+BioHazard Liner bags 2gallon,Kent County,Mar-20,43
+BioHazard Liner bags 2gallon,Kent County,Jan-20,11
+BioHazard Liner bags 2gallon,Kent County,Feb-20,2
+BioHazard Liner bags 2gallon,Saginaw County,Mar-20,4
+BioHazard Liner bags 2gallon,Saginaw County,Jan-20,1
+BioHazard Liner bags 2gallon,Ingham County,Feb-20,39
+BioHazard Liner bags 2gallon,Ingham County,Mar-20,10
+BioHazard Liner bags 2gallon,Ingham County,Jan-20,2
+BioHazard Liner bags 2gallon,Livingston County,Feb-20,2
+BioHazard Liner bags 2gallon,Livingston County,Mar-20,1
+BioHazard Liner bags 2gallon,St. Clair County,Jan-20,38
+BioHazard Liner bags 2gallon,St. Clair County,Feb-20,9
+BioHazard Liner bags 2gallon,St. Clair County,Mar-20,2
+BioHazard Liner bags 2gallon,Monroe County,Jan-20,32
+BioHazard Liner bags 2gallon,Monroe County,Feb-20,7
+BioHazard Liner bags 2gallon,Monroe County,Mar-20,2
+BioHazard Liner bags 44gallon,Wayne County,Jan-20,23
+BioHazard Liner bags 44gallon,Wayne County,Feb-20,7
+BioHazard Liner bags 44gallon,Wayne County,Mar-20,1
+BioHazard Liner bags 44gallon,Oakland County,Jan-20,11
+BioHazard Liner bags 44gallon,Oakland County,Feb-20,3
+BioHazard Liner bags 44gallon,Oakland County,Mar-20,1
+BioHazard Liner bags 44gallon,Macomb County,Jan-20,27
+BioHazard Liner bags 44gallon,Macomb County,Feb-20,7
+BioHazard Liner bags 44gallon,Macomb County,Mar-20,1
+BioHazard Liner bags 44gallon,Genesee County,Jan-20,7
+BioHazard Liner bags 44gallon,Genesee County,Feb-20,2
+BioHazard Liner bags 44gallon,Washtenaw County,Mar-20,24
+BioHazard Liner bags 44gallon,Washtenaw County,Jan-20,6
+BioHazard Liner bags 44gallon,Washtenaw County,Feb-20,1
+BioHazard Liner bags 44gallon,Kent County,Mar-20,28
+BioHazard Liner bags 44gallon,Kent County,Jan-20,7
+BioHazard Liner bags 44gallon,Kent County,Feb-20,1
+BioHazard Liner bags 44gallon,Saginaw County,Mar-20,41
+BioHazard Liner bags 44gallon,Saginaw County,Jan-20,10
+BioHazard Liner bags 44gallon,Saginaw County,Feb-20,2
+BioHazard Liner bags 44gallon,Ingham County,Mar-20,15
+BioHazard Liner bags 44gallon,Ingham County,Jan-20,4
+BioHazard Liner bags 44gallon,Ingham County,Feb-20,1
+BioHazard Liner bags 44gallon,Livingston County,Mar-20,14
+BioHazard Liner bags 44gallon,Livingston County,Jan-20,4
+BioHazard Liner bags 44gallon,Livingston County,Feb-20,1
+BioHazard Liner bags 44gallon,St. Clair County,Mar-20,21
+BioHazard Liner bags 44gallon,St. Clair County,Jan-20,6
+BioHazard Liner bags 44gallon,St. Clair County,Feb-20,1
+BioHazard Liner bags 44gallon,Monroe County,Mar-20,30
+BioHazard Liner bags 44gallon,Monroe County,Jan-20,7
+BioHazard Liner bags 44gallon,Monroe County,Feb-20,1
+Blue Solied Linen bags,Wayne County,Mar-20,36
+Blue Solied Linen bags,Wayne County,Jan-20,9
+Blue Solied Linen bags,Wayne County,Feb-20,2
+Blue Solied Linen bags,Oakland County,Mar-20,25
+Blue Solied Linen bags,Oakland County,Jan-20,7
+Blue Solied Linen bags,Oakland County,Feb-20,1
+Blue Solied Linen bags,Macomb County,Mar-20,10
+Blue Solied Linen bags,Macomb County,Jan-20,2
+Blue Solied Linen bags,Genesee County,Feb-20,22
+Blue Solied Linen bags,Genesee County,Mar-20,6
+Blue Solied Linen bags,Genesee County,Jan-20,1
+Blue Solied Linen bags,Washtenaw County,Feb-20,20
+Blue Solied Linen bags,Washtenaw County,Mar-20,5
+Blue Solied Linen bags,Washtenaw County,Jan-20,1
+Blue Solied Linen bags,Kent County,Feb-20,16
+Blue Solied Linen bags,Kent County,Mar-20,4
+Blue Solied Linen bags,Kent County,Jan-20,1
+Blue Solied Linen bags,Saginaw County,Feb-20,36
+Blue Solied Linen bags,Saginaw County,Mar-20,9
+Blue Solied Linen bags,Saginaw County,Jan-20,2
+Blue Solied Linen bags,Ingham County,Feb-20,23
+Blue Solied Linen bags,Ingham County,Mar-20,6
+Blue Solied Linen bags,Ingham County,Jan-20,1
+Blue Solied Linen bags,Livingston County,Feb-20,38
+Blue Solied Linen bags,Livingston County,Mar-20,10
+Blue Solied Linen bags,Livingston County,Jan-20,2
+Blue Solied Linen bags,St. Clair County,Feb-20,41
+Blue Solied Linen bags,St. Clair County,Mar-20,10
+Blue Solied Linen bags,St. Clair County,Jan-20,2
+Blue Solied Linen bags,Monroe County,Feb-20,34
+Blue Solied Linen bags,Monroe County,Mar-20,9
+Blue Solied Linen bags,Monroe County,Jan-20,2
+Syringes,Wayne County,Feb-20,24
+Syringes,Wayne County,Mar-20,7
+Syringes,Wayne County,Jan-20,1
+Syringes,Oakland County,Feb-20,10
+Syringes,Oakland County,Mar-20,3
+Syringes,Macomb County,Jan-20,29
+Syringes,Macomb County,Feb-20,7
+Syringes,Macomb County,Mar-20,1
+Syringes,Genesee County,Jan-20,35
+Syringes,Genesee County,Feb-20,8
+Syringes,Genesee County,Mar-20,2
+Syringes,Washtenaw County,Jan-20,33
+Syringes,Washtenaw County,Feb-20,8
+Syringes,Washtenaw County,Mar-20,2
+Syringes,Kent County,Jan-20,26
+Syringes,Kent County,Feb-20,6
+Syringes,Kent County,Mar-20,1
+Syringes,Saginaw County,Jan-20,24
+Syringes,Saginaw County,Feb-20,6
+Syringes,Saginaw County,Mar-20,1
+Syringes,Ingham County,Jan-20,22
+Syringes,Ingham County,Feb-20,6
+Syringes,Ingham County,Mar-20,1
+Syringes,Livingston County,Jan-20,42
+Syringes,Livingston County,Feb-20,11
+Syringes,Livingston County,Mar-20,2
+Syringes,St. Clair County,Jan-20,20
+Syringes,St. Clair County,Feb-20,4
+Syringes,St. Clair County,Mar-20,1
+Syringes,Monroe County,Jan-20,35
+Syringes,Monroe County,Feb-20,9
+Syringes,Monroe County,Mar-20,2
+IV Catheters,Wayne County,Jan-20,38
+IV Catheters,Wayne County,Feb-20,9
+IV Catheters,Wayne County,Mar-20,2
+IV Catheters,Oakland County,Jan-20,31
+IV Catheters,Oakland County,Feb-20,7
+IV Catheters,Oakland County,Mar-20,2
+IV Catheters,Macomb County,Jan-20,44
+IV Catheters,Macomb County,Feb-20,11
+IV Catheters,Macomb County,Mar-20,2
+IV Catheters,Genesee County,Jan-20,44
+IV Catheters,Genesee County,Feb-20,11
+IV Catheters,Genesee County,Mar-20,2
+IV Catheters,Washtenaw County,Jan-20,44
+IV Catheters,Washtenaw County,Feb-20,11
+IV Catheters,Washtenaw County,Mar-20,2
+IV Catheters,Kent County,Jan-20,27
+IV Catheters,Kent County,Feb-20,7
+IV Catheters,Kent County,Mar-20,1
+IV Catheters,Saginaw County,Jan-20,24
+IV Catheters,Saginaw County,Feb-20,7
+IV Catheters,Saginaw County,Mar-20,1
+IV Catheters,Ingham County,Jan-20,26
+IV Catheters,Ingham County,Feb-20,7
+IV Catheters,Ingham County,Mar-20,1
+IV Catheters,Livingston County,Jan-20,28
+IV Catheters,Livingston County,Feb-20,6
+IV Catheters,Livingston County,Mar-20,1
+IV Catheters,St. Clair County,Jan-20,9
+IV Catheters,St. Clair County,Feb-20,2
+IV Catheters,St. Clair County,Mar-20,1
+IV Catheters,Monroe County,Jan-20,9
+IV Catheters,Monroe County,Feb-20,2
+Needles,Wayne County,Mar-20,26
+Needles,Wayne County,Jan-20,7
+Needles,Wayne County,Feb-20,1
+Needles,Oakland County,Mar-20,4
+Needles,Macomb County,Jan-20,42
+Needles,Macomb County,Feb-20,11
+Needles,Macomb County,Mar-20,2
+Needles,Genesee County,Jan-20,19
+Needles,Genesee County,Feb-20,4
+Needles,Genesee County,Mar-20,1
+Needles,Washtenaw County,Jan-20,16
+Needles,Washtenaw County,Feb-20,4
+Needles,Washtenaw County,Mar-20,1
+Needles,Kent County,Jan-20,22
+Needles,Kent County,Feb-20,5
+Needles,Kent County,Mar-20,1
+Needles,Saginaw County,Jan-20,7
+Needles,Saginaw County,Feb-20,2
+Needles,Ingham County,Mar-20,20
+Needles,Ingham County,Jan-20,5
+Needles,Ingham County,Feb-20,1
+Needles,Livingston County,Mar-20,28
+Needles,Livingston County,Jan-20,7
+Needles,Livingston County,Feb-20,1
+Needles,St. Clair County,Mar-20,29
+Needles,St. Clair County,Jan-20,8
+Needles,St. Clair County,Feb-20,2
+Needles,Monroe County,Mar-20,30
+Needles,Monroe County,Jan-20,8
+Needles,Monroe County,Feb-20,1
+Surface Disinfectant 1 Gallon,Wayne County,Mar-20,17
+Surface Disinfectant 1 Gallon,Wayne County,Jan-20,4
+Surface Disinfectant 1 Gallon,Wayne County,Feb-20,1
+Surface Disinfectant 1 Gallon,Oakland County,Mar-20,25
+Surface Disinfectant 1 Gallon,Oakland County,Jan-20,7
+Surface Disinfectant 1 Gallon,Oakland County,Feb-20,1
+Surface Disinfectant 1 Gallon,Macomb County,Mar-20,40
+Surface Disinfectant 1 Gallon,Macomb County,Jan-20,11
+Surface Disinfectant 1 Gallon,Macomb County,Feb-20,2
+Surface Disinfectant 1 Gallon,Genesee County,Mar-20,25
+Surface Disinfectant 1 Gallon,Genesee County,Jan-20,6
+Surface Disinfectant 1 Gallon,Genesee County,Feb-20,1
+Surface Disinfectant 1 Gallon,Washtenaw County,Mar-20,40
+Surface Disinfectant 1 Gallon,Washtenaw County,Jan-20,10
+Surface Disinfectant 1 Gallon,Washtenaw County,Feb-20,2
+Surface Disinfectant 1 Gallon,Kent County,Mar-20,21
+Surface Disinfectant 1 Gallon,Kent County,Jan-20,6
+Surface Disinfectant 1 Gallon,Kent County,Feb-20,1
+Surface Disinfectant 1 Gallon,Saginaw County,Mar-20,15
+Surface Disinfectant 1 Gallon,Saginaw County,Jan-20,4
+Surface Disinfectant 1 Gallon,Saginaw County,Feb-20,1
+Surface Disinfectant 1 Gallon,Ingham County,Mar-20,39
+Surface Disinfectant 1 Gallon,Ingham County,Jan-20,10
+Surface Disinfectant 1 Gallon,Ingham County,Feb-20,2
+Surface Disinfectant 1 Gallon,Livingston County,Mar-20,28
+Surface Disinfectant 1 Gallon,Livingston County,Jan-20,7
+Surface Disinfectant 1 Gallon,Livingston County,Feb-20,1
+Surface Disinfectant 1 Gallon,St. Clair County,Mar-20,16
+Surface Disinfectant 1 Gallon,St. Clair County,Jan-20,4
+Surface Disinfectant 1 Gallon,St. Clair County,Feb-20,1
+Surface Disinfectant 1 Gallon,Monroe County,Mar-20,34
+Surface Disinfectant 1 Gallon,Monroe County,Jan-20,9
+Surface Disinfectant 1 Gallon,Monroe County,Feb-20,2
