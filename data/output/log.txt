@@ -1,0 +1,7 @@
+[2020-04-15T13:46:49Z, ERROR] /opt/ibm/wlp/usr/shared/resources/workers/docplex_v129/lib/docloudcontroller.py:73: FutureWarning: sortlevel is deprecated, use sort_index(level= ...)
+[2020-04-15T13:46:49Z, ERROR] /opt/ibm/wlp/usr/shared/resources/workers/docplex_v129/lib/docloudcontroller.py:79: FutureWarning: sortlevel is deprecated, use sort_index(level= ...)
+[2020-04-15T13:46:49Z, ERROR] /opt/ibm/wlp/usr/shared/resources/workers/docplex_v129/lib/docloudcontroller.py:85: FutureWarning: sortlevel is deprecated, use sort_index(level= ...)
+[2020-04-15T13:46:49Z, ERROR] /opt/ibm/wlp/usr/shared/resources/workers/docplex_v129/lib/docloudcontroller.py:91: FutureWarning: sortlevel is deprecated, use sort_index(level= ...)
+[2020-04-15T13:47:08Z, INFO] demandAllocationResults.csv
+[2020-04-15T13:47:08Z, INFO] productionResults.csv
+[2020-04-15T13:47:08Z, INFO] kpiResults.csv

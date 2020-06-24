@@ -1,0 +1,1828 @@
+plant,product,month,capacity,production,absdiff,reldiff
+MI-Pontiac,Gown protective,Jan-20,231,229,2,0.8620689655172413
+MI-Pontiac,Gown protective,Feb-20,231,231,0,0.0
+MI-Pontiac,Gown protective,Mar-20,231,231,0,0.0
+MI-Pontiac,Gown protective,Apr-20,231,231,0,0.0
+MI-Pontiac,Gown protective,May-20,231,231,0,0.0
+MI-Pontiac,Gown protective,Jun-20,231,231,0,0.0
+MI-Pontiac,Gown protective,Jul-20,231,228,3,1.293103448275862
+MI-Pontiac,Gown protective,Aug-20,231,231,0,0.0
+MI-Pontiac,Gown protective,Sep-20,231,217,14,6.0344827586206895
+MI-Pontiac,Scrubs tops,Jan-20,102,102,0,0.0
+MI-Pontiac,Scrubs tops,Feb-20,102,102,0,0.0
+MI-Pontiac,Scrubs tops,Mar-20,102,100,2,1.941747572815534
+MI-Pontiac,Scrubs tops,Apr-20,102,100,2,1.941747572815534
+MI-Pontiac,Scrubs tops,May-20,102,102,0,0.0
+MI-Pontiac,Scrubs tops,Jun-20,102,102,0,0.0
+MI-Pontiac,Scrubs tops,Jul-20,102,100,2,1.941747572815534
+MI-Pontiac,Scrubs tops,Aug-20,102,102,0,0.0
+MI-Pontiac,Scrubs tops,Sep-20,102,101,1,0.970873786407767
+MI-Pontiac,Lab screening test kit,Jan-20,245,156,89,36.17886178861789
+MI-Pontiac,Lab screening test kit,Feb-20,245,162,83,33.739837398373986
+MI-Pontiac,Lab screening test kit,Mar-20,245,167,78,31.70731707317073
+MI-Pontiac,Lab screening test kit,Apr-20,245,179,66,26.829268292682926
+MI-Pontiac,Lab screening test kit,May-20,245,174,71,28.86178861788618
+MI-Pontiac,Lab screening test kit,Jun-20,245,179,66,26.829268292682926
+MI-Pontiac,Lab screening test kit,Jul-20,245,165,80,32.520325203252035
+MI-Pontiac,Lab screening test kit,Aug-20,245,146,99,40.24390243902439
+MI-Pontiac,Lab screening test kit,Sep-20,245,174,71,28.86178861788618
+MI-Pontiac,Lab extraction kit,Jan-20,164,0,164,99.39393939393939
+MI-Pontiac,Lab extraction kit,Feb-20,164,0,164,99.39393939393939
+MI-Pontiac,Lab extraction kit,Mar-20,164,0,164,99.39393939393939
+MI-Pontiac,Lab extraction kit,Apr-20,164,0,164,99.39393939393939
+MI-Pontiac,Lab extraction kit,May-20,164,1,163,98.78787878787878
+MI-Pontiac,Lab extraction kit,Jun-20,164,0,164,99.39393939393939
+MI-Pontiac,Lab extraction kit,Jul-20,164,0,164,99.39393939393939
+MI-Pontiac,Lab extraction kit,Aug-20,164,0,164,99.39393939393939
+MI-Pontiac,Lab extraction kit,Sep-20,164,0,164,99.39393939393939
+MI-Pontiac,powered air purifying respirators,Jan-20,230,230,0,0.0
+MI-Pontiac,powered air purifying respirators,Feb-20,230,229,1,0.4329004329004329
+MI-Pontiac,powered air purifying respirators,Mar-20,230,228,2,0.8658008658008658
+MI-Pontiac,powered air purifying respirators,Apr-20,230,230,0,0.0
+MI-Pontiac,powered air purifying respirators,May-20,230,227,3,1.2987012987012987
+MI-Pontiac,powered air purifying respirators,Jun-20,230,229,1,0.4329004329004329
+MI-Pontiac,powered air purifying respirators,Jul-20,230,205,25,10.822510822510823
+MI-Pontiac,powered air purifying respirators,Aug-20,230,230,0,0.0
+MI-Pontiac,powered air purifying respirators,Sep-20,230,230,0,0.0
+MI-Pontiac,Wipes,Jan-20,225,224,1,0.4424778761061947
+MI-Pontiac,Wipes,Feb-20,225,222,3,1.3274336283185841
+MI-Pontiac,Wipes,Mar-20,225,225,0,0.0
+MI-Pontiac,Wipes,Apr-20,225,212,13,5.752212389380531
+MI-Pontiac,Wipes,May-20,225,215,10,4.424778761061947
+MI-Pontiac,Wipes,Jun-20,225,219,6,2.6548672566371683
+MI-Pontiac,Wipes,Jul-20,225,205,20,8.849557522123893
+MI-Pontiac,Wipes,Aug-20,225,224,1,0.4424778761061947
+MI-Pontiac,Wipes,Sep-20,225,147,78,34.51327433628319
+MI-Pontiac,Alcohol-based hand rub,Jan-20,48,0,48,97.95918367346938
+MI-Pontiac,Alcohol-based hand rub,Feb-20,48,0,48,97.95918367346938
+MI-Pontiac,Alcohol-based hand rub,Mar-20,48,0,48,97.95918367346938
+MI-Pontiac,Alcohol-based hand rub,Apr-20,48,0,48,97.95918367346938
+MI-Pontiac,Alcohol-based hand rub,May-20,48,0,48,97.95918367346938
+MI-Pontiac,Alcohol-based hand rub,Jun-20,48,0,48,97.95918367346938
+MI-Pontiac,Alcohol-based hand rub,Jul-20,48,0,48,97.95918367346938
+MI-Pontiac,Alcohol-based hand rub,Aug-20,48,0,48,97.95918367346938
+MI-Pontiac,Alcohol-based hand rub,Sep-20,48,1,47,95.91836734693878
+MI-Pontiac,"Chlorine, HTH 70%",Jan-20,112,0,112,99.11504424778761
+MI-Pontiac,"Chlorine, HTH 70%",Feb-20,112,0,112,99.11504424778761
+MI-Pontiac,"Chlorine, HTH 70%",Mar-20,112,0,112,99.11504424778761
+MI-Pontiac,"Chlorine, HTH 70%",Apr-20,112,0,112,99.11504424778761
+MI-Pontiac,"Chlorine, HTH 70%",May-20,112,0,112,99.11504424778761
+MI-Pontiac,"Chlorine, HTH 70%",Jun-20,112,0,112,99.11504424778761
+MI-Pontiac,"Chlorine, HTH 70%",Jul-20,112,0,112,99.11504424778761
+MI-Pontiac,"Chlorine, HTH 70%",Aug-20,112,0,112,99.11504424778761
+MI-Pontiac,"Chlorine, HTH 70%",Sep-20,112,1,111,98.23008849557522
+MI-Pontiac,Safety box,Jan-20,89,89,0,0.0
+MI-Pontiac,Safety box,Feb-20,89,89,0,0.0
+MI-Pontiac,Safety box,Mar-20,89,89,0,0.0
+MI-Pontiac,Safety box,Apr-20,89,89,0,0.0
+MI-Pontiac,Safety box,May-20,89,89,0,0.0
+MI-Pontiac,Safety box,Jun-20,89,88,1,1.1111111111111112
+MI-Pontiac,Safety box,Jul-20,89,89,0,0.0
+MI-Pontiac,Safety box,Aug-20,89,89,0,0.0
+MI-Pontiac,Safety box,Sep-20,89,89,0,0.0
+MI-Pontiac,Non contact infrared Thermometer,Jan-20,246,1,245,99.19028340080972
+MI-Pontiac,Non contact infrared Thermometer,Feb-20,246,42,204,82.5910931174089
+MI-Pontiac,Non contact infrared Thermometer,Mar-20,246,6,240,97.16599190283401
+MI-Pontiac,Non contact infrared Thermometer,Apr-20,246,47,199,80.56680161943319
+MI-Pontiac,Non contact infrared Thermometer,May-20,246,0,246,99.59514170040485
+MI-Pontiac,Non contact infrared Thermometer,Jun-20,246,0,246,99.59514170040485
+MI-Pontiac,Non contact infrared Thermometer,Jul-20,246,0,246,99.59514170040485
+MI-Pontiac,Non contact infrared Thermometer,Aug-20,246,0,246,99.59514170040485
+MI-Pontiac,Non contact infrared Thermometer,Sep-20,246,10,236,95.54655870445345
+MI-Pontiac,Goggles protective,Jan-20,205,0,205,99.51456310679612
+MI-Pontiac,Goggles protective,Feb-20,205,1,204,99.02912621359224
+MI-Pontiac,Goggles protective,Mar-20,205,0,205,99.51456310679612
+MI-Pontiac,Goggles protective,Apr-20,205,0,205,99.51456310679612
+MI-Pontiac,Goggles protective,May-20,205,0,205,99.51456310679612
+MI-Pontiac,Goggles protective,Jun-20,205,0,205,99.51456310679612
+MI-Pontiac,Goggles protective,Jul-20,205,7,198,96.11650485436893
+MI-Pontiac,Goggles protective,Aug-20,205,1,204,99.02912621359224
+MI-Pontiac,Goggles protective,Sep-20,205,0,205,99.51456310679612
+MI-Pontiac,Disposable foot covers,Jan-20,198,198,0,0.0
+MI-Pontiac,Disposable foot covers,Feb-20,198,198,0,0.0
+MI-Pontiac,Disposable foot covers,Mar-20,198,197,1,0.5025125628140703
+MI-Pontiac,Disposable foot covers,Apr-20,198,198,0,0.0
+MI-Pontiac,Disposable foot covers,May-20,198,198,0,0.0
+MI-Pontiac,Disposable foot covers,Jun-20,198,198,0,0.0
+MI-Pontiac,Disposable foot covers,Jul-20,198,198,0,0.0
+MI-Pontiac,Disposable foot covers,Aug-20,198,198,0,0.0
+MI-Pontiac,Disposable foot covers,Sep-20,198,198,0,0.0
+MI-Pontiac,M4 viral media,Jan-20,273,0,273,99.63503649635037
+MI-Pontiac,M4 viral media,Feb-20,273,0,273,99.63503649635037
+MI-Pontiac,M4 viral media,Mar-20,273,0,273,99.63503649635037
+MI-Pontiac,M4 viral media,Apr-20,273,0,273,99.63503649635037
+MI-Pontiac,M4 viral media,May-20,273,0,273,99.63503649635037
+MI-Pontiac,M4 viral media,Jun-20,273,0,273,99.63503649635037
+MI-Pontiac,M4 viral media,Jul-20,273,0,273,99.63503649635037
+MI-Pontiac,M4 viral media,Aug-20,273,0,273,99.63503649635037
+MI-Pontiac,M4 viral media,Sep-20,273,0,273,99.63503649635037
+MI-Pontiac,Triple packaging boxes,Jan-20,238,0,238,99.581589958159
+MI-Pontiac,Triple packaging boxes,Feb-20,238,0,238,99.581589958159
+MI-Pontiac,Triple packaging boxes,Mar-20,238,3,235,98.32635983263599
+MI-Pontiac,Triple packaging boxes,Apr-20,238,0,238,99.581589958159
+MI-Pontiac,Triple packaging boxes,May-20,238,0,238,99.581589958159
+MI-Pontiac,Triple packaging boxes,Jun-20,238,0,238,99.581589958159
+MI-Pontiac,Triple packaging boxes,Jul-20,238,0,238,99.581589958159
+MI-Pontiac,Triple packaging boxes,Aug-20,238,0,238,99.581589958159
+MI-Pontiac,Triple packaging boxes,Sep-20,238,0,238,99.581589958159
+MI-Pontiac,Liquid soap,Jan-20,216,0,216,99.53917050691244
+MI-Pontiac,Liquid soap,Feb-20,216,0,216,99.53917050691244
+MI-Pontiac,Liquid soap,Mar-20,216,0,216,99.53917050691244
+MI-Pontiac,Liquid soap,Apr-20,216,1,215,99.07834101382488
+MI-Pontiac,Liquid soap,May-20,216,1,215,99.07834101382488
+MI-Pontiac,Liquid soap,Jun-20,216,0,216,99.53917050691244
+MI-Pontiac,Liquid soap,Jul-20,216,1,215,99.07834101382488
+MI-Pontiac,Liquid soap,Aug-20,216,0,216,99.53917050691244
+MI-Pontiac,Liquid soap,Sep-20,216,0,216,99.53917050691244
+MI-Pontiac,Mask medical,Jan-20,130,130,0,0.0
+MI-Pontiac,Mask medical,Feb-20,130,130,0,0.0
+MI-Pontiac,Mask medical,Mar-20,130,128,2,1.5267175572519085
+MI-Pontiac,Mask medical,Apr-20,130,130,0,0.0
+MI-Pontiac,Mask medical,May-20,130,130,0,0.0
+MI-Pontiac,Mask medical,Jun-20,130,130,0,0.0
+MI-Pontiac,Mask medical,Jul-20,130,130,0,0.0
+MI-Pontiac,Mask medical,Aug-20,130,130,0,0.0
+MI-Pontiac,Mask medical,Sep-20,130,130,0,0.0
+MI-Pontiac,Scrubs pants,Jan-20,80,0,80,98.76543209876543
+MI-Pontiac,Scrubs pants,Feb-20,80,0,80,98.76543209876543
+MI-Pontiac,Scrubs pants,Mar-20,80,0,80,98.76543209876543
+MI-Pontiac,Scrubs pants,Apr-20,80,0,80,98.76543209876543
+MI-Pontiac,Scrubs pants,May-20,80,0,80,98.76543209876543
+MI-Pontiac,Scrubs pants,Jun-20,80,0,80,98.76543209876543
+MI-Pontiac,Scrubs pants,Jul-20,80,0,80,98.76543209876543
+MI-Pontiac,Scrubs pants,Aug-20,80,0,80,98.76543209876543
+MI-Pontiac,Scrubs pants,Sep-20,80,0,80,98.76543209876543
+MI-Pontiac,Face shield,Jan-20,182,162,20,10.92896174863388
+MI-Pontiac,Face shield,Feb-20,182,144,38,20.76502732240437
+MI-Pontiac,Face shield,Mar-20,182,149,33,18.0327868852459
+MI-Pontiac,Face shield,Apr-20,182,182,0,0.0
+MI-Pontiac,Face shield,May-20,182,182,0,0.0
+MI-Pontiac,Face shield,Jun-20,182,182,0,0.0
+MI-Pontiac,Face shield,Jul-20,182,180,2,1.092896174863388
+MI-Pontiac,Face shield,Aug-20,182,152,30,16.39344262295082
+MI-Pontiac,Face shield,Sep-20,182,160,22,12.021857923497267
+MI-Pontiac,Gloves,Jan-20,72,1,71,97.26027397260275
+MI-Pontiac,Gloves,Feb-20,72,1,71,97.26027397260275
+MI-Pontiac,Gloves,Mar-20,72,0,72,98.63013698630137
+MI-Pontiac,Gloves,Apr-20,72,0,72,98.63013698630137
+MI-Pontiac,Gloves,May-20,72,0,72,98.63013698630137
+MI-Pontiac,Gloves,Jun-20,72,0,72,98.63013698630137
+MI-Pontiac,Gloves,Jul-20,72,0,72,98.63013698630137
+MI-Pontiac,Gloves,Aug-20,72,1,71,97.26027397260275
+MI-Pontiac,Gloves,Sep-20,72,0,72,98.63013698630137
+MI-Pontiac,Nasal testing swabs,Jan-20,146,1,145,98.63945578231292
+MI-Pontiac,Nasal testing swabs,Feb-20,146,0,146,99.31972789115646
+MI-Pontiac,Nasal testing swabs,Mar-20,146,0,146,99.31972789115646
+MI-Pontiac,Nasal testing swabs,Apr-20,146,1,145,98.63945578231292
+MI-Pontiac,Nasal testing swabs,May-20,146,1,145,98.63945578231292
+MI-Pontiac,Nasal testing swabs,Jun-20,146,0,146,99.31972789115646
+MI-Pontiac,Nasal testing swabs,Jul-20,146,0,146,99.31972789115646
+MI-Pontiac,Nasal testing swabs,Aug-20,146,0,146,99.31972789115646
+MI-Pontiac,Nasal testing swabs,Sep-20,146,0,146,99.31972789115646
+MI-Pontiac,InvasiveVentilators,Jan-20,117,117,0,0.0
+MI-Pontiac,InvasiveVentilators,Feb-20,117,73,44,37.28813559322034
+MI-Pontiac,InvasiveVentilators,Mar-20,117,70,47,39.83050847457627
+MI-Pontiac,InvasiveVentilators,Apr-20,117,9,108,91.52542372881356
+MI-Pontiac,InvasiveVentilators,May-20,117,19,98,83.05084745762711
+MI-Pontiac,InvasiveVentilators,Jun-20,117,0,117,99.15254237288136
+MI-Pontiac,InvasiveVentilators,Jul-20,117,1,116,98.30508474576271
+MI-Pontiac,InvasiveVentilators,Aug-20,117,25,92,77.96610169491525
+MI-Pontiac,InvasiveVentilators,Sep-20,117,0,117,99.15254237288136
+MI-Pontiac,Non Invasive Ventilators,Jan-20,235,0,235,99.57627118644068
+MI-Pontiac,Non Invasive Ventilators,Feb-20,235,0,235,99.57627118644068
+MI-Pontiac,Non Invasive Ventilators,Mar-20,235,0,235,99.57627118644068
+MI-Pontiac,Non Invasive Ventilators,Apr-20,235,18,217,91.94915254237289
+MI-Pontiac,Non Invasive Ventilators,May-20,235,34,201,85.16949152542372
+MI-Pontiac,Non Invasive Ventilators,Jun-20,235,53,182,77.11864406779661
+MI-Pontiac,Non Invasive Ventilators,Jul-20,235,63,172,72.88135593220339
+MI-Pontiac,Non Invasive Ventilators,Aug-20,235,60,175,74.15254237288136
+MI-Pontiac,Non Invasive Ventilators,Sep-20,235,106,129,54.66101694915254
+MI-Pontiac,BioHazard Liner bags 2gallon,Jan-20,240,0,240,99.5850622406639
+MI-Pontiac,BioHazard Liner bags 2gallon,Feb-20,240,0,240,99.5850622406639
+MI-Pontiac,BioHazard Liner bags 2gallon,Mar-20,240,1,239,99.1701244813278
+MI-Pontiac,BioHazard Liner bags 2gallon,Apr-20,240,0,240,99.5850622406639
+MI-Pontiac,BioHazard Liner bags 2gallon,May-20,240,0,240,99.5850622406639
+MI-Pontiac,BioHazard Liner bags 2gallon,Jun-20,240,0,240,99.5850622406639
+MI-Pontiac,BioHazard Liner bags 2gallon,Jul-20,240,0,240,99.5850622406639
+MI-Pontiac,BioHazard Liner bags 2gallon,Aug-20,240,0,240,99.5850622406639
+MI-Pontiac,BioHazard Liner bags 2gallon,Sep-20,240,0,240,99.5850622406639
+MI-Pontiac,BioHazard Liner bags 44gallon,Jan-20,55,1,54,96.42857142857143
+MI-Pontiac,BioHazard Liner bags 44gallon,Feb-20,55,0,55,98.21428571428571
+MI-Pontiac,BioHazard Liner bags 44gallon,Mar-20,55,0,55,98.21428571428571
+MI-Pontiac,BioHazard Liner bags 44gallon,Apr-20,55,0,55,98.21428571428571
+MI-Pontiac,BioHazard Liner bags 44gallon,May-20,55,1,54,96.42857142857143
+MI-Pontiac,BioHazard Liner bags 44gallon,Jun-20,55,0,55,98.21428571428571
+MI-Pontiac,BioHazard Liner bags 44gallon,Jul-20,55,0,55,98.21428571428571
+MI-Pontiac,BioHazard Liner bags 44gallon,Aug-20,55,0,55,98.21428571428571
+MI-Pontiac,BioHazard Liner bags 44gallon,Sep-20,55,0,55,98.21428571428571
+MI-Pontiac,Blue Solied Linen bags,Jan-20,215,0,215,99.53703703703704
+MI-Pontiac,Blue Solied Linen bags,Feb-20,215,0,215,99.53703703703704
+MI-Pontiac,Blue Solied Linen bags,Mar-20,215,0,215,99.53703703703704
+MI-Pontiac,Blue Solied Linen bags,Apr-20,215,5,210,97.22222222222223
+MI-Pontiac,Blue Solied Linen bags,May-20,215,0,215,99.53703703703704
+MI-Pontiac,Blue Solied Linen bags,Jun-20,215,18,197,91.20370370370371
+MI-Pontiac,Blue Solied Linen bags,Jul-20,215,22,193,89.35185185185185
+MI-Pontiac,Blue Solied Linen bags,Aug-20,215,17,198,91.66666666666667
+MI-Pontiac,Blue Solied Linen bags,Sep-20,215,65,150,69.44444444444444
+MI-Pontiac,Syringes,Jan-20,83,0,83,98.80952380952381
+MI-Pontiac,Syringes,Feb-20,83,2,81,96.42857142857143
+MI-Pontiac,Syringes,Mar-20,83,0,83,98.80952380952381
+MI-Pontiac,Syringes,Apr-20,83,0,83,98.80952380952381
+MI-Pontiac,Syringes,May-20,83,0,83,98.80952380952381
+MI-Pontiac,Syringes,Jun-20,83,0,83,98.80952380952381
+MI-Pontiac,Syringes,Jul-20,83,0,83,98.80952380952381
+MI-Pontiac,Syringes,Aug-20,83,0,83,98.80952380952381
+MI-Pontiac,Syringes,Sep-20,83,0,83,98.80952380952381
+MI-Pontiac,IV Catheters,Jan-20,96,96,0,0.0
+MI-Pontiac,IV Catheters,Feb-20,96,96,0,0.0
+MI-Pontiac,IV Catheters,Mar-20,96,96,0,0.0
+MI-Pontiac,IV Catheters,Apr-20,96,96,0,0.0
+MI-Pontiac,IV Catheters,May-20,96,95,1,1.0309278350515463
+MI-Pontiac,IV Catheters,Jun-20,96,96,0,0.0
+MI-Pontiac,IV Catheters,Jul-20,96,95,1,1.0309278350515463
+MI-Pontiac,IV Catheters,Aug-20,96,95,1,1.0309278350515463
+MI-Pontiac,IV Catheters,Sep-20,96,96,0,0.0
+MI-Pontiac,Needles,Jan-20,81,0,81,98.78048780487805
+MI-Pontiac,Needles,Feb-20,81,0,81,98.78048780487805
+MI-Pontiac,Needles,Mar-20,81,1,80,97.5609756097561
+MI-Pontiac,Needles,Apr-20,81,0,81,98.78048780487805
+MI-Pontiac,Needles,May-20,81,1,80,97.5609756097561
+MI-Pontiac,Needles,Jun-20,81,0,81,98.78048780487805
+MI-Pontiac,Needles,Jul-20,81,0,81,98.78048780487805
+MI-Pontiac,Needles,Aug-20,81,0,81,98.78048780487805
+MI-Pontiac,Needles,Sep-20,81,0,81,98.78048780487805
+MI-Pontiac,Surface Disinfectant 1 Gallon,Jan-20,138,138,0,0.0
+MI-Pontiac,Surface Disinfectant 1 Gallon,Feb-20,138,138,0,0.0
+MI-Pontiac,Surface Disinfectant 1 Gallon,Mar-20,138,138,0,0.0
+MI-Pontiac,Surface Disinfectant 1 Gallon,Apr-20,138,138,0,0.0
+MI-Pontiac,Surface Disinfectant 1 Gallon,May-20,138,138,0,0.0
+MI-Pontiac,Surface Disinfectant 1 Gallon,Jun-20,138,138,0,0.0
+MI-Pontiac,Surface Disinfectant 1 Gallon,Jul-20,138,138,0,0.0
+MI-Pontiac,Surface Disinfectant 1 Gallon,Aug-20,138,138,0,0.0
+MI-Pontiac,Surface Disinfectant 1 Gallon,Sep-20,138,138,0,0.0
+MI-Sagnaw,Gown protective,Jan-20,76,76,0,0.0
+MI-Sagnaw,Gown protective,Feb-20,76,76,0,0.0
+MI-Sagnaw,Gown protective,Mar-20,76,75,1,1.2987012987012987
+MI-Sagnaw,Gown protective,Apr-20,76,76,0,0.0
+MI-Sagnaw,Gown protective,May-20,76,76,0,0.0
+MI-Sagnaw,Gown protective,Jun-20,76,76,0,0.0
+MI-Sagnaw,Gown protective,Jul-20,76,76,0,0.0
+MI-Sagnaw,Gown protective,Aug-20,76,76,0,0.0
+MI-Sagnaw,Gown protective,Sep-20,76,76,0,0.0
+MI-Sagnaw,Scrubs tops,Jan-20,253,0,253,99.60629921259843
+MI-Sagnaw,Scrubs tops,Feb-20,253,0,253,99.60629921259843
+MI-Sagnaw,Scrubs tops,Mar-20,253,0,253,99.60629921259843
+MI-Sagnaw,Scrubs tops,Apr-20,253,0,253,99.60629921259843
+MI-Sagnaw,Scrubs tops,May-20,253,0,253,99.60629921259843
+MI-Sagnaw,Scrubs tops,Jun-20,253,0,253,99.60629921259843
+MI-Sagnaw,Scrubs tops,Jul-20,253,0,253,99.60629921259843
+MI-Sagnaw,Scrubs tops,Aug-20,253,0,253,99.60629921259843
+MI-Sagnaw,Scrubs tops,Sep-20,253,0,253,99.60629921259843
+MI-Sagnaw,Lab screening test kit,Jan-20,122,0,122,99.1869918699187
+MI-Sagnaw,Lab screening test kit,Feb-20,122,0,122,99.1869918699187
+MI-Sagnaw,Lab screening test kit,Mar-20,122,0,122,99.1869918699187
+MI-Sagnaw,Lab screening test kit,Apr-20,122,0,122,99.1869918699187
+MI-Sagnaw,Lab screening test kit,May-20,122,0,122,99.1869918699187
+MI-Sagnaw,Lab screening test kit,Jun-20,122,0,122,99.1869918699187
+MI-Sagnaw,Lab screening test kit,Jul-20,122,0,122,99.1869918699187
+MI-Sagnaw,Lab screening test kit,Aug-20,122,0,122,99.1869918699187
+MI-Sagnaw,Lab screening test kit,Sep-20,122,0,122,99.1869918699187
+MI-Sagnaw,Lab extraction kit,Jan-20,98,0,98,98.98989898989899
+MI-Sagnaw,Lab extraction kit,Feb-20,98,0,98,98.98989898989899
+MI-Sagnaw,Lab extraction kit,Mar-20,98,0,98,98.98989898989899
+MI-Sagnaw,Lab extraction kit,Apr-20,98,0,98,98.98989898989899
+MI-Sagnaw,Lab extraction kit,May-20,98,0,98,98.98989898989899
+MI-Sagnaw,Lab extraction kit,Jun-20,98,0,98,98.98989898989899
+MI-Sagnaw,Lab extraction kit,Jul-20,98,0,98,98.98989898989899
+MI-Sagnaw,Lab extraction kit,Aug-20,98,0,98,98.98989898989899
+MI-Sagnaw,Lab extraction kit,Sep-20,98,0,98,98.98989898989899
+MI-Sagnaw,powered air purifying respirators,Jan-20,244,244,0,0.0
+MI-Sagnaw,powered air purifying respirators,Feb-20,244,244,0,0.0
+MI-Sagnaw,powered air purifying respirators,Mar-20,244,244,0,0.0
+MI-Sagnaw,powered air purifying respirators,Apr-20,244,244,0,0.0
+MI-Sagnaw,powered air purifying respirators,May-20,244,244,0,0.0
+MI-Sagnaw,powered air purifying respirators,Jun-20,244,244,0,0.0
+MI-Sagnaw,powered air purifying respirators,Jul-20,244,244,0,0.0
+MI-Sagnaw,powered air purifying respirators,Aug-20,244,244,0,0.0
+MI-Sagnaw,powered air purifying respirators,Sep-20,244,244,0,0.0
+MI-Sagnaw,Wipes,Jan-20,36,36,0,0.0
+MI-Sagnaw,Wipes,Feb-20,36,36,0,0.0
+MI-Sagnaw,Wipes,Mar-20,36,36,0,0.0
+MI-Sagnaw,Wipes,Apr-20,36,36,0,0.0
+MI-Sagnaw,Wipes,May-20,36,36,0,0.0
+MI-Sagnaw,Wipes,Jun-20,36,36,0,0.0
+MI-Sagnaw,Wipes,Jul-20,36,36,0,0.0
+MI-Sagnaw,Wipes,Aug-20,36,36,0,0.0
+MI-Sagnaw,Wipes,Sep-20,36,36,0,0.0
+MI-Sagnaw,Alcohol-based hand rub,Jan-20,34,0,34,97.14285714285714
+MI-Sagnaw,Alcohol-based hand rub,Feb-20,34,0,34,97.14285714285714
+MI-Sagnaw,Alcohol-based hand rub,Mar-20,34,0,34,97.14285714285714
+MI-Sagnaw,Alcohol-based hand rub,Apr-20,34,0,34,97.14285714285714
+MI-Sagnaw,Alcohol-based hand rub,May-20,34,1,33,94.28571428571429
+MI-Sagnaw,Alcohol-based hand rub,Jun-20,34,0,34,97.14285714285714
+MI-Sagnaw,Alcohol-based hand rub,Jul-20,34,0,34,97.14285714285714
+MI-Sagnaw,Alcohol-based hand rub,Aug-20,34,0,34,97.14285714285714
+MI-Sagnaw,Alcohol-based hand rub,Sep-20,34,0,34,97.14285714285714
+MI-Sagnaw,"Chlorine, HTH 70%",Jan-20,181,76,105,57.69230769230769
+MI-Sagnaw,"Chlorine, HTH 70%",Feb-20,181,80,101,55.494505494505496
+MI-Sagnaw,"Chlorine, HTH 70%",Mar-20,181,83,98,53.84615384615385
+MI-Sagnaw,"Chlorine, HTH 70%",Apr-20,181,91,90,49.45054945054945
+MI-Sagnaw,"Chlorine, HTH 70%",May-20,181,42,139,76.37362637362638
+MI-Sagnaw,"Chlorine, HTH 70%",Jun-20,181,69,112,61.53846153846154
+MI-Sagnaw,"Chlorine, HTH 70%",Jul-20,181,85,96,52.747252747252745
+MI-Sagnaw,"Chlorine, HTH 70%",Aug-20,181,63,118,64.83516483516483
+MI-Sagnaw,"Chlorine, HTH 70%",Sep-20,181,89,92,50.54945054945055
+MI-Sagnaw,Safety box,Jan-20,172,172,0,0.0
+MI-Sagnaw,Safety box,Feb-20,172,172,0,0.0
+MI-Sagnaw,Safety box,Mar-20,172,172,0,0.0
+MI-Sagnaw,Safety box,Apr-20,172,172,0,0.0
+MI-Sagnaw,Safety box,May-20,172,172,0,0.0
+MI-Sagnaw,Safety box,Jun-20,172,172,0,0.0
+MI-Sagnaw,Safety box,Jul-20,172,172,0,0.0
+MI-Sagnaw,Safety box,Aug-20,172,172,0,0.0
+MI-Sagnaw,Safety box,Sep-20,172,172,0,0.0
+MI-Sagnaw,Non contact infrared Thermometer,Jan-20,149,53,96,64.0
+MI-Sagnaw,Non contact infrared Thermometer,Feb-20,149,21,128,85.33333333333333
+MI-Sagnaw,Non contact infrared Thermometer,Mar-20,149,65,84,56.0
+MI-Sagnaw,Non contact infrared Thermometer,Apr-20,149,34,115,76.66666666666667
+MI-Sagnaw,Non contact infrared Thermometer,May-20,149,113,36,24.0
+MI-Sagnaw,Non contact infrared Thermometer,Jun-20,149,126,23,15.333333333333334
+MI-Sagnaw,Non contact infrared Thermometer,Jul-20,149,124,25,16.666666666666668
+MI-Sagnaw,Non contact infrared Thermometer,Aug-20,149,134,15,10.0
+MI-Sagnaw,Non contact infrared Thermometer,Sep-20,149,149,0,0.0
+MI-Sagnaw,Goggles protective,Jan-20,262,184,78,29.657794676806084
+MI-Sagnaw,Goggles protective,Feb-20,262,165,97,36.88212927756654
+MI-Sagnaw,Goggles protective,Mar-20,262,152,110,41.82509505703422
+MI-Sagnaw,Goggles protective,Apr-20,262,118,144,54.752851711026615
+MI-Sagnaw,Goggles protective,May-20,262,94,168,63.87832699619772
+MI-Sagnaw,Goggles protective,Jun-20,262,66,196,74.52471482889734
+MI-Sagnaw,Goggles protective,Jul-20,262,51,211,80.22813688212928
+MI-Sagnaw,Goggles protective,Aug-20,262,10,252,95.81749049429658
+MI-Sagnaw,Goggles protective,Sep-20,262,0,262,99.61977186311788
+MI-Sagnaw,Disposable foot covers,Jan-20,105,105,0,0.0
+MI-Sagnaw,Disposable foot covers,Feb-20,105,88,17,16.037735849056602
+MI-Sagnaw,Disposable foot covers,Mar-20,105,92,13,12.264150943396226
+MI-Sagnaw,Disposable foot covers,Apr-20,105,61,44,41.509433962264154
+MI-Sagnaw,Disposable foot covers,May-20,105,0,105,99.05660377358491
+MI-Sagnaw,Disposable foot covers,Jun-20,105,0,105,99.05660377358491
+MI-Sagnaw,Disposable foot covers,Jul-20,105,5,100,94.33962264150944
+MI-Sagnaw,Disposable foot covers,Aug-20,105,26,79,74.52830188679245
+MI-Sagnaw,Disposable foot covers,Sep-20,105,0,105,99.05660377358491
+MI-Sagnaw,M4 viral media,Jan-20,155,0,155,99.35897435897436
+MI-Sagnaw,M4 viral media,Feb-20,155,0,155,99.35897435897436
+MI-Sagnaw,M4 viral media,Mar-20,155,0,155,99.35897435897436
+MI-Sagnaw,M4 viral media,Apr-20,155,0,155,99.35897435897436
+MI-Sagnaw,M4 viral media,May-20,155,0,155,99.35897435897436
+MI-Sagnaw,M4 viral media,Jun-20,155,0,155,99.35897435897436
+MI-Sagnaw,M4 viral media,Jul-20,155,0,155,99.35897435897436
+MI-Sagnaw,M4 viral media,Aug-20,155,0,155,99.35897435897436
+MI-Sagnaw,M4 viral media,Sep-20,155,0,155,99.35897435897436
+MI-Sagnaw,Triple packaging boxes,Jan-20,197,197,0,0.0
+MI-Sagnaw,Triple packaging boxes,Feb-20,197,194,3,1.5151515151515151
+MI-Sagnaw,Triple packaging boxes,Mar-20,197,197,0,0.0
+MI-Sagnaw,Triple packaging boxes,Apr-20,197,197,0,0.0
+MI-Sagnaw,Triple packaging boxes,May-20,197,197,0,0.0
+MI-Sagnaw,Triple packaging boxes,Jun-20,197,197,0,0.0
+MI-Sagnaw,Triple packaging boxes,Jul-20,197,197,0,0.0
+MI-Sagnaw,Triple packaging boxes,Aug-20,197,197,0,0.0
+MI-Sagnaw,Triple packaging boxes,Sep-20,197,197,0,0.0
+MI-Sagnaw,Liquid soap,Jan-20,41,41,0,0.0
+MI-Sagnaw,Liquid soap,Feb-20,41,41,0,0.0
+MI-Sagnaw,Liquid soap,Mar-20,41,26,15,35.714285714285715
+MI-Sagnaw,Liquid soap,Apr-20,41,41,0,0.0
+MI-Sagnaw,Liquid soap,May-20,41,41,0,0.0
+MI-Sagnaw,Liquid soap,Jun-20,41,41,0,0.0
+MI-Sagnaw,Liquid soap,Jul-20,41,41,0,0.0
+MI-Sagnaw,Liquid soap,Aug-20,41,41,0,0.0
+MI-Sagnaw,Liquid soap,Sep-20,41,41,0,0.0
+MI-Sagnaw,Mask medical,Jan-20,178,47,131,73.18435754189944
+MI-Sagnaw,Mask medical,Feb-20,178,83,95,53.072625698324025
+MI-Sagnaw,Mask medical,Mar-20,178,82,96,53.63128491620112
+MI-Sagnaw,Mask medical,Apr-20,178,96,82,45.81005586592179
+MI-Sagnaw,Mask medical,May-20,178,109,69,38.547486033519554
+MI-Sagnaw,Mask medical,Jun-20,178,133,45,25.139664804469273
+MI-Sagnaw,Mask medical,Jul-20,178,111,67,37.43016759776536
+MI-Sagnaw,Mask medical,Aug-20,178,178,0,0.0
+MI-Sagnaw,Mask medical,Sep-20,178,155,23,12.849162011173185
+MI-Sagnaw,Scrubs pants,Jan-20,31,0,31,96.875
+MI-Sagnaw,Scrubs pants,Feb-20,31,0,31,96.875
+MI-Sagnaw,Scrubs pants,Mar-20,31,0,31,96.875
+MI-Sagnaw,Scrubs pants,Apr-20,31,0,31,96.875
+MI-Sagnaw,Scrubs pants,May-20,31,0,31,96.875
+MI-Sagnaw,Scrubs pants,Jun-20,31,0,31,96.875
+MI-Sagnaw,Scrubs pants,Jul-20,31,0,31,96.875
+MI-Sagnaw,Scrubs pants,Aug-20,31,0,31,96.875
+MI-Sagnaw,Scrubs pants,Sep-20,31,0,31,96.875
+MI-Sagnaw,Face shield,Jan-20,82,69,13,15.662650602409638
+MI-Sagnaw,Face shield,Feb-20,82,82,0,0.0
+MI-Sagnaw,Face shield,Mar-20,82,82,0,0.0
+MI-Sagnaw,Face shield,Apr-20,82,55,27,32.53012048192771
+MI-Sagnaw,Face shield,May-20,82,71,11,13.25301204819277
+MI-Sagnaw,Face shield,Jun-20,82,66,16,19.27710843373494
+MI-Sagnaw,Face shield,Jul-20,82,82,0,0.0
+MI-Sagnaw,Face shield,Aug-20,82,82,0,0.0
+MI-Sagnaw,Face shield,Sep-20,82,82,0,0.0
+MI-Sagnaw,Gloves,Jan-20,186,54,132,70.58823529411765
+MI-Sagnaw,Gloves,Feb-20,186,72,114,60.962566844919785
+MI-Sagnaw,Gloves,Mar-20,186,74,112,59.893048128342244
+MI-Sagnaw,Gloves,Apr-20,186,186,0,0.0
+MI-Sagnaw,Gloves,May-20,186,186,0,0.0
+MI-Sagnaw,Gloves,Jun-20,186,186,0,0.0
+MI-Sagnaw,Gloves,Jul-20,186,186,0,0.0
+MI-Sagnaw,Gloves,Aug-20,186,186,0,0.0
+MI-Sagnaw,Gloves,Sep-20,186,186,0,0.0
+MI-Sagnaw,Nasal testing swabs,Jan-20,206,0,206,99.51690821256038
+MI-Sagnaw,Nasal testing swabs,Feb-20,206,0,206,99.51690821256038
+MI-Sagnaw,Nasal testing swabs,Mar-20,206,0,206,99.51690821256038
+MI-Sagnaw,Nasal testing swabs,Apr-20,206,0,206,99.51690821256038
+MI-Sagnaw,Nasal testing swabs,May-20,206,0,206,99.51690821256038
+MI-Sagnaw,Nasal testing swabs,Jun-20,206,0,206,99.51690821256038
+MI-Sagnaw,Nasal testing swabs,Jul-20,206,0,206,99.51690821256038
+MI-Sagnaw,Nasal testing swabs,Aug-20,206,0,206,99.51690821256038
+MI-Sagnaw,Nasal testing swabs,Sep-20,206,0,206,99.51690821256038
+MI-Sagnaw,InvasiveVentilators,Jan-20,117,0,117,99.15254237288136
+MI-Sagnaw,InvasiveVentilators,Feb-20,117,0,117,99.15254237288136
+MI-Sagnaw,InvasiveVentilators,Mar-20,117,0,117,99.15254237288136
+MI-Sagnaw,InvasiveVentilators,Apr-20,117,0,117,99.15254237288136
+MI-Sagnaw,InvasiveVentilators,May-20,117,0,117,99.15254237288136
+MI-Sagnaw,InvasiveVentilators,Jun-20,117,0,117,99.15254237288136
+MI-Sagnaw,InvasiveVentilators,Jul-20,117,0,117,99.15254237288136
+MI-Sagnaw,InvasiveVentilators,Aug-20,117,0,117,99.15254237288136
+MI-Sagnaw,InvasiveVentilators,Sep-20,117,0,117,99.15254237288136
+MI-Sagnaw,Non Invasive Ventilators,Jan-20,207,207,0,0.0
+MI-Sagnaw,Non Invasive Ventilators,Feb-20,207,207,0,0.0
+MI-Sagnaw,Non Invasive Ventilators,Mar-20,207,207,0,0.0
+MI-Sagnaw,Non Invasive Ventilators,Apr-20,207,207,0,0.0
+MI-Sagnaw,Non Invasive Ventilators,May-20,207,207,0,0.0
+MI-Sagnaw,Non Invasive Ventilators,Jun-20,207,207,0,0.0
+MI-Sagnaw,Non Invasive Ventilators,Jul-20,207,207,0,0.0
+MI-Sagnaw,Non Invasive Ventilators,Aug-20,207,207,0,0.0
+MI-Sagnaw,Non Invasive Ventilators,Sep-20,207,207,0,0.0
+MI-Sagnaw,BioHazard Liner bags 2gallon,Jan-20,43,0,43,97.72727272727273
+MI-Sagnaw,BioHazard Liner bags 2gallon,Feb-20,43,0,43,97.72727272727273
+MI-Sagnaw,BioHazard Liner bags 2gallon,Mar-20,43,0,43,97.72727272727273
+MI-Sagnaw,BioHazard Liner bags 2gallon,Apr-20,43,0,43,97.72727272727273
+MI-Sagnaw,BioHazard Liner bags 2gallon,May-20,43,0,43,97.72727272727273
+MI-Sagnaw,BioHazard Liner bags 2gallon,Jun-20,43,0,43,97.72727272727273
+MI-Sagnaw,BioHazard Liner bags 2gallon,Jul-20,43,0,43,97.72727272727273
+MI-Sagnaw,BioHazard Liner bags 2gallon,Aug-20,43,0,43,97.72727272727273
+MI-Sagnaw,BioHazard Liner bags 2gallon,Sep-20,43,0,43,97.72727272727273
+MI-Sagnaw,BioHazard Liner bags 44gallon,Jan-20,160,83,77,47.82608695652174
+MI-Sagnaw,BioHazard Liner bags 44gallon,Feb-20,160,86,74,45.962732919254655
+MI-Sagnaw,BioHazard Liner bags 44gallon,Mar-20,160,75,85,52.79503105590062
+MI-Sagnaw,BioHazard Liner bags 44gallon,Apr-20,160,60,100,62.11180124223603
+MI-Sagnaw,BioHazard Liner bags 44gallon,May-20,160,67,93,57.7639751552795
+MI-Sagnaw,BioHazard Liner bags 44gallon,Jun-20,160,67,93,57.7639751552795
+MI-Sagnaw,BioHazard Liner bags 44gallon,Jul-20,160,51,109,67.70186335403727
+MI-Sagnaw,BioHazard Liner bags 44gallon,Aug-20,160,46,114,70.80745341614907
+MI-Sagnaw,BioHazard Liner bags 44gallon,Sep-20,160,34,126,78.26086956521739
+MI-Sagnaw,Blue Solied Linen bags,Jan-20,104,104,0,0.0
+MI-Sagnaw,Blue Solied Linen bags,Feb-20,104,104,0,0.0
+MI-Sagnaw,Blue Solied Linen bags,Mar-20,104,104,0,0.0
+MI-Sagnaw,Blue Solied Linen bags,Apr-20,104,104,0,0.0
+MI-Sagnaw,Blue Solied Linen bags,May-20,104,104,0,0.0
+MI-Sagnaw,Blue Solied Linen bags,Jun-20,104,104,0,0.0
+MI-Sagnaw,Blue Solied Linen bags,Jul-20,104,104,0,0.0
+MI-Sagnaw,Blue Solied Linen bags,Aug-20,104,104,0,0.0
+MI-Sagnaw,Blue Solied Linen bags,Sep-20,104,104,0,0.0
+MI-Sagnaw,Syringes,Jan-20,161,0,161,99.38271604938272
+MI-Sagnaw,Syringes,Feb-20,161,0,161,99.38271604938272
+MI-Sagnaw,Syringes,Mar-20,161,0,161,99.38271604938272
+MI-Sagnaw,Syringes,Apr-20,161,0,161,99.38271604938272
+MI-Sagnaw,Syringes,May-20,161,0,161,99.38271604938272
+MI-Sagnaw,Syringes,Jun-20,161,0,161,99.38271604938272
+MI-Sagnaw,Syringes,Jul-20,161,0,161,99.38271604938272
+MI-Sagnaw,Syringes,Aug-20,161,0,161,99.38271604938272
+MI-Sagnaw,Syringes,Sep-20,161,0,161,99.38271604938272
+MI-Sagnaw,IV Catheters,Jan-20,86,86,0,0.0
+MI-Sagnaw,IV Catheters,Feb-20,86,86,0,0.0
+MI-Sagnaw,IV Catheters,Mar-20,86,86,0,0.0
+MI-Sagnaw,IV Catheters,Apr-20,86,86,0,0.0
+MI-Sagnaw,IV Catheters,May-20,86,86,0,0.0
+MI-Sagnaw,IV Catheters,Jun-20,86,86,0,0.0
+MI-Sagnaw,IV Catheters,Jul-20,86,86,0,0.0
+MI-Sagnaw,IV Catheters,Aug-20,86,86,0,0.0
+MI-Sagnaw,IV Catheters,Sep-20,86,86,0,0.0
+MI-Sagnaw,Needles,Jan-20,125,18,107,84.92063492063492
+MI-Sagnaw,Needles,Feb-20,125,27,98,77.77777777777777
+MI-Sagnaw,Needles,Mar-20,125,0,125,99.2063492063492
+MI-Sagnaw,Needles,Apr-20,125,0,125,99.2063492063492
+MI-Sagnaw,Needles,May-20,125,0,125,99.2063492063492
+MI-Sagnaw,Needles,Jun-20,125,0,125,99.2063492063492
+MI-Sagnaw,Needles,Jul-20,125,0,125,99.2063492063492
+MI-Sagnaw,Needles,Aug-20,125,0,125,99.2063492063492
+MI-Sagnaw,Needles,Sep-20,125,0,125,99.2063492063492
+MI-Sagnaw,Surface Disinfectant 1 Gallon,Jan-20,35,35,0,0.0
+MI-Sagnaw,Surface Disinfectant 1 Gallon,Feb-20,35,35,0,0.0
+MI-Sagnaw,Surface Disinfectant 1 Gallon,Mar-20,35,35,0,0.0
+MI-Sagnaw,Surface Disinfectant 1 Gallon,Apr-20,35,35,0,0.0
+MI-Sagnaw,Surface Disinfectant 1 Gallon,May-20,35,35,0,0.0
+MI-Sagnaw,Surface Disinfectant 1 Gallon,Jun-20,35,35,0,0.0
+MI-Sagnaw,Surface Disinfectant 1 Gallon,Jul-20,35,35,0,0.0
+MI-Sagnaw,Surface Disinfectant 1 Gallon,Aug-20,35,35,0,0.0
+MI-Sagnaw,Surface Disinfectant 1 Gallon,Sep-20,35,35,0,0.0
+MI-Dearborn,Gown protective,Jan-20,89,89,0,0.0
+MI-Dearborn,Gown protective,Feb-20,89,89,0,0.0
+MI-Dearborn,Gown protective,Mar-20,89,89,0,0.0
+MI-Dearborn,Gown protective,Apr-20,89,89,0,0.0
+MI-Dearborn,Gown protective,May-20,89,89,0,0.0
+MI-Dearborn,Gown protective,Jun-20,89,89,0,0.0
+MI-Dearborn,Gown protective,Jul-20,89,89,0,0.0
+MI-Dearborn,Gown protective,Aug-20,89,89,0,0.0
+MI-Dearborn,Gown protective,Sep-20,89,89,0,0.0
+MI-Dearborn,Scrubs tops,Jan-20,61,61,0,0.0
+MI-Dearborn,Scrubs tops,Feb-20,61,61,0,0.0
+MI-Dearborn,Scrubs tops,Mar-20,61,61,0,0.0
+MI-Dearborn,Scrubs tops,Apr-20,61,61,0,0.0
+MI-Dearborn,Scrubs tops,May-20,61,61,0,0.0
+MI-Dearborn,Scrubs tops,Jun-20,61,61,0,0.0
+MI-Dearborn,Scrubs tops,Jul-20,61,61,0,0.0
+MI-Dearborn,Scrubs tops,Aug-20,61,61,0,0.0
+MI-Dearborn,Scrubs tops,Sep-20,61,61,0,0.0
+MI-Dearborn,Lab screening test kit,Jan-20,117,0,117,99.15254237288136
+MI-Dearborn,Lab screening test kit,Feb-20,117,0,117,99.15254237288136
+MI-Dearborn,Lab screening test kit,Mar-20,117,0,117,99.15254237288136
+MI-Dearborn,Lab screening test kit,Apr-20,117,0,117,99.15254237288136
+MI-Dearborn,Lab screening test kit,May-20,117,0,117,99.15254237288136
+MI-Dearborn,Lab screening test kit,Jun-20,117,0,117,99.15254237288136
+MI-Dearborn,Lab screening test kit,Jul-20,117,0,117,99.15254237288136
+MI-Dearborn,Lab screening test kit,Aug-20,117,0,117,99.15254237288136
+MI-Dearborn,Lab screening test kit,Sep-20,117,0,117,99.15254237288136
+MI-Dearborn,Lab extraction kit,Jan-20,213,213,0,0.0
+MI-Dearborn,Lab extraction kit,Feb-20,213,213,0,0.0
+MI-Dearborn,Lab extraction kit,Mar-20,213,213,0,0.0
+MI-Dearborn,Lab extraction kit,Apr-20,213,213,0,0.0
+MI-Dearborn,Lab extraction kit,May-20,213,213,0,0.0
+MI-Dearborn,Lab extraction kit,Jun-20,213,213,0,0.0
+MI-Dearborn,Lab extraction kit,Jul-20,213,213,0,0.0
+MI-Dearborn,Lab extraction kit,Aug-20,213,213,0,0.0
+MI-Dearborn,Lab extraction kit,Sep-20,213,213,0,0.0
+MI-Dearborn,powered air purifying respirators,Jan-20,48,48,0,0.0
+MI-Dearborn,powered air purifying respirators,Feb-20,48,48,0,0.0
+MI-Dearborn,powered air purifying respirators,Mar-20,48,48,0,0.0
+MI-Dearborn,powered air purifying respirators,Apr-20,48,48,0,0.0
+MI-Dearborn,powered air purifying respirators,May-20,48,48,0,0.0
+MI-Dearborn,powered air purifying respirators,Jun-20,48,48,0,0.0
+MI-Dearborn,powered air purifying respirators,Jul-20,48,48,0,0.0
+MI-Dearborn,powered air purifying respirators,Aug-20,48,48,0,0.0
+MI-Dearborn,powered air purifying respirators,Sep-20,48,48,0,0.0
+MI-Dearborn,Wipes,Jan-20,139,139,0,0.0
+MI-Dearborn,Wipes,Feb-20,139,139,0,0.0
+MI-Dearborn,Wipes,Mar-20,139,139,0,0.0
+MI-Dearborn,Wipes,Apr-20,139,139,0,0.0
+MI-Dearborn,Wipes,May-20,139,139,0,0.0
+MI-Dearborn,Wipes,Jun-20,139,139,0,0.0
+MI-Dearborn,Wipes,Jul-20,139,139,0,0.0
+MI-Dearborn,Wipes,Aug-20,139,139,0,0.0
+MI-Dearborn,Wipes,Sep-20,139,139,0,0.0
+MI-Dearborn,Alcohol-based hand rub,Jan-20,156,52,104,66.24203821656052
+MI-Dearborn,Alcohol-based hand rub,Feb-20,156,34,122,77.70700636942675
+MI-Dearborn,Alcohol-based hand rub,Mar-20,156,17,139,88.53503184713375
+MI-Dearborn,Alcohol-based hand rub,Apr-20,156,1,155,98.72611464968153
+MI-Dearborn,Alcohol-based hand rub,May-20,156,0,156,99.36305732484077
+MI-Dearborn,Alcohol-based hand rub,Jun-20,156,0,156,99.36305732484077
+MI-Dearborn,Alcohol-based hand rub,Jul-20,156,0,156,99.36305732484077
+MI-Dearborn,Alcohol-based hand rub,Aug-20,156,85,71,45.22292993630573
+MI-Dearborn,Alcohol-based hand rub,Sep-20,156,21,135,85.98726114649682
+MI-Dearborn,"Chlorine, HTH 70%",Jan-20,111,111,0,0.0
+MI-Dearborn,"Chlorine, HTH 70%",Feb-20,111,111,0,0.0
+MI-Dearborn,"Chlorine, HTH 70%",Mar-20,111,111,0,0.0
+MI-Dearborn,"Chlorine, HTH 70%",Apr-20,111,111,0,0.0
+MI-Dearborn,"Chlorine, HTH 70%",May-20,111,111,0,0.0
+MI-Dearborn,"Chlorine, HTH 70%",Jun-20,111,111,0,0.0
+MI-Dearborn,"Chlorine, HTH 70%",Jul-20,111,111,0,0.0
+MI-Dearborn,"Chlorine, HTH 70%",Aug-20,111,111,0,0.0
+MI-Dearborn,"Chlorine, HTH 70%",Sep-20,111,111,0,0.0
+MI-Dearborn,Safety box,Jan-20,204,204,0,0.0
+MI-Dearborn,Safety box,Feb-20,204,204,0,0.0
+MI-Dearborn,Safety box,Mar-20,204,204,0,0.0
+MI-Dearborn,Safety box,Apr-20,204,204,0,0.0
+MI-Dearborn,Safety box,May-20,204,204,0,0.0
+MI-Dearborn,Safety box,Jun-20,204,204,0,0.0
+MI-Dearborn,Safety box,Jul-20,204,204,0,0.0
+MI-Dearborn,Safety box,Aug-20,204,204,0,0.0
+MI-Dearborn,Safety box,Sep-20,204,204,0,0.0
+MI-Dearborn,Non contact infrared Thermometer,Jan-20,36,36,0,0.0
+MI-Dearborn,Non contact infrared Thermometer,Feb-20,36,36,0,0.0
+MI-Dearborn,Non contact infrared Thermometer,Mar-20,36,36,0,0.0
+MI-Dearborn,Non contact infrared Thermometer,Apr-20,36,36,0,0.0
+MI-Dearborn,Non contact infrared Thermometer,May-20,36,36,0,0.0
+MI-Dearborn,Non contact infrared Thermometer,Jun-20,36,36,0,0.0
+MI-Dearborn,Non contact infrared Thermometer,Jul-20,36,36,0,0.0
+MI-Dearborn,Non contact infrared Thermometer,Aug-20,36,35,1,2.7027027027027026
+MI-Dearborn,Non contact infrared Thermometer,Sep-20,36,36,0,0.0
+MI-Dearborn,Goggles protective,Jan-20,143,0,143,99.30555555555556
+MI-Dearborn,Goggles protective,Feb-20,143,0,143,99.30555555555556
+MI-Dearborn,Goggles protective,Mar-20,143,0,143,99.30555555555556
+MI-Dearborn,Goggles protective,Apr-20,143,0,143,99.30555555555556
+MI-Dearborn,Goggles protective,May-20,143,0,143,99.30555555555556
+MI-Dearborn,Goggles protective,Jun-20,143,0,143,99.30555555555556
+MI-Dearborn,Goggles protective,Jul-20,143,0,143,99.30555555555556
+MI-Dearborn,Goggles protective,Aug-20,143,1,142,98.61111111111111
+MI-Dearborn,Goggles protective,Sep-20,143,0,143,99.30555555555556
+MI-Dearborn,Disposable foot covers,Jan-20,66,10,56,83.58208955223881
+MI-Dearborn,Disposable foot covers,Feb-20,66,20,46,68.65671641791045
+MI-Dearborn,Disposable foot covers,Mar-20,66,0,66,98.50746268656717
+MI-Dearborn,Disposable foot covers,Apr-20,66,13,53,79.1044776119403
+MI-Dearborn,Disposable foot covers,May-20,66,44,22,32.83582089552239
+MI-Dearborn,Disposable foot covers,Jun-20,66,32,34,50.74626865671642
+MI-Dearborn,Disposable foot covers,Jul-20,66,29,37,55.223880597014926
+MI-Dearborn,Disposable foot covers,Aug-20,66,0,66,98.50746268656717
+MI-Dearborn,Disposable foot covers,Sep-20,66,45,21,31.34328358208955
+MI-Dearborn,M4 viral media,Jan-20,252,0,252,99.60474308300395
+MI-Dearborn,M4 viral media,Feb-20,252,0,252,99.60474308300395
+MI-Dearborn,M4 viral media,Mar-20,252,0,252,99.60474308300395
+MI-Dearborn,M4 viral media,Apr-20,252,0,252,99.60474308300395
+MI-Dearborn,M4 viral media,May-20,252,0,252,99.60474308300395
+MI-Dearborn,M4 viral media,Jun-20,252,0,252,99.60474308300395
+MI-Dearborn,M4 viral media,Jul-20,252,0,252,99.60474308300395
+MI-Dearborn,M4 viral media,Aug-20,252,0,252,99.60474308300395
+MI-Dearborn,M4 viral media,Sep-20,252,0,252,99.60474308300395
+MI-Dearborn,Triple packaging boxes,Jan-20,145,0,145,99.31506849315069
+MI-Dearborn,Triple packaging boxes,Feb-20,145,2,143,97.94520547945206
+MI-Dearborn,Triple packaging boxes,Mar-20,145,0,145,99.31506849315069
+MI-Dearborn,Triple packaging boxes,Apr-20,145,0,145,99.31506849315069
+MI-Dearborn,Triple packaging boxes,May-20,145,0,145,99.31506849315069
+MI-Dearborn,Triple packaging boxes,Jun-20,145,0,145,99.31506849315069
+MI-Dearborn,Triple packaging boxes,Jul-20,145,0,145,99.31506849315069
+MI-Dearborn,Triple packaging boxes,Aug-20,145,0,145,99.31506849315069
+MI-Dearborn,Triple packaging boxes,Sep-20,145,0,145,99.31506849315069
+MI-Dearborn,Liquid soap,Jan-20,169,0,169,99.41176470588235
+MI-Dearborn,Liquid soap,Feb-20,169,0,169,99.41176470588235
+MI-Dearborn,Liquid soap,Mar-20,169,0,169,99.41176470588235
+MI-Dearborn,Liquid soap,Apr-20,169,0,169,99.41176470588235
+MI-Dearborn,Liquid soap,May-20,169,0,169,99.41176470588235
+MI-Dearborn,Liquid soap,Jun-20,169,0,169,99.41176470588235
+MI-Dearborn,Liquid soap,Jul-20,169,0,169,99.41176470588235
+MI-Dearborn,Liquid soap,Aug-20,169,0,169,99.41176470588235
+MI-Dearborn,Liquid soap,Sep-20,169,0,169,99.41176470588235
+MI-Dearborn,Mask medical,Jan-20,261,0,261,99.61832061068702
+MI-Dearborn,Mask medical,Feb-20,261,0,261,99.61832061068702
+MI-Dearborn,Mask medical,Mar-20,261,0,261,99.61832061068702
+MI-Dearborn,Mask medical,Apr-20,261,0,261,99.61832061068702
+MI-Dearborn,Mask medical,May-20,261,0,261,99.61832061068702
+MI-Dearborn,Mask medical,Jun-20,261,0,261,99.61832061068702
+MI-Dearborn,Mask medical,Jul-20,261,0,261,99.61832061068702
+MI-Dearborn,Mask medical,Aug-20,261,0,261,99.61832061068702
+MI-Dearborn,Mask medical,Sep-20,261,0,261,99.61832061068702
+MI-Dearborn,Scrubs pants,Jan-20,160,0,160,99.37888198757764
+MI-Dearborn,Scrubs pants,Feb-20,160,0,160,99.37888198757764
+MI-Dearborn,Scrubs pants,Mar-20,160,0,160,99.37888198757764
+MI-Dearborn,Scrubs pants,Apr-20,160,0,160,99.37888198757764
+MI-Dearborn,Scrubs pants,May-20,160,0,160,99.37888198757764
+MI-Dearborn,Scrubs pants,Jun-20,160,0,160,99.37888198757764
+MI-Dearborn,Scrubs pants,Jul-20,160,0,160,99.37888198757764
+MI-Dearborn,Scrubs pants,Aug-20,160,0,160,99.37888198757764
+MI-Dearborn,Scrubs pants,Sep-20,160,1,159,98.75776397515529
+MI-Dearborn,Face shield,Jan-20,56,56,0,0.0
+MI-Dearborn,Face shield,Feb-20,56,56,0,0.0
+MI-Dearborn,Face shield,Mar-20,56,56,0,0.0
+MI-Dearborn,Face shield,Apr-20,56,56,0,0.0
+MI-Dearborn,Face shield,May-20,56,56,0,0.0
+MI-Dearborn,Face shield,Jun-20,56,56,0,0.0
+MI-Dearborn,Face shield,Jul-20,56,56,0,0.0
+MI-Dearborn,Face shield,Aug-20,56,56,0,0.0
+MI-Dearborn,Face shield,Sep-20,56,56,0,0.0
+MI-Dearborn,Gloves,Jan-20,175,175,0,0.0
+MI-Dearborn,Gloves,Feb-20,175,175,0,0.0
+MI-Dearborn,Gloves,Mar-20,175,175,0,0.0
+MI-Dearborn,Gloves,Apr-20,175,175,0,0.0
+MI-Dearborn,Gloves,May-20,175,175,0,0.0
+MI-Dearborn,Gloves,Jun-20,175,175,0,0.0
+MI-Dearborn,Gloves,Jul-20,175,175,0,0.0
+MI-Dearborn,Gloves,Aug-20,175,175,0,0.0
+MI-Dearborn,Gloves,Sep-20,175,175,0,0.0
+MI-Dearborn,Nasal testing swabs,Jan-20,111,0,111,99.10714285714286
+MI-Dearborn,Nasal testing swabs,Feb-20,111,0,111,99.10714285714286
+MI-Dearborn,Nasal testing swabs,Mar-20,111,0,111,99.10714285714286
+MI-Dearborn,Nasal testing swabs,Apr-20,111,0,111,99.10714285714286
+MI-Dearborn,Nasal testing swabs,May-20,111,0,111,99.10714285714286
+MI-Dearborn,Nasal testing swabs,Jun-20,111,0,111,99.10714285714286
+MI-Dearborn,Nasal testing swabs,Jul-20,111,0,111,99.10714285714286
+MI-Dearborn,Nasal testing swabs,Aug-20,111,0,111,99.10714285714286
+MI-Dearborn,Nasal testing swabs,Sep-20,111,0,111,99.10714285714286
+MI-Dearborn,InvasiveVentilators,Jan-20,272,0,272,99.63369963369964
+MI-Dearborn,InvasiveVentilators,Feb-20,272,0,272,99.63369963369964
+MI-Dearborn,InvasiveVentilators,Mar-20,272,0,272,99.63369963369964
+MI-Dearborn,InvasiveVentilators,Apr-20,272,0,272,99.63369963369964
+MI-Dearborn,InvasiveVentilators,May-20,272,0,272,99.63369963369964
+MI-Dearborn,InvasiveVentilators,Jun-20,272,0,272,99.63369963369964
+MI-Dearborn,InvasiveVentilators,Jul-20,272,0,272,99.63369963369964
+MI-Dearborn,InvasiveVentilators,Aug-20,272,0,272,99.63369963369964
+MI-Dearborn,InvasiveVentilators,Sep-20,272,0,272,99.63369963369964
+MI-Dearborn,Non Invasive Ventilators,Jan-20,88,88,0,0.0
+MI-Dearborn,Non Invasive Ventilators,Feb-20,88,88,0,0.0
+MI-Dearborn,Non Invasive Ventilators,Mar-20,88,88,0,0.0
+MI-Dearborn,Non Invasive Ventilators,Apr-20,88,88,0,0.0
+MI-Dearborn,Non Invasive Ventilators,May-20,88,88,0,0.0
+MI-Dearborn,Non Invasive Ventilators,Jun-20,88,88,0,0.0
+MI-Dearborn,Non Invasive Ventilators,Jul-20,88,88,0,0.0
+MI-Dearborn,Non Invasive Ventilators,Aug-20,88,88,0,0.0
+MI-Dearborn,Non Invasive Ventilators,Sep-20,88,88,0,0.0
+MI-Dearborn,BioHazard Liner bags 2gallon,Jan-20,225,0,225,99.5575221238938
+MI-Dearborn,BioHazard Liner bags 2gallon,Feb-20,225,0,225,99.5575221238938
+MI-Dearborn,BioHazard Liner bags 2gallon,Mar-20,225,0,225,99.5575221238938
+MI-Dearborn,BioHazard Liner bags 2gallon,Apr-20,225,0,225,99.5575221238938
+MI-Dearborn,BioHazard Liner bags 2gallon,May-20,225,0,225,99.5575221238938
+MI-Dearborn,BioHazard Liner bags 2gallon,Jun-20,225,0,225,99.5575221238938
+MI-Dearborn,BioHazard Liner bags 2gallon,Jul-20,225,0,225,99.5575221238938
+MI-Dearborn,BioHazard Liner bags 2gallon,Aug-20,225,0,225,99.5575221238938
+MI-Dearborn,BioHazard Liner bags 2gallon,Sep-20,225,0,225,99.5575221238938
+MI-Dearborn,BioHazard Liner bags 44gallon,Jan-20,168,0,168,99.40828402366864
+MI-Dearborn,BioHazard Liner bags 44gallon,Feb-20,168,0,168,99.40828402366864
+MI-Dearborn,BioHazard Liner bags 44gallon,Mar-20,168,0,168,99.40828402366864
+MI-Dearborn,BioHazard Liner bags 44gallon,Apr-20,168,0,168,99.40828402366864
+MI-Dearborn,BioHazard Liner bags 44gallon,May-20,168,0,168,99.40828402366864
+MI-Dearborn,BioHazard Liner bags 44gallon,Jun-20,168,0,168,99.40828402366864
+MI-Dearborn,BioHazard Liner bags 44gallon,Jul-20,168,0,168,99.40828402366864
+MI-Dearborn,BioHazard Liner bags 44gallon,Aug-20,168,0,168,99.40828402366864
+MI-Dearborn,BioHazard Liner bags 44gallon,Sep-20,168,0,168,99.40828402366864
+MI-Dearborn,Blue Solied Linen bags,Jan-20,37,37,0,0.0
+MI-Dearborn,Blue Solied Linen bags,Feb-20,37,37,0,0.0
+MI-Dearborn,Blue Solied Linen bags,Mar-20,37,37,0,0.0
+MI-Dearborn,Blue Solied Linen bags,Apr-20,37,37,0,0.0
+MI-Dearborn,Blue Solied Linen bags,May-20,37,37,0,0.0
+MI-Dearborn,Blue Solied Linen bags,Jun-20,37,37,0,0.0
+MI-Dearborn,Blue Solied Linen bags,Jul-20,37,37,0,0.0
+MI-Dearborn,Blue Solied Linen bags,Aug-20,37,37,0,0.0
+MI-Dearborn,Blue Solied Linen bags,Sep-20,37,37,0,0.0
+MI-Dearborn,Syringes,Jan-20,122,0,122,99.1869918699187
+MI-Dearborn,Syringes,Feb-20,122,0,122,99.1869918699187
+MI-Dearborn,Syringes,Mar-20,122,0,122,99.1869918699187
+MI-Dearborn,Syringes,Apr-20,122,0,122,99.1869918699187
+MI-Dearborn,Syringes,May-20,122,0,122,99.1869918699187
+MI-Dearborn,Syringes,Jun-20,122,0,122,99.1869918699187
+MI-Dearborn,Syringes,Jul-20,122,0,122,99.1869918699187
+MI-Dearborn,Syringes,Aug-20,122,0,122,99.1869918699187
+MI-Dearborn,Syringes,Sep-20,122,0,122,99.1869918699187
+MI-Dearborn,IV Catheters,Jan-20,147,147,0,0.0
+MI-Dearborn,IV Catheters,Feb-20,147,147,0,0.0
+MI-Dearborn,IV Catheters,Mar-20,147,147,0,0.0
+MI-Dearborn,IV Catheters,Apr-20,147,147,0,0.0
+MI-Dearborn,IV Catheters,May-20,147,147,0,0.0
+MI-Dearborn,IV Catheters,Jun-20,147,147,0,0.0
+MI-Dearborn,IV Catheters,Jul-20,147,147,0,0.0
+MI-Dearborn,IV Catheters,Aug-20,147,147,0,0.0
+MI-Dearborn,IV Catheters,Sep-20,147,147,0,0.0
+MI-Dearborn,Needles,Jan-20,126,126,0,0.0
+MI-Dearborn,Needles,Feb-20,126,126,0,0.0
+MI-Dearborn,Needles,Mar-20,126,126,0,0.0
+MI-Dearborn,Needles,Apr-20,126,126,0,0.0
+MI-Dearborn,Needles,May-20,126,126,0,0.0
+MI-Dearborn,Needles,Jun-20,126,126,0,0.0
+MI-Dearborn,Needles,Jul-20,126,126,0,0.0
+MI-Dearborn,Needles,Aug-20,126,88,38,29.921259842519685
+MI-Dearborn,Needles,Sep-20,126,115,11,8.661417322834646
+MI-Dearborn,Surface Disinfectant 1 Gallon,Jan-20,274,274,0,0.0
+MI-Dearborn,Surface Disinfectant 1 Gallon,Feb-20,274,274,0,0.0
+MI-Dearborn,Surface Disinfectant 1 Gallon,Mar-20,274,274,0,0.0
+MI-Dearborn,Surface Disinfectant 1 Gallon,Apr-20,274,274,0,0.0
+MI-Dearborn,Surface Disinfectant 1 Gallon,May-20,274,274,0,0.0
+MI-Dearborn,Surface Disinfectant 1 Gallon,Jun-20,274,274,0,0.0
+MI-Dearborn,Surface Disinfectant 1 Gallon,Jul-20,274,274,0,0.0
+MI-Dearborn,Surface Disinfectant 1 Gallon,Aug-20,274,274,0,0.0
+MI-Dearborn,Surface Disinfectant 1 Gallon,Sep-20,274,274,0,0.0
+MI-Auburn/hills,Gown protective,Jan-20,53,0,53,98.14814814814815
+MI-Auburn/hills,Gown protective,Feb-20,53,4,49,90.74074074074075
+MI-Auburn/hills,Gown protective,Mar-20,53,0,53,98.14814814814815
+MI-Auburn/hills,Gown protective,Apr-20,53,0,53,98.14814814814815
+MI-Auburn/hills,Gown protective,May-20,53,0,53,98.14814814814815
+MI-Auburn/hills,Gown protective,Jun-20,53,0,53,98.14814814814815
+MI-Auburn/hills,Gown protective,Jul-20,53,0,53,98.14814814814815
+MI-Auburn/hills,Gown protective,Aug-20,53,0,53,98.14814814814815
+MI-Auburn/hills,Gown protective,Sep-20,53,0,53,98.14814814814815
+MI-Auburn/hills,Scrubs tops,Jan-20,259,0,259,99.61538461538461
+MI-Auburn/hills,Scrubs tops,Feb-20,259,0,259,99.61538461538461
+MI-Auburn/hills,Scrubs tops,Mar-20,259,1,258,99.23076923076923
+MI-Auburn/hills,Scrubs tops,Apr-20,259,0,259,99.61538461538461
+MI-Auburn/hills,Scrubs tops,May-20,259,0,259,99.61538461538461
+MI-Auburn/hills,Scrubs tops,Jun-20,259,0,259,99.61538461538461
+MI-Auburn/hills,Scrubs tops,Jul-20,259,0,259,99.61538461538461
+MI-Auburn/hills,Scrubs tops,Aug-20,259,0,259,99.61538461538461
+MI-Auburn/hills,Scrubs tops,Sep-20,259,0,259,99.61538461538461
+MI-Auburn/hills,Lab screening test kit,Jan-20,80,0,80,98.76543209876543
+MI-Auburn/hills,Lab screening test kit,Feb-20,80,0,80,98.76543209876543
+MI-Auburn/hills,Lab screening test kit,Mar-20,80,0,80,98.76543209876543
+MI-Auburn/hills,Lab screening test kit,Apr-20,80,0,80,98.76543209876543
+MI-Auburn/hills,Lab screening test kit,May-20,80,0,80,98.76543209876543
+MI-Auburn/hills,Lab screening test kit,Jun-20,80,0,80,98.76543209876543
+MI-Auburn/hills,Lab screening test kit,Jul-20,80,0,80,98.76543209876543
+MI-Auburn/hills,Lab screening test kit,Aug-20,80,0,80,98.76543209876543
+MI-Auburn/hills,Lab screening test kit,Sep-20,80,0,80,98.76543209876543
+MI-Auburn/hills,Lab extraction kit,Jan-20,239,239,0,0.0
+MI-Auburn/hills,Lab extraction kit,Feb-20,239,196,43,17.916666666666668
+MI-Auburn/hills,Lab extraction kit,Mar-20,239,213,26,10.833333333333334
+MI-Auburn/hills,Lab extraction kit,Apr-20,239,230,9,3.75
+MI-Auburn/hills,Lab extraction kit,May-20,239,188,51,21.25
+MI-Auburn/hills,Lab extraction kit,Jun-20,239,149,90,37.5
+MI-Auburn/hills,Lab extraction kit,Jul-20,239,127,112,46.666666666666664
+MI-Auburn/hills,Lab extraction kit,Aug-20,239,172,67,27.916666666666668
+MI-Auburn/hills,Lab extraction kit,Sep-20,239,114,125,52.083333333333336
+MI-Auburn/hills,powered air purifying respirators,Jan-20,76,0,76,98.7012987012987
+MI-Auburn/hills,powered air purifying respirators,Feb-20,76,0,76,98.7012987012987
+MI-Auburn/hills,powered air purifying respirators,Mar-20,76,0,76,98.7012987012987
+MI-Auburn/hills,powered air purifying respirators,Apr-20,76,0,76,98.7012987012987
+MI-Auburn/hills,powered air purifying respirators,May-20,76,0,76,98.7012987012987
+MI-Auburn/hills,powered air purifying respirators,Jun-20,76,0,76,98.7012987012987
+MI-Auburn/hills,powered air purifying respirators,Jul-20,76,0,76,98.7012987012987
+MI-Auburn/hills,powered air purifying respirators,Aug-20,76,0,76,98.7012987012987
+MI-Auburn/hills,powered air purifying respirators,Sep-20,76,0,76,98.7012987012987
+MI-Auburn/hills,Wipes,Jan-20,33,33,0,0.0
+MI-Auburn/hills,Wipes,Feb-20,33,11,22,64.70588235294117
+MI-Auburn/hills,Wipes,Mar-20,33,33,0,0.0
+MI-Auburn/hills,Wipes,Apr-20,33,0,33,97.05882352941177
+MI-Auburn/hills,Wipes,May-20,33,33,0,0.0
+MI-Auburn/hills,Wipes,Jun-20,33,33,0,0.0
+MI-Auburn/hills,Wipes,Jul-20,33,33,0,0.0
+MI-Auburn/hills,Wipes,Aug-20,33,33,0,0.0
+MI-Auburn/hills,Wipes,Sep-20,33,33,0,0.0
+MI-Auburn/hills,Alcohol-based hand rub,Jan-20,80,0,80,98.76543209876543
+MI-Auburn/hills,Alcohol-based hand rub,Feb-20,80,0,80,98.76543209876543
+MI-Auburn/hills,Alcohol-based hand rub,Mar-20,80,0,80,98.76543209876543
+MI-Auburn/hills,Alcohol-based hand rub,Apr-20,80,0,80,98.76543209876543
+MI-Auburn/hills,Alcohol-based hand rub,May-20,80,0,80,98.76543209876543
+MI-Auburn/hills,Alcohol-based hand rub,Jun-20,80,0,80,98.76543209876543
+MI-Auburn/hills,Alcohol-based hand rub,Jul-20,80,0,80,98.76543209876543
+MI-Auburn/hills,Alcohol-based hand rub,Aug-20,80,0,80,98.76543209876543
+MI-Auburn/hills,Alcohol-based hand rub,Sep-20,80,0,80,98.76543209876543
+MI-Auburn/hills,"Chlorine, HTH 70%",Jan-20,30,30,0,0.0
+MI-Auburn/hills,"Chlorine, HTH 70%",Feb-20,30,30,0,0.0
+MI-Auburn/hills,"Chlorine, HTH 70%",Mar-20,30,30,0,0.0
+MI-Auburn/hills,"Chlorine, HTH 70%",Apr-20,30,30,0,0.0
+MI-Auburn/hills,"Chlorine, HTH 70%",May-20,30,30,0,0.0
+MI-Auburn/hills,"Chlorine, HTH 70%",Jun-20,30,30,0,0.0
+MI-Auburn/hills,"Chlorine, HTH 70%",Jul-20,30,30,0,0.0
+MI-Auburn/hills,"Chlorine, HTH 70%",Aug-20,30,30,0,0.0
+MI-Auburn/hills,"Chlorine, HTH 70%",Sep-20,30,30,0,0.0
+MI-Auburn/hills,Safety box,Jan-20,61,61,0,0.0
+MI-Auburn/hills,Safety box,Feb-20,61,61,0,0.0
+MI-Auburn/hills,Safety box,Mar-20,61,61,0,0.0
+MI-Auburn/hills,Safety box,Apr-20,61,61,0,0.0
+MI-Auburn/hills,Safety box,May-20,61,61,0,0.0
+MI-Auburn/hills,Safety box,Jun-20,61,61,0,0.0
+MI-Auburn/hills,Safety box,Jul-20,61,61,0,0.0
+MI-Auburn/hills,Safety box,Aug-20,61,61,0,0.0
+MI-Auburn/hills,Safety box,Sep-20,61,61,0,0.0
+MI-Auburn/hills,Non contact infrared Thermometer,Jan-20,258,258,0,0.0
+MI-Auburn/hills,Non contact infrared Thermometer,Feb-20,258,258,0,0.0
+MI-Auburn/hills,Non contact infrared Thermometer,Mar-20,258,258,0,0.0
+MI-Auburn/hills,Non contact infrared Thermometer,Apr-20,258,258,0,0.0
+MI-Auburn/hills,Non contact infrared Thermometer,May-20,258,258,0,0.0
+MI-Auburn/hills,Non contact infrared Thermometer,Jun-20,258,258,0,0.0
+MI-Auburn/hills,Non contact infrared Thermometer,Jul-20,258,258,0,0.0
+MI-Auburn/hills,Non contact infrared Thermometer,Aug-20,258,258,0,0.0
+MI-Auburn/hills,Non contact infrared Thermometer,Sep-20,258,258,0,0.0
+MI-Auburn/hills,Goggles protective,Jan-20,176,0,176,99.43502824858757
+MI-Auburn/hills,Goggles protective,Feb-20,176,0,176,99.43502824858757
+MI-Auburn/hills,Goggles protective,Mar-20,176,0,176,99.43502824858757
+MI-Auburn/hills,Goggles protective,Apr-20,176,0,176,99.43502824858757
+MI-Auburn/hills,Goggles protective,May-20,176,0,176,99.43502824858757
+MI-Auburn/hills,Goggles protective,Jun-20,176,0,176,99.43502824858757
+MI-Auburn/hills,Goggles protective,Jul-20,176,1,175,98.87005649717514
+MI-Auburn/hills,Goggles protective,Aug-20,176,0,176,99.43502824858757
+MI-Auburn/hills,Goggles protective,Sep-20,176,0,176,99.43502824858757
+MI-Auburn/hills,Disposable foot covers,Jan-20,226,226,0,0.0
+MI-Auburn/hills,Disposable foot covers,Feb-20,226,226,0,0.0
+MI-Auburn/hills,Disposable foot covers,Mar-20,226,225,1,0.44052863436123346
+MI-Auburn/hills,Disposable foot covers,Apr-20,226,226,0,0.0
+MI-Auburn/hills,Disposable foot covers,May-20,226,226,0,0.0
+MI-Auburn/hills,Disposable foot covers,Jun-20,226,226,0,0.0
+MI-Auburn/hills,Disposable foot covers,Jul-20,226,226,0,0.0
+MI-Auburn/hills,Disposable foot covers,Aug-20,226,226,0,0.0
+MI-Auburn/hills,Disposable foot covers,Sep-20,226,226,0,0.0
+MI-Auburn/hills,M4 viral media,Jan-20,168,0,168,99.40828402366864
+MI-Auburn/hills,M4 viral media,Feb-20,168,0,168,99.40828402366864
+MI-Auburn/hills,M4 viral media,Mar-20,168,0,168,99.40828402366864
+MI-Auburn/hills,M4 viral media,Apr-20,168,0,168,99.40828402366864
+MI-Auburn/hills,M4 viral media,May-20,168,0,168,99.40828402366864
+MI-Auburn/hills,M4 viral media,Jun-20,168,0,168,99.40828402366864
+MI-Auburn/hills,M4 viral media,Jul-20,168,0,168,99.40828402366864
+MI-Auburn/hills,M4 viral media,Aug-20,168,0,168,99.40828402366864
+MI-Auburn/hills,M4 viral media,Sep-20,168,0,168,99.40828402366864
+MI-Auburn/hills,Triple packaging boxes,Jan-20,159,0,159,99.375
+MI-Auburn/hills,Triple packaging boxes,Feb-20,159,0,159,99.375
+MI-Auburn/hills,Triple packaging boxes,Mar-20,159,0,159,99.375
+MI-Auburn/hills,Triple packaging boxes,Apr-20,159,0,159,99.375
+MI-Auburn/hills,Triple packaging boxes,May-20,159,0,159,99.375
+MI-Auburn/hills,Triple packaging boxes,Jun-20,159,0,159,99.375
+MI-Auburn/hills,Triple packaging boxes,Jul-20,159,0,159,99.375
+MI-Auburn/hills,Triple packaging boxes,Aug-20,159,0,159,99.375
+MI-Auburn/hills,Triple packaging boxes,Sep-20,159,0,159,99.375
+MI-Auburn/hills,Liquid soap,Jan-20,270,0,270,99.6309963099631
+MI-Auburn/hills,Liquid soap,Feb-20,270,0,270,99.6309963099631
+MI-Auburn/hills,Liquid soap,Mar-20,270,0,270,99.6309963099631
+MI-Auburn/hills,Liquid soap,Apr-20,270,0,270,99.6309963099631
+MI-Auburn/hills,Liquid soap,May-20,270,0,270,99.6309963099631
+MI-Auburn/hills,Liquid soap,Jun-20,270,0,270,99.6309963099631
+MI-Auburn/hills,Liquid soap,Jul-20,270,0,270,99.6309963099631
+MI-Auburn/hills,Liquid soap,Aug-20,270,0,270,99.6309963099631
+MI-Auburn/hills,Liquid soap,Sep-20,270,0,270,99.6309963099631
+MI-Auburn/hills,Mask medical,Jan-20,82,0,82,98.79518072289157
+MI-Auburn/hills,Mask medical,Feb-20,82,0,82,98.79518072289157
+MI-Auburn/hills,Mask medical,Mar-20,82,0,82,98.79518072289157
+MI-Auburn/hills,Mask medical,Apr-20,82,0,82,98.79518072289157
+MI-Auburn/hills,Mask medical,May-20,82,0,82,98.79518072289157
+MI-Auburn/hills,Mask medical,Jun-20,82,0,82,98.79518072289157
+MI-Auburn/hills,Mask medical,Jul-20,82,18,64,77.10843373493977
+MI-Auburn/hills,Mask medical,Aug-20,82,0,82,98.79518072289157
+MI-Auburn/hills,Mask medical,Sep-20,82,23,59,71.08433734939759
+MI-Auburn/hills,Scrubs pants,Jan-20,77,0,77,98.71794871794872
+MI-Auburn/hills,Scrubs pants,Feb-20,77,0,77,98.71794871794872
+MI-Auburn/hills,Scrubs pants,Mar-20,77,0,77,98.71794871794872
+MI-Auburn/hills,Scrubs pants,Apr-20,77,0,77,98.71794871794872
+MI-Auburn/hills,Scrubs pants,May-20,77,0,77,98.71794871794872
+MI-Auburn/hills,Scrubs pants,Jun-20,77,0,77,98.71794871794872
+MI-Auburn/hills,Scrubs pants,Jul-20,77,0,77,98.71794871794872
+MI-Auburn/hills,Scrubs pants,Aug-20,77,0,77,98.71794871794872
+MI-Auburn/hills,Scrubs pants,Sep-20,77,0,77,98.71794871794872
+MI-Auburn/hills,Face shield,Jan-20,164,164,0,0.0
+MI-Auburn/hills,Face shield,Feb-20,164,164,0,0.0
+MI-Auburn/hills,Face shield,Mar-20,164,164,0,0.0
+MI-Auburn/hills,Face shield,Apr-20,164,164,0,0.0
+MI-Auburn/hills,Face shield,May-20,164,164,0,0.0
+MI-Auburn/hills,Face shield,Jun-20,164,164,0,0.0
+MI-Auburn/hills,Face shield,Jul-20,164,164,0,0.0
+MI-Auburn/hills,Face shield,Aug-20,164,164,0,0.0
+MI-Auburn/hills,Face shield,Sep-20,164,164,0,0.0
+MI-Auburn/hills,Gloves,Jan-20,152,150,2,1.3071895424836601
+MI-Auburn/hills,Gloves,Feb-20,152,148,4,2.6143790849673203
+MI-Auburn/hills,Gloves,Mar-20,152,152,0,0.0
+MI-Auburn/hills,Gloves,Apr-20,152,67,85,55.55555555555556
+MI-Auburn/hills,Gloves,May-20,152,77,75,49.01960784313726
+MI-Auburn/hills,Gloves,Jun-20,152,100,52,33.98692810457516
+MI-Auburn/hills,Gloves,Jul-20,152,110,42,27.45098039215686
+MI-Auburn/hills,Gloves,Aug-20,152,105,47,30.718954248366014
+MI-Auburn/hills,Gloves,Sep-20,152,152,0,0.0
+MI-Auburn/hills,Nasal testing swabs,Jan-20,140,0,140,99.29078014184397
+MI-Auburn/hills,Nasal testing swabs,Feb-20,140,0,140,99.29078014184397
+MI-Auburn/hills,Nasal testing swabs,Mar-20,140,2,138,97.87234042553192
+MI-Auburn/hills,Nasal testing swabs,Apr-20,140,0,140,99.29078014184397
+MI-Auburn/hills,Nasal testing swabs,May-20,140,0,140,99.29078014184397
+MI-Auburn/hills,Nasal testing swabs,Jun-20,140,0,140,99.29078014184397
+MI-Auburn/hills,Nasal testing swabs,Jul-20,140,0,140,99.29078014184397
+MI-Auburn/hills,Nasal testing swabs,Aug-20,140,0,140,99.29078014184397
+MI-Auburn/hills,Nasal testing swabs,Sep-20,140,0,140,99.29078014184397
+MI-Auburn/hills,InvasiveVentilators,Jan-20,271,0,271,99.63235294117646
+MI-Auburn/hills,InvasiveVentilators,Feb-20,271,0,271,99.63235294117646
+MI-Auburn/hills,InvasiveVentilators,Mar-20,271,0,271,99.63235294117646
+MI-Auburn/hills,InvasiveVentilators,Apr-20,271,0,271,99.63235294117646
+MI-Auburn/hills,InvasiveVentilators,May-20,271,0,271,99.63235294117646
+MI-Auburn/hills,InvasiveVentilators,Jun-20,271,0,271,99.63235294117646
+MI-Auburn/hills,InvasiveVentilators,Jul-20,271,0,271,99.63235294117646
+MI-Auburn/hills,InvasiveVentilators,Aug-20,271,0,271,99.63235294117646
+MI-Auburn/hills,InvasiveVentilators,Sep-20,271,0,271,99.63235294117646
+MI-Auburn/hills,Non Invasive Ventilators,Jan-20,120,104,16,13.223140495867769
+MI-Auburn/hills,Non Invasive Ventilators,Feb-20,120,119,1,0.8264462809917356
+MI-Auburn/hills,Non Invasive Ventilators,Mar-20,120,116,4,3.3057851239669422
+MI-Auburn/hills,Non Invasive Ventilators,Apr-20,120,120,0,0.0
+MI-Auburn/hills,Non Invasive Ventilators,May-20,120,120,0,0.0
+MI-Auburn/hills,Non Invasive Ventilators,Jun-20,120,120,0,0.0
+MI-Auburn/hills,Non Invasive Ventilators,Jul-20,120,120,0,0.0
+MI-Auburn/hills,Non Invasive Ventilators,Aug-20,120,120,0,0.0
+MI-Auburn/hills,Non Invasive Ventilators,Sep-20,120,120,0,0.0
+MI-Auburn/hills,BioHazard Liner bags 2gallon,Jan-20,48,0,48,97.95918367346938
+MI-Auburn/hills,BioHazard Liner bags 2gallon,Feb-20,48,0,48,97.95918367346938
+MI-Auburn/hills,BioHazard Liner bags 2gallon,Mar-20,48,0,48,97.95918367346938
+MI-Auburn/hills,BioHazard Liner bags 2gallon,Apr-20,48,0,48,97.95918367346938
+MI-Auburn/hills,BioHazard Liner bags 2gallon,May-20,48,0,48,97.95918367346938
+MI-Auburn/hills,BioHazard Liner bags 2gallon,Jun-20,48,1,47,95.91836734693878
+MI-Auburn/hills,BioHazard Liner bags 2gallon,Jul-20,48,0,48,97.95918367346938
+MI-Auburn/hills,BioHazard Liner bags 2gallon,Aug-20,48,0,48,97.95918367346938
+MI-Auburn/hills,BioHazard Liner bags 2gallon,Sep-20,48,0,48,97.95918367346938
+MI-Auburn/hills,BioHazard Liner bags 44gallon,Jan-20,122,0,122,99.1869918699187
+MI-Auburn/hills,BioHazard Liner bags 44gallon,Feb-20,122,0,122,99.1869918699187
+MI-Auburn/hills,BioHazard Liner bags 44gallon,Mar-20,122,0,122,99.1869918699187
+MI-Auburn/hills,BioHazard Liner bags 44gallon,Apr-20,122,0,122,99.1869918699187
+MI-Auburn/hills,BioHazard Liner bags 44gallon,May-20,122,0,122,99.1869918699187
+MI-Auburn/hills,BioHazard Liner bags 44gallon,Jun-20,122,0,122,99.1869918699187
+MI-Auburn/hills,BioHazard Liner bags 44gallon,Jul-20,122,0,122,99.1869918699187
+MI-Auburn/hills,BioHazard Liner bags 44gallon,Aug-20,122,0,122,99.1869918699187
+MI-Auburn/hills,BioHazard Liner bags 44gallon,Sep-20,122,0,122,99.1869918699187
+MI-Auburn/hills,Blue Solied Linen bags,Jan-20,225,129,96,42.47787610619469
+MI-Auburn/hills,Blue Solied Linen bags,Feb-20,225,147,78,34.51327433628319
+MI-Auburn/hills,Blue Solied Linen bags,Mar-20,225,163,62,27.43362831858407
+MI-Auburn/hills,Blue Solied Linen bags,Apr-20,225,208,17,7.522123893805309
+MI-Auburn/hills,Blue Solied Linen bags,May-20,225,210,15,6.6371681415929205
+MI-Auburn/hills,Blue Solied Linen bags,Jun-20,225,225,0,0.0
+MI-Auburn/hills,Blue Solied Linen bags,Jul-20,225,225,0,0.0
+MI-Auburn/hills,Blue Solied Linen bags,Aug-20,225,225,0,0.0
+MI-Auburn/hills,Blue Solied Linen bags,Sep-20,225,225,0,0.0
+MI-Auburn/hills,Syringes,Jan-20,186,0,186,99.46524064171123
+MI-Auburn/hills,Syringes,Feb-20,186,0,186,99.46524064171123
+MI-Auburn/hills,Syringes,Mar-20,186,0,186,99.46524064171123
+MI-Auburn/hills,Syringes,Apr-20,186,0,186,99.46524064171123
+MI-Auburn/hills,Syringes,May-20,186,0,186,99.46524064171123
+MI-Auburn/hills,Syringes,Jun-20,186,0,186,99.46524064171123
+MI-Auburn/hills,Syringes,Jul-20,186,0,186,99.46524064171123
+MI-Auburn/hills,Syringes,Aug-20,186,0,186,99.46524064171123
+MI-Auburn/hills,Syringes,Sep-20,186,0,186,99.46524064171123
+MI-Auburn/hills,IV Catheters,Jan-20,187,187,0,0.0
+MI-Auburn/hills,IV Catheters,Feb-20,187,187,0,0.0
+MI-Auburn/hills,IV Catheters,Mar-20,187,187,0,0.0
+MI-Auburn/hills,IV Catheters,Apr-20,187,187,0,0.0
+MI-Auburn/hills,IV Catheters,May-20,187,187,0,0.0
+MI-Auburn/hills,IV Catheters,Jun-20,187,187,0,0.0
+MI-Auburn/hills,IV Catheters,Jul-20,187,187,0,0.0
+MI-Auburn/hills,IV Catheters,Aug-20,187,187,0,0.0
+MI-Auburn/hills,IV Catheters,Sep-20,187,187,0,0.0
+MI-Auburn/hills,Needles,Jan-20,64,0,64,98.46153846153847
+MI-Auburn/hills,Needles,Feb-20,64,0,64,98.46153846153847
+MI-Auburn/hills,Needles,Mar-20,64,0,64,98.46153846153847
+MI-Auburn/hills,Needles,Apr-20,64,0,64,98.46153846153847
+MI-Auburn/hills,Needles,May-20,64,0,64,98.46153846153847
+MI-Auburn/hills,Needles,Jun-20,64,0,64,98.46153846153847
+MI-Auburn/hills,Needles,Jul-20,64,0,64,98.46153846153847
+MI-Auburn/hills,Needles,Aug-20,64,0,64,98.46153846153847
+MI-Auburn/hills,Needles,Sep-20,64,0,64,98.46153846153847
+MI-Auburn/hills,Surface Disinfectant 1 Gallon,Jan-20,111,111,0,0.0
+MI-Auburn/hills,Surface Disinfectant 1 Gallon,Feb-20,111,111,0,0.0
+MI-Auburn/hills,Surface Disinfectant 1 Gallon,Mar-20,111,111,0,0.0
+MI-Auburn/hills,Surface Disinfectant 1 Gallon,Apr-20,111,111,0,0.0
+MI-Auburn/hills,Surface Disinfectant 1 Gallon,May-20,111,111,0,0.0
+MI-Auburn/hills,Surface Disinfectant 1 Gallon,Jun-20,111,111,0,0.0
+MI-Auburn/hills,Surface Disinfectant 1 Gallon,Jul-20,111,111,0,0.0
+MI-Auburn/hills,Surface Disinfectant 1 Gallon,Aug-20,111,111,0,0.0
+MI-Auburn/hills,Surface Disinfectant 1 Gallon,Sep-20,111,111,0,0.0
+MI-Plymouth,Gown protective,Jan-20,42,0,42,97.67441860465117
+MI-Plymouth,Gown protective,Feb-20,42,0,42,97.67441860465117
+MI-Plymouth,Gown protective,Mar-20,42,0,42,97.67441860465117
+MI-Plymouth,Gown protective,Apr-20,42,0,42,97.67441860465117
+MI-Plymouth,Gown protective,May-20,42,0,42,97.67441860465117
+MI-Plymouth,Gown protective,Jun-20,42,0,42,97.67441860465117
+MI-Plymouth,Gown protective,Jul-20,42,0,42,97.67441860465117
+MI-Plymouth,Gown protective,Aug-20,42,0,42,97.67441860465117
+MI-Plymouth,Gown protective,Sep-20,42,0,42,97.67441860465117
+MI-Plymouth,Scrubs tops,Jan-20,121,121,0,0.0
+MI-Plymouth,Scrubs tops,Feb-20,121,109,12,9.836065573770492
+MI-Plymouth,Scrubs tops,Mar-20,121,110,11,9.01639344262295
+MI-Plymouth,Scrubs tops,Apr-20,121,84,37,30.327868852459016
+MI-Plymouth,Scrubs tops,May-20,121,75,46,37.704918032786885
+MI-Plymouth,Scrubs tops,Jun-20,121,67,54,44.26229508196721
+MI-Plymouth,Scrubs tops,Jul-20,121,68,53,43.442622950819676
+MI-Plymouth,Scrubs tops,Aug-20,121,46,75,61.47540983606557
+MI-Plymouth,Scrubs tops,Sep-20,121,50,71,58.19672131147541
+MI-Plymouth,Lab screening test kit,Jan-20,242,242,0,0.0
+MI-Plymouth,Lab screening test kit,Feb-20,242,242,0,0.0
+MI-Plymouth,Lab screening test kit,Mar-20,242,242,0,0.0
+MI-Plymouth,Lab screening test kit,Apr-20,242,242,0,0.0
+MI-Plymouth,Lab screening test kit,May-20,242,242,0,0.0
+MI-Plymouth,Lab screening test kit,Jun-20,242,242,0,0.0
+MI-Plymouth,Lab screening test kit,Jul-20,242,242,0,0.0
+MI-Plymouth,Lab screening test kit,Aug-20,242,241,1,0.411522633744856
+MI-Plymouth,Lab screening test kit,Sep-20,242,242,0,0.0
+MI-Plymouth,Lab extraction kit,Jan-20,216,0,216,99.53917050691244
+MI-Plymouth,Lab extraction kit,Feb-20,216,0,216,99.53917050691244
+MI-Plymouth,Lab extraction kit,Mar-20,216,2,214,98.61751152073732
+MI-Plymouth,Lab extraction kit,Apr-20,216,0,216,99.53917050691244
+MI-Plymouth,Lab extraction kit,May-20,216,0,216,99.53917050691244
+MI-Plymouth,Lab extraction kit,Jun-20,216,61,155,71.42857142857143
+MI-Plymouth,Lab extraction kit,Jul-20,216,0,216,99.53917050691244
+MI-Plymouth,Lab extraction kit,Aug-20,216,0,216,99.53917050691244
+MI-Plymouth,Lab extraction kit,Sep-20,216,0,216,99.53917050691244
+MI-Plymouth,powered air purifying respirators,Jan-20,103,53,50,48.07692307692308
+MI-Plymouth,powered air purifying respirators,Feb-20,103,80,23,22.115384615384617
+MI-Plymouth,powered air purifying respirators,Mar-20,103,103,0,0.0
+MI-Plymouth,powered air purifying respirators,Apr-20,103,103,0,0.0
+MI-Plymouth,powered air purifying respirators,May-20,103,103,0,0.0
+MI-Plymouth,powered air purifying respirators,Jun-20,103,103,0,0.0
+MI-Plymouth,powered air purifying respirators,Jul-20,103,103,0,0.0
+MI-Plymouth,powered air purifying respirators,Aug-20,103,103,0,0.0
+MI-Plymouth,powered air purifying respirators,Sep-20,103,103,0,0.0
+MI-Plymouth,Wipes,Jan-20,263,64,199,75.37878787878788
+MI-Plymouth,Wipes,Feb-20,263,100,163,61.74242424242424
+MI-Plymouth,Wipes,Mar-20,263,80,183,69.31818181818181
+MI-Plymouth,Wipes,Apr-20,263,151,112,42.42424242424242
+MI-Plymouth,Wipes,May-20,263,118,145,54.92424242424242
+MI-Plymouth,Wipes,Jun-20,263,134,129,48.86363636363637
+MI-Plymouth,Wipes,Jul-20,263,164,99,37.5
+MI-Plymouth,Wipes,Aug-20,263,140,123,46.59090909090909
+MI-Plymouth,Wipes,Sep-20,263,263,0,0.0
+MI-Plymouth,Alcohol-based hand rub,Jan-20,68,68,0,0.0
+MI-Plymouth,Alcohol-based hand rub,Feb-20,68,68,0,0.0
+MI-Plymouth,Alcohol-based hand rub,Mar-20,68,68,0,0.0
+MI-Plymouth,Alcohol-based hand rub,Apr-20,68,68,0,0.0
+MI-Plymouth,Alcohol-based hand rub,May-20,68,68,0,0.0
+MI-Plymouth,Alcohol-based hand rub,Jun-20,68,31,37,53.6231884057971
+MI-Plymouth,Alcohol-based hand rub,Jul-20,68,68,0,0.0
+MI-Plymouth,Alcohol-based hand rub,Aug-20,68,62,6,8.695652173913043
+MI-Plymouth,Alcohol-based hand rub,Sep-20,68,1,67,97.10144927536231
+MI-Plymouth,"Chlorine, HTH 70%",Jan-20,74,0,74,98.66666666666667
+MI-Plymouth,"Chlorine, HTH 70%",Feb-20,74,0,74,98.66666666666667
+MI-Plymouth,"Chlorine, HTH 70%",Mar-20,74,0,74,98.66666666666667
+MI-Plymouth,"Chlorine, HTH 70%",Apr-20,74,0,74,98.66666666666667
+MI-Plymouth,"Chlorine, HTH 70%",May-20,74,29,45,60.0
+MI-Plymouth,"Chlorine, HTH 70%",Jun-20,74,21,53,70.66666666666667
+MI-Plymouth,"Chlorine, HTH 70%",Jul-20,74,0,74,98.66666666666667
+MI-Plymouth,"Chlorine, HTH 70%",Aug-20,74,0,74,98.66666666666667
+MI-Plymouth,"Chlorine, HTH 70%",Sep-20,74,0,74,98.66666666666667
+MI-Plymouth,Safety box,Jan-20,57,57,0,0.0
+MI-Plymouth,Safety box,Feb-20,57,57,0,0.0
+MI-Plymouth,Safety box,Mar-20,57,57,0,0.0
+MI-Plymouth,Safety box,Apr-20,57,57,0,0.0
+MI-Plymouth,Safety box,May-20,57,57,0,0.0
+MI-Plymouth,Safety box,Jun-20,57,57,0,0.0
+MI-Plymouth,Safety box,Jul-20,57,57,0,0.0
+MI-Plymouth,Safety box,Aug-20,57,57,0,0.0
+MI-Plymouth,Safety box,Sep-20,57,57,0,0.0
+MI-Plymouth,Non contact infrared Thermometer,Jan-20,255,0,255,99.609375
+MI-Plymouth,Non contact infrared Thermometer,Feb-20,255,0,255,99.609375
+MI-Plymouth,Non contact infrared Thermometer,Mar-20,255,0,255,99.609375
+MI-Plymouth,Non contact infrared Thermometer,Apr-20,255,0,255,99.609375
+MI-Plymouth,Non contact infrared Thermometer,May-20,255,0,255,99.609375
+MI-Plymouth,Non contact infrared Thermometer,Jun-20,255,0,255,99.609375
+MI-Plymouth,Non contact infrared Thermometer,Jul-20,255,0,255,99.609375
+MI-Plymouth,Non contact infrared Thermometer,Aug-20,255,2,253,98.828125
+MI-Plymouth,Non contact infrared Thermometer,Sep-20,255,0,255,99.609375
+MI-Plymouth,Goggles protective,Jan-20,173,0,173,99.42528735632185
+MI-Plymouth,Goggles protective,Feb-20,173,0,173,99.42528735632185
+MI-Plymouth,Goggles protective,Mar-20,173,0,173,99.42528735632185
+MI-Plymouth,Goggles protective,Apr-20,173,0,173,99.42528735632185
+MI-Plymouth,Goggles protective,May-20,173,0,173,99.42528735632185
+MI-Plymouth,Goggles protective,Jun-20,173,0,173,99.42528735632185
+MI-Plymouth,Goggles protective,Jul-20,173,0,173,99.42528735632185
+MI-Plymouth,Goggles protective,Aug-20,173,0,173,99.42528735632185
+MI-Plymouth,Goggles protective,Sep-20,173,0,173,99.42528735632185
+MI-Plymouth,Disposable foot covers,Jan-20,212,0,212,99.53051643192488
+MI-Plymouth,Disposable foot covers,Feb-20,212,0,212,99.53051643192488
+MI-Plymouth,Disposable foot covers,Mar-20,212,0,212,99.53051643192488
+MI-Plymouth,Disposable foot covers,Apr-20,212,0,212,99.53051643192488
+MI-Plymouth,Disposable foot covers,May-20,212,0,212,99.53051643192488
+MI-Plymouth,Disposable foot covers,Jun-20,212,0,212,99.53051643192488
+MI-Plymouth,Disposable foot covers,Jul-20,212,0,212,99.53051643192488
+MI-Plymouth,Disposable foot covers,Aug-20,212,0,212,99.53051643192488
+MI-Plymouth,Disposable foot covers,Sep-20,212,0,212,99.53051643192488
+MI-Plymouth,M4 viral media,Jan-20,48,0,48,97.95918367346938
+MI-Plymouth,M4 viral media,Feb-20,48,0,48,97.95918367346938
+MI-Plymouth,M4 viral media,Mar-20,48,0,48,97.95918367346938
+MI-Plymouth,M4 viral media,Apr-20,48,0,48,97.95918367346938
+MI-Plymouth,M4 viral media,May-20,48,0,48,97.95918367346938
+MI-Plymouth,M4 viral media,Jun-20,48,0,48,97.95918367346938
+MI-Plymouth,M4 viral media,Jul-20,48,0,48,97.95918367346938
+MI-Plymouth,M4 viral media,Aug-20,48,0,48,97.95918367346938
+MI-Plymouth,M4 viral media,Sep-20,48,0,48,97.95918367346938
+MI-Plymouth,Triple packaging boxes,Jan-20,126,111,15,11.811023622047244
+MI-Plymouth,Triple packaging boxes,Feb-20,126,126,0,0.0
+MI-Plymouth,Triple packaging boxes,Mar-20,126,102,24,18.89763779527559
+MI-Plymouth,Triple packaging boxes,Apr-20,126,103,23,18.11023622047244
+MI-Plymouth,Triple packaging boxes,May-20,126,101,25,19.68503937007874
+MI-Plymouth,Triple packaging boxes,Jun-20,126,93,33,25.984251968503937
+MI-Plymouth,Triple packaging boxes,Jul-20,126,116,10,7.874015748031496
+MI-Plymouth,Triple packaging boxes,Aug-20,126,84,42,33.07086614173228
+MI-Plymouth,Triple packaging boxes,Sep-20,126,117,9,7.086614173228346
+MI-Plymouth,Liquid soap,Jan-20,263,136,127,48.10606060606061
+MI-Plymouth,Liquid soap,Feb-20,263,132,131,49.621212121212125
+MI-Plymouth,Liquid soap,Mar-20,263,163,100,37.878787878787875
+MI-Plymouth,Liquid soap,Apr-20,263,181,82,31.060606060606062
+MI-Plymouth,Liquid soap,May-20,263,182,81,30.681818181818183
+MI-Plymouth,Liquid soap,Jun-20,263,179,84,31.818181818181817
+MI-Plymouth,Liquid soap,Jul-20,263,166,97,36.74242424242424
+MI-Plymouth,Liquid soap,Aug-20,263,103,160,60.60606060606061
+MI-Plymouth,Liquid soap,Sep-20,263,161,102,38.63636363636363
+MI-Plymouth,Mask medical,Jan-20,258,258,0,0.0
+MI-Plymouth,Mask medical,Feb-20,258,258,0,0.0
+MI-Plymouth,Mask medical,Mar-20,258,258,0,0.0
+MI-Plymouth,Mask medical,Apr-20,258,257,1,0.3861003861003861
+MI-Plymouth,Mask medical,May-20,258,258,0,0.0
+MI-Plymouth,Mask medical,Jun-20,258,258,0,0.0
+MI-Plymouth,Mask medical,Jul-20,258,258,0,0.0
+MI-Plymouth,Mask medical,Aug-20,258,206,52,20.077220077220076
+MI-Plymouth,Mask medical,Sep-20,258,258,0,0.0
+MI-Plymouth,Scrubs pants,Jan-20,179,52,127,70.55555555555556
+MI-Plymouth,Scrubs pants,Feb-20,179,31,148,82.22222222222223
+MI-Plymouth,Scrubs pants,Mar-20,179,10,169,93.88888888888889
+MI-Plymouth,Scrubs pants,Apr-20,179,0,179,99.44444444444444
+MI-Plymouth,Scrubs pants,May-20,179,0,179,99.44444444444444
+MI-Plymouth,Scrubs pants,Jun-20,179,0,179,99.44444444444444
+MI-Plymouth,Scrubs pants,Jul-20,179,0,179,99.44444444444444
+MI-Plymouth,Scrubs pants,Aug-20,179,0,179,99.44444444444444
+MI-Plymouth,Scrubs pants,Sep-20,179,0,179,99.44444444444444
+MI-Plymouth,Face shield,Jan-20,95,95,0,0.0
+MI-Plymouth,Face shield,Feb-20,95,95,0,0.0
+MI-Plymouth,Face shield,Mar-20,95,95,0,0.0
+MI-Plymouth,Face shield,Apr-20,95,95,0,0.0
+MI-Plymouth,Face shield,May-20,95,95,0,0.0
+MI-Plymouth,Face shield,Jun-20,95,95,0,0.0
+MI-Plymouth,Face shield,Jul-20,95,95,0,0.0
+MI-Plymouth,Face shield,Aug-20,95,95,0,0.0
+MI-Plymouth,Face shield,Sep-20,95,95,0,0.0
+MI-Plymouth,Gloves,Jan-20,216,216,0,0.0
+MI-Plymouth,Gloves,Feb-20,216,216,0,0.0
+MI-Plymouth,Gloves,Mar-20,216,216,0,0.0
+MI-Plymouth,Gloves,Apr-20,216,216,0,0.0
+MI-Plymouth,Gloves,May-20,216,216,0,0.0
+MI-Plymouth,Gloves,Jun-20,216,216,0,0.0
+MI-Plymouth,Gloves,Jul-20,216,216,0,0.0
+MI-Plymouth,Gloves,Aug-20,216,216,0,0.0
+MI-Plymouth,Gloves,Sep-20,216,216,0,0.0
+MI-Plymouth,Nasal testing swabs,Jan-20,237,0,237,99.5798319327731
+MI-Plymouth,Nasal testing swabs,Feb-20,237,0,237,99.5798319327731
+MI-Plymouth,Nasal testing swabs,Mar-20,237,0,237,99.5798319327731
+MI-Plymouth,Nasal testing swabs,Apr-20,237,0,237,99.5798319327731
+MI-Plymouth,Nasal testing swabs,May-20,237,0,237,99.5798319327731
+MI-Plymouth,Nasal testing swabs,Jun-20,237,0,237,99.5798319327731
+MI-Plymouth,Nasal testing swabs,Jul-20,237,0,237,99.5798319327731
+MI-Plymouth,Nasal testing swabs,Aug-20,237,0,237,99.5798319327731
+MI-Plymouth,Nasal testing swabs,Sep-20,237,0,237,99.5798319327731
+MI-Plymouth,InvasiveVentilators,Jan-20,112,112,0,0.0
+MI-Plymouth,InvasiveVentilators,Feb-20,112,112,0,0.0
+MI-Plymouth,InvasiveVentilators,Mar-20,112,112,0,0.0
+MI-Plymouth,InvasiveVentilators,Apr-20,112,111,1,0.8849557522123894
+MI-Plymouth,InvasiveVentilators,May-20,112,112,0,0.0
+MI-Plymouth,InvasiveVentilators,Jun-20,112,112,0,0.0
+MI-Plymouth,InvasiveVentilators,Jul-20,112,112,0,0.0
+MI-Plymouth,InvasiveVentilators,Aug-20,112,112,0,0.0
+MI-Plymouth,InvasiveVentilators,Sep-20,112,111,1,0.8849557522123894
+MI-Plymouth,Non Invasive Ventilators,Jan-20,112,112,0,0.0
+MI-Plymouth,Non Invasive Ventilators,Feb-20,112,112,0,0.0
+MI-Plymouth,Non Invasive Ventilators,Mar-20,112,112,0,0.0
+MI-Plymouth,Non Invasive Ventilators,Apr-20,112,112,0,0.0
+MI-Plymouth,Non Invasive Ventilators,May-20,112,112,0,0.0
+MI-Plymouth,Non Invasive Ventilators,Jun-20,112,112,0,0.0
+MI-Plymouth,Non Invasive Ventilators,Jul-20,112,112,0,0.0
+MI-Plymouth,Non Invasive Ventilators,Aug-20,112,112,0,0.0
+MI-Plymouth,Non Invasive Ventilators,Sep-20,112,112,0,0.0
+MI-Plymouth,BioHazard Liner bags 2gallon,Jan-20,183,0,183,99.45652173913044
+MI-Plymouth,BioHazard Liner bags 2gallon,Feb-20,183,0,183,99.45652173913044
+MI-Plymouth,BioHazard Liner bags 2gallon,Mar-20,183,0,183,99.45652173913044
+MI-Plymouth,BioHazard Liner bags 2gallon,Apr-20,183,0,183,99.45652173913044
+MI-Plymouth,BioHazard Liner bags 2gallon,May-20,183,0,183,99.45652173913044
+MI-Plymouth,BioHazard Liner bags 2gallon,Jun-20,183,0,183,99.45652173913044
+MI-Plymouth,BioHazard Liner bags 2gallon,Jul-20,183,0,183,99.45652173913044
+MI-Plymouth,BioHazard Liner bags 2gallon,Aug-20,183,0,183,99.45652173913044
+MI-Plymouth,BioHazard Liner bags 2gallon,Sep-20,183,0,183,99.45652173913044
+MI-Plymouth,BioHazard Liner bags 44gallon,Jan-20,118,0,118,99.15966386554622
+MI-Plymouth,BioHazard Liner bags 44gallon,Feb-20,118,0,118,99.15966386554622
+MI-Plymouth,BioHazard Liner bags 44gallon,Mar-20,118,0,118,99.15966386554622
+MI-Plymouth,BioHazard Liner bags 44gallon,Apr-20,118,0,118,99.15966386554622
+MI-Plymouth,BioHazard Liner bags 44gallon,May-20,118,0,118,99.15966386554622
+MI-Plymouth,BioHazard Liner bags 44gallon,Jun-20,118,0,118,99.15966386554622
+MI-Plymouth,BioHazard Liner bags 44gallon,Jul-20,118,0,118,99.15966386554622
+MI-Plymouth,BioHazard Liner bags 44gallon,Aug-20,118,0,118,99.15966386554622
+MI-Plymouth,BioHazard Liner bags 44gallon,Sep-20,118,0,118,99.15966386554622
+MI-Plymouth,Blue Solied Linen bags,Jan-20,267,267,0,0.0
+MI-Plymouth,Blue Solied Linen bags,Feb-20,267,267,0,0.0
+MI-Plymouth,Blue Solied Linen bags,Mar-20,267,267,0,0.0
+MI-Plymouth,Blue Solied Linen bags,Apr-20,267,265,2,0.746268656716418
+MI-Plymouth,Blue Solied Linen bags,May-20,267,267,0,0.0
+MI-Plymouth,Blue Solied Linen bags,Jun-20,267,267,0,0.0
+MI-Plymouth,Blue Solied Linen bags,Jul-20,267,267,0,0.0
+MI-Plymouth,Blue Solied Linen bags,Aug-20,267,267,0,0.0
+MI-Plymouth,Blue Solied Linen bags,Sep-20,267,267,0,0.0
+MI-Plymouth,Syringes,Jan-20,195,65,130,66.3265306122449
+MI-Plymouth,Syringes,Feb-20,195,57,138,70.40816326530613
+MI-Plymouth,Syringes,Mar-20,195,17,178,90.81632653061224
+MI-Plymouth,Syringes,Apr-20,195,0,195,99.48979591836735
+MI-Plymouth,Syringes,May-20,195,0,195,99.48979591836735
+MI-Plymouth,Syringes,Jun-20,195,0,195,99.48979591836735
+MI-Plymouth,Syringes,Jul-20,195,0,195,99.48979591836735
+MI-Plymouth,Syringes,Aug-20,195,0,195,99.48979591836735
+MI-Plymouth,Syringes,Sep-20,195,0,195,99.48979591836735
+MI-Plymouth,IV Catheters,Jan-20,129,0,129,99.23076923076923
+MI-Plymouth,IV Catheters,Feb-20,129,0,129,99.23076923076923
+MI-Plymouth,IV Catheters,Mar-20,129,1,128,98.46153846153847
+MI-Plymouth,IV Catheters,Apr-20,129,5,124,95.38461538461539
+MI-Plymouth,IV Catheters,May-20,129,0,129,99.23076923076923
+MI-Plymouth,IV Catheters,Jun-20,129,0,129,99.23076923076923
+MI-Plymouth,IV Catheters,Jul-20,129,0,129,99.23076923076923
+MI-Plymouth,IV Catheters,Aug-20,129,0,129,99.23076923076923
+MI-Plymouth,IV Catheters,Sep-20,129,0,129,99.23076923076923
+MI-Plymouth,Needles,Jan-20,143,9,134,93.05555555555556
+MI-Plymouth,Needles,Feb-20,143,0,143,99.30555555555556
+MI-Plymouth,Needles,Mar-20,143,23,120,83.33333333333333
+MI-Plymouth,Needles,Apr-20,143,6,137,95.13888888888889
+MI-Plymouth,Needles,May-20,143,27,116,80.55555555555556
+MI-Plymouth,Needles,Jun-20,143,16,127,88.19444444444444
+MI-Plymouth,Needles,Jul-20,143,0,143,99.30555555555556
+MI-Plymouth,Needles,Aug-20,143,0,143,99.30555555555556
+MI-Plymouth,Needles,Sep-20,143,0,143,99.30555555555556
+MI-Plymouth,Surface Disinfectant 1 Gallon,Jan-20,104,104,0,0.0
+MI-Plymouth,Surface Disinfectant 1 Gallon,Feb-20,104,104,0,0.0
+MI-Plymouth,Surface Disinfectant 1 Gallon,Mar-20,104,104,0,0.0
+MI-Plymouth,Surface Disinfectant 1 Gallon,Apr-20,104,104,0,0.0
+MI-Plymouth,Surface Disinfectant 1 Gallon,May-20,104,104,0,0.0
+MI-Plymouth,Surface Disinfectant 1 Gallon,Jun-20,104,104,0,0.0
+MI-Plymouth,Surface Disinfectant 1 Gallon,Jul-20,104,104,0,0.0
+MI-Plymouth,Surface Disinfectant 1 Gallon,Aug-20,104,104,0,0.0
+MI-Plymouth,Surface Disinfectant 1 Gallon,Sep-20,104,104,0,0.0
+MI-GrandRapids,Gown protective,Jan-20,210,138,72,34.12322274881517
+MI-GrandRapids,Gown protective,Feb-20,210,127,83,39.33649289099526
+MI-GrandRapids,Gown protective,Mar-20,210,112,98,46.44549763033175
+MI-GrandRapids,Gown protective,Apr-20,210,91,119,56.39810426540284
+MI-GrandRapids,Gown protective,May-20,210,79,131,62.08530805687204
+MI-GrandRapids,Gown protective,Jun-20,210,58,152,72.03791469194313
+MI-GrandRapids,Gown protective,Jul-20,210,67,143,67.77251184834124
+MI-GrandRapids,Gown protective,Aug-20,210,18,192,90.99526066350711
+MI-GrandRapids,Gown protective,Sep-20,210,49,161,76.30331753554502
+MI-GrandRapids,Scrubs tops,Jan-20,84,84,0,0.0
+MI-GrandRapids,Scrubs tops,Feb-20,84,84,0,0.0
+MI-GrandRapids,Scrubs tops,Mar-20,84,84,0,0.0
+MI-GrandRapids,Scrubs tops,Apr-20,84,84,0,0.0
+MI-GrandRapids,Scrubs tops,May-20,84,84,0,0.0
+MI-GrandRapids,Scrubs tops,Jun-20,84,84,0,0.0
+MI-GrandRapids,Scrubs tops,Jul-20,84,84,0,0.0
+MI-GrandRapids,Scrubs tops,Aug-20,84,84,0,0.0
+MI-GrandRapids,Scrubs tops,Sep-20,84,84,0,0.0
+MI-GrandRapids,Lab screening test kit,Jan-20,251,251,0,0.0
+MI-GrandRapids,Lab screening test kit,Feb-20,251,251,0,0.0
+MI-GrandRapids,Lab screening test kit,Mar-20,251,251,0,0.0
+MI-GrandRapids,Lab screening test kit,Apr-20,251,251,0,0.0
+MI-GrandRapids,Lab screening test kit,May-20,251,251,0,0.0
+MI-GrandRapids,Lab screening test kit,Jun-20,251,251,0,0.0
+MI-GrandRapids,Lab screening test kit,Jul-20,251,251,0,0.0
+MI-GrandRapids,Lab screening test kit,Aug-20,251,251,0,0.0
+MI-GrandRapids,Lab screening test kit,Sep-20,251,251,0,0.0
+MI-GrandRapids,Lab extraction kit,Jan-20,195,0,195,99.48979591836735
+MI-GrandRapids,Lab extraction kit,Feb-20,195,0,195,99.48979591836735
+MI-GrandRapids,Lab extraction kit,Mar-20,195,1,194,98.9795918367347
+MI-GrandRapids,Lab extraction kit,Apr-20,195,0,195,99.48979591836735
+MI-GrandRapids,Lab extraction kit,May-20,195,0,195,99.48979591836735
+MI-GrandRapids,Lab extraction kit,Jun-20,195,0,195,99.48979591836735
+MI-GrandRapids,Lab extraction kit,Jul-20,195,0,195,99.48979591836735
+MI-GrandRapids,Lab extraction kit,Aug-20,195,0,195,99.48979591836735
+MI-GrandRapids,Lab extraction kit,Sep-20,195,22,173,88.26530612244898
+MI-GrandRapids,powered air purifying respirators,Jan-20,97,0,97,98.9795918367347
+MI-GrandRapids,powered air purifying respirators,Feb-20,97,0,97,98.9795918367347
+MI-GrandRapids,powered air purifying respirators,Mar-20,97,16,81,82.65306122448979
+MI-GrandRapids,powered air purifying respirators,Apr-20,97,25,72,73.46938775510205
+MI-GrandRapids,powered air purifying respirators,May-20,97,49,48,48.97959183673469
+MI-GrandRapids,powered air purifying respirators,Jun-20,97,70,27,27.551020408163264
+MI-GrandRapids,powered air purifying respirators,Jul-20,97,97,0,0.0
+MI-GrandRapids,powered air purifying respirators,Aug-20,97,58,39,39.795918367346935
+MI-GrandRapids,powered air purifying respirators,Sep-20,97,97,0,0.0
+MI-GrandRapids,Wipes,Jan-20,152,152,0,0.0
+MI-GrandRapids,Wipes,Feb-20,152,152,0,0.0
+MI-GrandRapids,Wipes,Mar-20,152,152,0,0.0
+MI-GrandRapids,Wipes,Apr-20,152,152,0,0.0
+MI-GrandRapids,Wipes,May-20,152,152,0,0.0
+MI-GrandRapids,Wipes,Jun-20,152,152,0,0.0
+MI-GrandRapids,Wipes,Jul-20,152,152,0,0.0
+MI-GrandRapids,Wipes,Aug-20,152,152,0,0.0
+MI-GrandRapids,Wipes,Sep-20,152,152,0,0.0
+MI-GrandRapids,Alcohol-based hand rub,Jan-20,214,115,99,46.04651162790697
+MI-GrandRapids,Alcohol-based hand rub,Feb-20,214,116,98,45.58139534883721
+MI-GrandRapids,Alcohol-based hand rub,Mar-20,214,134,80,37.2093023255814
+MI-GrandRapids,Alcohol-based hand rub,Apr-20,214,120,94,43.72093023255814
+MI-GrandRapids,Alcohol-based hand rub,May-20,214,106,108,50.23255813953488
+MI-GrandRapids,Alcohol-based hand rub,Jun-20,214,147,67,31.162790697674417
+MI-GrandRapids,Alcohol-based hand rub,Jul-20,214,119,95,44.18604651162791
+MI-GrandRapids,Alcohol-based hand rub,Aug-20,214,0,214,99.53488372093024
+MI-GrandRapids,Alcohol-based hand rub,Sep-20,214,130,84,39.06976744186046
+MI-GrandRapids,"Chlorine, HTH 70%",Jan-20,267,267,0,0.0
+MI-GrandRapids,"Chlorine, HTH 70%",Feb-20,267,267,0,0.0
+MI-GrandRapids,"Chlorine, HTH 70%",Mar-20,267,267,0,0.0
+MI-GrandRapids,"Chlorine, HTH 70%",Apr-20,267,267,0,0.0
+MI-GrandRapids,"Chlorine, HTH 70%",May-20,267,267,0,0.0
+MI-GrandRapids,"Chlorine, HTH 70%",Jun-20,267,267,0,0.0
+MI-GrandRapids,"Chlorine, HTH 70%",Jul-20,267,267,0,0.0
+MI-GrandRapids,"Chlorine, HTH 70%",Aug-20,267,267,0,0.0
+MI-GrandRapids,"Chlorine, HTH 70%",Sep-20,267,267,0,0.0
+MI-GrandRapids,Safety box,Jan-20,44,44,0,0.0
+MI-GrandRapids,Safety box,Feb-20,44,44,0,0.0
+MI-GrandRapids,Safety box,Mar-20,44,44,0,0.0
+MI-GrandRapids,Safety box,Apr-20,44,44,0,0.0
+MI-GrandRapids,Safety box,May-20,44,44,0,0.0
+MI-GrandRapids,Safety box,Jun-20,44,44,0,0.0
+MI-GrandRapids,Safety box,Jul-20,44,44,0,0.0
+MI-GrandRapids,Safety box,Aug-20,44,44,0,0.0
+MI-GrandRapids,Safety box,Sep-20,44,44,0,0.0
+MI-GrandRapids,Non contact infrared Thermometer,Jan-20,151,150,1,0.6578947368421053
+MI-GrandRapids,Non contact infrared Thermometer,Feb-20,151,151,0,0.0
+MI-GrandRapids,Non contact infrared Thermometer,Mar-20,151,151,0,0.0
+MI-GrandRapids,Non contact infrared Thermometer,Apr-20,151,151,0,0.0
+MI-GrandRapids,Non contact infrared Thermometer,May-20,151,151,0,0.0
+MI-GrandRapids,Non contact infrared Thermometer,Jun-20,151,151,0,0.0
+MI-GrandRapids,Non contact infrared Thermometer,Jul-20,151,151,0,0.0
+MI-GrandRapids,Non contact infrared Thermometer,Aug-20,151,130,21,13.81578947368421
+MI-GrandRapids,Non contact infrared Thermometer,Sep-20,151,151,0,0.0
+MI-GrandRapids,Goggles protective,Jan-20,150,0,150,99.33774834437087
+MI-GrandRapids,Goggles protective,Feb-20,150,0,150,99.33774834437087
+MI-GrandRapids,Goggles protective,Mar-20,150,0,150,99.33774834437087
+MI-GrandRapids,Goggles protective,Apr-20,150,0,150,99.33774834437087
+MI-GrandRapids,Goggles protective,May-20,150,0,150,99.33774834437087
+MI-GrandRapids,Goggles protective,Jun-20,150,0,150,99.33774834437087
+MI-GrandRapids,Goggles protective,Jul-20,150,0,150,99.33774834437087
+MI-GrandRapids,Goggles protective,Aug-20,150,0,150,99.33774834437087
+MI-GrandRapids,Goggles protective,Sep-20,150,0,150,99.33774834437087
+MI-GrandRapids,Disposable foot covers,Jan-20,65,0,65,98.48484848484848
+MI-GrandRapids,Disposable foot covers,Feb-20,65,2,63,95.45454545454545
+MI-GrandRapids,Disposable foot covers,Mar-20,65,0,65,98.48484848484848
+MI-GrandRapids,Disposable foot covers,Apr-20,65,0,65,98.48484848484848
+MI-GrandRapids,Disposable foot covers,May-20,65,8,57,86.36363636363636
+MI-GrandRapids,Disposable foot covers,Jun-20,65,18,47,71.21212121212122
+MI-GrandRapids,Disposable foot covers,Jul-20,65,14,51,77.27272727272727
+MI-GrandRapids,Disposable foot covers,Aug-20,65,0,65,98.48484848484848
+MI-GrandRapids,Disposable foot covers,Sep-20,65,0,65,98.48484848484848
+MI-GrandRapids,M4 viral media,Jan-20,274,2,272,98.9090909090909
+MI-GrandRapids,M4 viral media,Feb-20,274,0,274,99.63636363636364
+MI-GrandRapids,M4 viral media,Mar-20,274,0,274,99.63636363636364
+MI-GrandRapids,M4 viral media,Apr-20,274,0,274,99.63636363636364
+MI-GrandRapids,M4 viral media,May-20,274,0,274,99.63636363636364
+MI-GrandRapids,M4 viral media,Jun-20,274,0,274,99.63636363636364
+MI-GrandRapids,M4 viral media,Jul-20,274,0,274,99.63636363636364
+MI-GrandRapids,M4 viral media,Aug-20,274,0,274,99.63636363636364
+MI-GrandRapids,M4 viral media,Sep-20,274,0,274,99.63636363636364
+MI-GrandRapids,Triple packaging boxes,Jan-20,173,158,15,8.620689655172415
+MI-GrandRapids,Triple packaging boxes,Feb-20,173,141,32,18.39080459770115
+MI-GrandRapids,Triple packaging boxes,Mar-20,173,173,0,0.0
+MI-GrandRapids,Triple packaging boxes,Apr-20,173,161,12,6.896551724137931
+MI-GrandRapids,Triple packaging boxes,May-20,173,173,0,0.0
+MI-GrandRapids,Triple packaging boxes,Jun-20,173,173,0,0.0
+MI-GrandRapids,Triple packaging boxes,Jul-20,173,173,0,0.0
+MI-GrandRapids,Triple packaging boxes,Aug-20,173,173,0,0.0
+MI-GrandRapids,Triple packaging boxes,Sep-20,173,173,0,0.0
+MI-GrandRapids,Liquid soap,Jan-20,190,190,0,0.0
+MI-GrandRapids,Liquid soap,Feb-20,190,190,0,0.0
+MI-GrandRapids,Liquid soap,Mar-20,190,190,0,0.0
+MI-GrandRapids,Liquid soap,Apr-20,190,190,0,0.0
+MI-GrandRapids,Liquid soap,May-20,190,190,0,0.0
+MI-GrandRapids,Liquid soap,Jun-20,190,190,0,0.0
+MI-GrandRapids,Liquid soap,Jul-20,190,190,0,0.0
+MI-GrandRapids,Liquid soap,Aug-20,190,190,0,0.0
+MI-GrandRapids,Liquid soap,Sep-20,190,190,0,0.0
+MI-GrandRapids,Mask medical,Jan-20,163,163,0,0.0
+MI-GrandRapids,Mask medical,Feb-20,163,163,0,0.0
+MI-GrandRapids,Mask medical,Mar-20,163,163,0,0.0
+MI-GrandRapids,Mask medical,Apr-20,163,163,0,0.0
+MI-GrandRapids,Mask medical,May-20,163,163,0,0.0
+MI-GrandRapids,Mask medical,Jun-20,163,163,0,0.0
+MI-GrandRapids,Mask medical,Jul-20,163,163,0,0.0
+MI-GrandRapids,Mask medical,Aug-20,163,163,0,0.0
+MI-GrandRapids,Mask medical,Sep-20,163,163,0,0.0
+MI-GrandRapids,Scrubs pants,Jan-20,216,0,216,99.53917050691244
+MI-GrandRapids,Scrubs pants,Feb-20,216,0,216,99.53917050691244
+MI-GrandRapids,Scrubs pants,Mar-20,216,0,216,99.53917050691244
+MI-GrandRapids,Scrubs pants,Apr-20,216,0,216,99.53917050691244
+MI-GrandRapids,Scrubs pants,May-20,216,0,216,99.53917050691244
+MI-GrandRapids,Scrubs pants,Jun-20,216,0,216,99.53917050691244
+MI-GrandRapids,Scrubs pants,Jul-20,216,0,216,99.53917050691244
+MI-GrandRapids,Scrubs pants,Aug-20,216,0,216,99.53917050691244
+MI-GrandRapids,Scrubs pants,Sep-20,216,0,216,99.53917050691244
+MI-GrandRapids,Face shield,Jan-20,204,204,0,0.0
+MI-GrandRapids,Face shield,Feb-20,204,204,0,0.0
+MI-GrandRapids,Face shield,Mar-20,204,204,0,0.0
+MI-GrandRapids,Face shield,Apr-20,204,204,0,0.0
+MI-GrandRapids,Face shield,May-20,204,204,0,0.0
+MI-GrandRapids,Face shield,Jun-20,204,204,0,0.0
+MI-GrandRapids,Face shield,Jul-20,204,204,0,0.0
+MI-GrandRapids,Face shield,Aug-20,204,204,0,0.0
+MI-GrandRapids,Face shield,Sep-20,204,204,0,0.0
+MI-GrandRapids,Gloves,Jan-20,207,0,207,99.51923076923077
+MI-GrandRapids,Gloves,Feb-20,207,0,207,99.51923076923077
+MI-GrandRapids,Gloves,Mar-20,207,0,207,99.51923076923077
+MI-GrandRapids,Gloves,Apr-20,207,0,207,99.51923076923077
+MI-GrandRapids,Gloves,May-20,207,0,207,99.51923076923077
+MI-GrandRapids,Gloves,Jun-20,207,1,206,99.03846153846153
+MI-GrandRapids,Gloves,Jul-20,207,0,207,99.51923076923077
+MI-GrandRapids,Gloves,Aug-20,207,0,207,99.51923076923077
+MI-GrandRapids,Gloves,Sep-20,207,7,200,96.15384615384616
+MI-GrandRapids,Nasal testing swabs,Jan-20,268,0,268,99.62825278810409
+MI-GrandRapids,Nasal testing swabs,Feb-20,268,0,268,99.62825278810409
+MI-GrandRapids,Nasal testing swabs,Mar-20,268,0,268,99.62825278810409
+MI-GrandRapids,Nasal testing swabs,Apr-20,268,0,268,99.62825278810409
+MI-GrandRapids,Nasal testing swabs,May-20,268,0,268,99.62825278810409
+MI-GrandRapids,Nasal testing swabs,Jun-20,268,0,268,99.62825278810409
+MI-GrandRapids,Nasal testing swabs,Jul-20,268,0,268,99.62825278810409
+MI-GrandRapids,Nasal testing swabs,Aug-20,268,0,268,99.62825278810409
+MI-GrandRapids,Nasal testing swabs,Sep-20,268,0,268,99.62825278810409
+MI-GrandRapids,InvasiveVentilators,Jan-20,201,133,68,33.663366336633665
+MI-GrandRapids,InvasiveVentilators,Feb-20,201,201,0,0.0
+MI-GrandRapids,InvasiveVentilators,Mar-20,201,155,46,22.77227722772277
+MI-GrandRapids,InvasiveVentilators,Apr-20,201,201,0,0.0
+MI-GrandRapids,InvasiveVentilators,May-20,201,201,0,0.0
+MI-GrandRapids,InvasiveVentilators,Jun-20,201,201,0,0.0
+MI-GrandRapids,InvasiveVentilators,Jul-20,201,201,0,0.0
+MI-GrandRapids,InvasiveVentilators,Aug-20,201,136,65,32.17821782178218
+MI-GrandRapids,InvasiveVentilators,Sep-20,201,201,0,0.0
+MI-GrandRapids,Non Invasive Ventilators,Jan-20,40,40,0,0.0
+MI-GrandRapids,Non Invasive Ventilators,Feb-20,40,40,0,0.0
+MI-GrandRapids,Non Invasive Ventilators,Mar-20,40,40,0,0.0
+MI-GrandRapids,Non Invasive Ventilators,Apr-20,40,40,0,0.0
+MI-GrandRapids,Non Invasive Ventilators,May-20,40,40,0,0.0
+MI-GrandRapids,Non Invasive Ventilators,Jun-20,40,40,0,0.0
+MI-GrandRapids,Non Invasive Ventilators,Jul-20,40,40,0,0.0
+MI-GrandRapids,Non Invasive Ventilators,Aug-20,40,40,0,0.0
+MI-GrandRapids,Non Invasive Ventilators,Sep-20,40,40,0,0.0
+MI-GrandRapids,BioHazard Liner bags 2gallon,Jan-20,221,197,24,10.81081081081081
+MI-GrandRapids,BioHazard Liner bags 2gallon,Feb-20,221,170,51,22.972972972972972
+MI-GrandRapids,BioHazard Liner bags 2gallon,Mar-20,221,148,73,32.88288288288288
+MI-GrandRapids,BioHazard Liner bags 2gallon,Apr-20,221,140,81,36.486486486486484
+MI-GrandRapids,BioHazard Liner bags 2gallon,May-20,221,123,98,44.14414414414414
+MI-GrandRapids,BioHazard Liner bags 2gallon,Jun-20,221,98,123,55.4054054054054
+MI-GrandRapids,BioHazard Liner bags 2gallon,Jul-20,221,83,138,62.16216216216216
+MI-GrandRapids,BioHazard Liner bags 2gallon,Aug-20,221,60,161,72.52252252252252
+MI-GrandRapids,BioHazard Liner bags 2gallon,Sep-20,221,75,146,65.76576576576576
+MI-GrandRapids,BioHazard Liner bags 44gallon,Jan-20,223,0,223,99.55357142857143
+MI-GrandRapids,BioHazard Liner bags 44gallon,Feb-20,223,0,223,99.55357142857143
+MI-GrandRapids,BioHazard Liner bags 44gallon,Mar-20,223,0,223,99.55357142857143
+MI-GrandRapids,BioHazard Liner bags 44gallon,Apr-20,223,0,223,99.55357142857143
+MI-GrandRapids,BioHazard Liner bags 44gallon,May-20,223,0,223,99.55357142857143
+MI-GrandRapids,BioHazard Liner bags 44gallon,Jun-20,223,0,223,99.55357142857143
+MI-GrandRapids,BioHazard Liner bags 44gallon,Jul-20,223,0,223,99.55357142857143
+MI-GrandRapids,BioHazard Liner bags 44gallon,Aug-20,223,0,223,99.55357142857143
+MI-GrandRapids,BioHazard Liner bags 44gallon,Sep-20,223,0,223,99.55357142857143
+MI-GrandRapids,Blue Solied Linen bags,Jan-20,193,193,0,0.0
+MI-GrandRapids,Blue Solied Linen bags,Feb-20,193,193,0,0.0
+MI-GrandRapids,Blue Solied Linen bags,Mar-20,193,193,0,0.0
+MI-GrandRapids,Blue Solied Linen bags,Apr-20,193,191,2,1.0309278350515463
+MI-GrandRapids,Blue Solied Linen bags,May-20,193,193,0,0.0
+MI-GrandRapids,Blue Solied Linen bags,Jun-20,193,193,0,0.0
+MI-GrandRapids,Blue Solied Linen bags,Jul-20,193,193,0,0.0
+MI-GrandRapids,Blue Solied Linen bags,Aug-20,193,193,0,0.0
+MI-GrandRapids,Blue Solied Linen bags,Sep-20,193,193,0,0.0
+MI-GrandRapids,Syringes,Jan-20,126,0,126,99.21259842519684
+MI-GrandRapids,Syringes,Feb-20,126,0,126,99.21259842519684
+MI-GrandRapids,Syringes,Mar-20,126,0,126,99.21259842519684
+MI-GrandRapids,Syringes,Apr-20,126,0,126,99.21259842519684
+MI-GrandRapids,Syringes,May-20,126,0,126,99.21259842519684
+MI-GrandRapids,Syringes,Jun-20,126,0,126,99.21259842519684
+MI-GrandRapids,Syringes,Jul-20,126,0,126,99.21259842519684
+MI-GrandRapids,Syringes,Aug-20,126,0,126,99.21259842519684
+MI-GrandRapids,Syringes,Sep-20,126,0,126,99.21259842519684
+MI-GrandRapids,IV Catheters,Jan-20,66,66,0,0.0
+MI-GrandRapids,IV Catheters,Feb-20,66,66,0,0.0
+MI-GrandRapids,IV Catheters,Mar-20,66,66,0,0.0
+MI-GrandRapids,IV Catheters,Apr-20,66,66,0,0.0
+MI-GrandRapids,IV Catheters,May-20,66,66,0,0.0
+MI-GrandRapids,IV Catheters,Jun-20,66,66,0,0.0
+MI-GrandRapids,IV Catheters,Jul-20,66,66,0,0.0
+MI-GrandRapids,IV Catheters,Aug-20,66,66,0,0.0
+MI-GrandRapids,IV Catheters,Sep-20,66,66,0,0.0
+MI-GrandRapids,Needles,Jan-20,241,241,0,0.0
+MI-GrandRapids,Needles,Feb-20,241,241,0,0.0
+MI-GrandRapids,Needles,Mar-20,241,241,0,0.0
+MI-GrandRapids,Needles,Apr-20,241,241,0,0.0
+MI-GrandRapids,Needles,May-20,241,241,0,0.0
+MI-GrandRapids,Needles,Jun-20,241,241,0,0.0
+MI-GrandRapids,Needles,Jul-20,241,241,0,0.0
+MI-GrandRapids,Needles,Aug-20,241,241,0,0.0
+MI-GrandRapids,Needles,Sep-20,241,241,0,0.0
+MI-GrandRapids,Surface Disinfectant 1 Gallon,Jan-20,218,218,0,0.0
+MI-GrandRapids,Surface Disinfectant 1 Gallon,Feb-20,218,218,0,0.0
+MI-GrandRapids,Surface Disinfectant 1 Gallon,Mar-20,218,218,0,0.0
+MI-GrandRapids,Surface Disinfectant 1 Gallon,Apr-20,218,218,0,0.0
+MI-GrandRapids,Surface Disinfectant 1 Gallon,May-20,218,218,0,0.0
+MI-GrandRapids,Surface Disinfectant 1 Gallon,Jun-20,218,218,0,0.0
+MI-GrandRapids,Surface Disinfectant 1 Gallon,Jul-20,218,218,0,0.0
+MI-GrandRapids,Surface Disinfectant 1 Gallon,Aug-20,218,218,0,0.0
+MI-GrandRapids,Surface Disinfectant 1 Gallon,Sep-20,218,218,0,0.0
+MI-Farmington,Gown protective,Jan-20,129,129,0,0.0
+MI-Farmington,Gown protective,Feb-20,129,129,0,0.0
+MI-Farmington,Gown protective,Mar-20,129,129,0,0.0
+MI-Farmington,Gown protective,Apr-20,129,129,0,0.0
+MI-Farmington,Gown protective,May-20,129,129,0,0.0
+MI-Farmington,Gown protective,Jun-20,129,129,0,0.0
+MI-Farmington,Gown protective,Jul-20,129,129,0,0.0
+MI-Farmington,Gown protective,Aug-20,129,129,0,0.0
+MI-Farmington,Gown protective,Sep-20,129,129,0,0.0
+MI-Farmington,Scrubs tops,Jan-20,119,0,119,99.16666666666667
+MI-Farmington,Scrubs tops,Feb-20,119,0,119,99.16666666666667
+MI-Farmington,Scrubs tops,Mar-20,119,0,119,99.16666666666667
+MI-Farmington,Scrubs tops,Apr-20,119,0,119,99.16666666666667
+MI-Farmington,Scrubs tops,May-20,119,0,119,99.16666666666667
+MI-Farmington,Scrubs tops,Jun-20,119,0,119,99.16666666666667
+MI-Farmington,Scrubs tops,Jul-20,119,0,119,99.16666666666667
+MI-Farmington,Scrubs tops,Aug-20,119,0,119,99.16666666666667
+MI-Farmington,Scrubs tops,Sep-20,119,0,119,99.16666666666667
+MI-Farmington,Lab screening test kit,Jan-20,113,113,0,0.0
+MI-Farmington,Lab screening test kit,Feb-20,113,113,0,0.0
+MI-Farmington,Lab screening test kit,Mar-20,113,113,0,0.0
+MI-Farmington,Lab screening test kit,Apr-20,113,113,0,0.0
+MI-Farmington,Lab screening test kit,May-20,113,113,0,0.0
+MI-Farmington,Lab screening test kit,Jun-20,113,113,0,0.0
+MI-Farmington,Lab screening test kit,Jul-20,113,113,0,0.0
+MI-Farmington,Lab screening test kit,Aug-20,113,113,0,0.0
+MI-Farmington,Lab screening test kit,Sep-20,113,113,0,0.0
+MI-Farmington,Lab extraction kit,Jan-20,265,105,160,60.150375939849624
+MI-Farmington,Lab extraction kit,Feb-20,265,139,126,47.36842105263158
+MI-Farmington,Lab extraction kit,Mar-20,265,114,151,56.766917293233085
+MI-Farmington,Lab extraction kit,Apr-20,265,105,160,60.150375939849624
+MI-Farmington,Lab extraction kit,May-20,265,149,116,43.609022556390975
+MI-Farmington,Lab extraction kit,Jun-20,265,115,150,56.390977443609025
+MI-Farmington,Lab extraction kit,Jul-20,265,229,36,13.533834586466165
+MI-Farmington,Lab extraction kit,Aug-20,265,165,100,37.59398496240601
+MI-Farmington,Lab extraction kit,Sep-20,265,233,32,12.030075187969924
+MI-Farmington,powered air purifying respirators,Jan-20,196,196,0,0.0
+MI-Farmington,powered air purifying respirators,Feb-20,196,196,0,0.0
+MI-Farmington,powered air purifying respirators,Mar-20,196,193,3,1.5228426395939085
+MI-Farmington,powered air purifying respirators,Apr-20,196,196,0,0.0
+MI-Farmington,powered air purifying respirators,May-20,196,196,0,0.0
+MI-Farmington,powered air purifying respirators,Jun-20,196,196,0,0.0
+MI-Farmington,powered air purifying respirators,Jul-20,196,196,0,0.0
+MI-Farmington,powered air purifying respirators,Aug-20,196,196,0,0.0
+MI-Farmington,powered air purifying respirators,Sep-20,196,196,0,0.0
+MI-Farmington,Wipes,Jan-20,36,36,0,0.0
+MI-Farmington,Wipes,Feb-20,36,36,0,0.0
+MI-Farmington,Wipes,Mar-20,36,36,0,0.0
+MI-Farmington,Wipes,Apr-20,36,36,0,0.0
+MI-Farmington,Wipes,May-20,36,36,0,0.0
+MI-Farmington,Wipes,Jun-20,36,36,0,0.0
+MI-Farmington,Wipes,Jul-20,36,36,0,0.0
+MI-Farmington,Wipes,Aug-20,36,36,0,0.0
+MI-Farmington,Wipes,Sep-20,36,36,0,0.0
+MI-Farmington,Alcohol-based hand rub,Jan-20,227,227,0,0.0
+MI-Farmington,Alcohol-based hand rub,Feb-20,227,227,0,0.0
+MI-Farmington,Alcohol-based hand rub,Mar-20,227,227,0,0.0
+MI-Farmington,Alcohol-based hand rub,Apr-20,227,227,0,0.0
+MI-Farmington,Alcohol-based hand rub,May-20,227,227,0,0.0
+MI-Farmington,Alcohol-based hand rub,Jun-20,227,227,0,0.0
+MI-Farmington,Alcohol-based hand rub,Jul-20,227,227,0,0.0
+MI-Farmington,Alcohol-based hand rub,Aug-20,227,227,0,0.0
+MI-Farmington,Alcohol-based hand rub,Sep-20,227,227,0,0.0
+MI-Farmington,"Chlorine, HTH 70%",Jan-20,118,118,0,0.0
+MI-Farmington,"Chlorine, HTH 70%",Feb-20,118,118,0,0.0
+MI-Farmington,"Chlorine, HTH 70%",Mar-20,118,118,0,0.0
+MI-Farmington,"Chlorine, HTH 70%",Apr-20,118,118,0,0.0
+MI-Farmington,"Chlorine, HTH 70%",May-20,118,118,0,0.0
+MI-Farmington,"Chlorine, HTH 70%",Jun-20,118,118,0,0.0
+MI-Farmington,"Chlorine, HTH 70%",Jul-20,118,118,0,0.0
+MI-Farmington,"Chlorine, HTH 70%",Aug-20,118,118,0,0.0
+MI-Farmington,"Chlorine, HTH 70%",Sep-20,118,118,0,0.0
+MI-Farmington,Safety box,Jan-20,31,31,0,0.0
+MI-Farmington,Safety box,Feb-20,31,31,0,0.0
+MI-Farmington,Safety box,Mar-20,31,31,0,0.0
+MI-Farmington,Safety box,Apr-20,31,31,0,0.0
+MI-Farmington,Safety box,May-20,31,31,0,0.0
+MI-Farmington,Safety box,Jun-20,31,31,0,0.0
+MI-Farmington,Safety box,Jul-20,31,31,0,0.0
+MI-Farmington,Safety box,Aug-20,31,31,0,0.0
+MI-Farmington,Safety box,Sep-20,31,31,0,0.0
+MI-Farmington,Non contact infrared Thermometer,Jan-20,114,114,0,0.0
+MI-Farmington,Non contact infrared Thermometer,Feb-20,114,114,0,0.0
+MI-Farmington,Non contact infrared Thermometer,Mar-20,114,114,0,0.0
+MI-Farmington,Non contact infrared Thermometer,Apr-20,114,114,0,0.0
+MI-Farmington,Non contact infrared Thermometer,May-20,114,114,0,0.0
+MI-Farmington,Non contact infrared Thermometer,Jun-20,114,114,0,0.0
+MI-Farmington,Non contact infrared Thermometer,Jul-20,114,114,0,0.0
+MI-Farmington,Non contact infrared Thermometer,Aug-20,114,114,0,0.0
+MI-Farmington,Non contact infrared Thermometer,Sep-20,114,114,0,0.0
+MI-Farmington,Goggles protective,Jan-20,69,69,0,0.0
+MI-Farmington,Goggles protective,Feb-20,69,69,0,0.0
+MI-Farmington,Goggles protective,Mar-20,69,69,0,0.0
+MI-Farmington,Goggles protective,Apr-20,69,69,0,0.0
+MI-Farmington,Goggles protective,May-20,69,69,0,0.0
+MI-Farmington,Goggles protective,Jun-20,69,69,0,0.0
+MI-Farmington,Goggles protective,Jul-20,69,69,0,0.0
+MI-Farmington,Goggles protective,Aug-20,69,69,0,0.0
+MI-Farmington,Goggles protective,Sep-20,69,48,21,30.0
+MI-Farmington,Disposable foot covers,Jan-20,31,31,0,0.0
+MI-Farmington,Disposable foot covers,Feb-20,31,31,0,0.0
+MI-Farmington,Disposable foot covers,Mar-20,31,31,0,0.0
+MI-Farmington,Disposable foot covers,Apr-20,31,31,0,0.0
+MI-Farmington,Disposable foot covers,May-20,31,31,0,0.0
+MI-Farmington,Disposable foot covers,Jun-20,31,31,0,0.0
+MI-Farmington,Disposable foot covers,Jul-20,31,31,0,0.0
+MI-Farmington,Disposable foot covers,Aug-20,31,31,0,0.0
+MI-Farmington,Disposable foot covers,Sep-20,31,31,0,0.0
+MI-Farmington,M4 viral media,Jan-20,211,88,123,58.0188679245283
+MI-Farmington,M4 viral media,Feb-20,211,85,126,59.43396226415094
+MI-Farmington,M4 viral media,Mar-20,211,75,136,64.15094339622641
+MI-Farmington,M4 viral media,Apr-20,211,68,143,67.45283018867924
+MI-Farmington,M4 viral media,May-20,211,64,147,69.33962264150944
+MI-Farmington,M4 viral media,Jun-20,211,64,147,69.33962264150944
+MI-Farmington,M4 viral media,Jul-20,211,58,153,72.16981132075472
+MI-Farmington,M4 viral media,Aug-20,211,44,167,78.77358490566037
+MI-Farmington,M4 viral media,Sep-20,211,47,164,77.35849056603773
+MI-Farmington,Triple packaging boxes,Jan-20,168,168,0,0.0
+MI-Farmington,Triple packaging boxes,Feb-20,168,168,0,0.0
+MI-Farmington,Triple packaging boxes,Mar-20,168,168,0,0.0
+MI-Farmington,Triple packaging boxes,Apr-20,168,168,0,0.0
+MI-Farmington,Triple packaging boxes,May-20,168,168,0,0.0
+MI-Farmington,Triple packaging boxes,Jun-20,168,167,1,0.591715976331361
+MI-Farmington,Triple packaging boxes,Jul-20,168,168,0,0.0
+MI-Farmington,Triple packaging boxes,Aug-20,168,168,0,0.0
+MI-Farmington,Triple packaging boxes,Sep-20,168,168,0,0.0
+MI-Farmington,Liquid soap,Jan-20,146,2,144,97.95918367346938
+MI-Farmington,Liquid soap,Feb-20,146,0,146,99.31972789115646
+MI-Farmington,Liquid soap,Mar-20,146,0,146,99.31972789115646
+MI-Farmington,Liquid soap,Apr-20,146,0,146,99.31972789115646
+MI-Farmington,Liquid soap,May-20,146,0,146,99.31972789115646
+MI-Farmington,Liquid soap,Jun-20,146,0,146,99.31972789115646
+MI-Farmington,Liquid soap,Jul-20,146,0,146,99.31972789115646
+MI-Farmington,Liquid soap,Aug-20,146,56,90,61.224489795918366
+MI-Farmington,Liquid soap,Sep-20,146,30,116,78.91156462585035
+MI-Farmington,Mask medical,Jan-20,102,102,0,0.0
+MI-Farmington,Mask medical,Feb-20,102,102,0,0.0
+MI-Farmington,Mask medical,Mar-20,102,102,0,0.0
+MI-Farmington,Mask medical,Apr-20,102,102,0,0.0
+MI-Farmington,Mask medical,May-20,102,102,0,0.0
+MI-Farmington,Mask medical,Jun-20,102,102,0,0.0
+MI-Farmington,Mask medical,Jul-20,102,102,0,0.0
+MI-Farmington,Mask medical,Aug-20,102,102,0,0.0
+MI-Farmington,Mask medical,Sep-20,102,102,0,0.0
+MI-Farmington,Scrubs pants,Jan-20,229,0,229,99.56521739130434
+MI-Farmington,Scrubs pants,Feb-20,229,0,229,99.56521739130434
+MI-Farmington,Scrubs pants,Mar-20,229,0,229,99.56521739130434
+MI-Farmington,Scrubs pants,Apr-20,229,0,229,99.56521739130434
+MI-Farmington,Scrubs pants,May-20,229,0,229,99.56521739130434
+MI-Farmington,Scrubs pants,Jun-20,229,0,229,99.56521739130434
+MI-Farmington,Scrubs pants,Jul-20,229,0,229,99.56521739130434
+MI-Farmington,Scrubs pants,Aug-20,229,0,229,99.56521739130434
+MI-Farmington,Scrubs pants,Sep-20,229,0,229,99.56521739130434
+MI-Farmington,Face shield,Jan-20,58,58,0,0.0
+MI-Farmington,Face shield,Feb-20,58,58,0,0.0
+MI-Farmington,Face shield,Mar-20,58,58,0,0.0
+MI-Farmington,Face shield,Apr-20,58,58,0,0.0
+MI-Farmington,Face shield,May-20,58,58,0,0.0
+MI-Farmington,Face shield,Jun-20,58,58,0,0.0
+MI-Farmington,Face shield,Jul-20,58,58,0,0.0
+MI-Farmington,Face shield,Aug-20,58,58,0,0.0
+MI-Farmington,Face shield,Sep-20,58,58,0,0.0
+MI-Farmington,Gloves,Jan-20,105,105,0,0.0
+MI-Farmington,Gloves,Feb-20,105,105,0,0.0
+MI-Farmington,Gloves,Mar-20,105,105,0,0.0
+MI-Farmington,Gloves,Apr-20,105,105,0,0.0
+MI-Farmington,Gloves,May-20,105,105,0,0.0
+MI-Farmington,Gloves,Jun-20,105,105,0,0.0
+MI-Farmington,Gloves,Jul-20,105,105,0,0.0
+MI-Farmington,Gloves,Aug-20,105,105,0,0.0
+MI-Farmington,Gloves,Sep-20,105,105,0,0.0
+MI-Farmington,Nasal testing swabs,Jan-20,188,70,118,62.43386243386244
+MI-Farmington,Nasal testing swabs,Feb-20,188,74,114,60.317460317460316
+MI-Farmington,Nasal testing swabs,Mar-20,188,76,112,59.25925925925926
+MI-Farmington,Nasal testing swabs,Apr-20,188,63,125,66.13756613756614
+MI-Farmington,Nasal testing swabs,May-20,188,59,129,68.25396825396825
+MI-Farmington,Nasal testing swabs,Jun-20,188,48,140,74.07407407407408
+MI-Farmington,Nasal testing swabs,Jul-20,188,27,161,85.18518518518519
+MI-Farmington,Nasal testing swabs,Aug-20,188,1,187,98.94179894179894
+MI-Farmington,Nasal testing swabs,Sep-20,188,8,180,95.23809523809524
+MI-Farmington,InvasiveVentilators,Jan-20,70,36,34,47.88732394366197
+MI-Farmington,InvasiveVentilators,Feb-20,70,0,70,98.59154929577464
+MI-Farmington,InvasiveVentilators,Mar-20,70,45,25,35.2112676056338
+MI-Farmington,InvasiveVentilators,Apr-20,70,62,8,11.267605633802816
+MI-Farmington,InvasiveVentilators,May-20,70,44,26,36.61971830985915
+MI-Farmington,InvasiveVentilators,Jun-20,70,60,10,14.084507042253522
+MI-Farmington,InvasiveVentilators,Jul-20,70,44,26,36.61971830985915
+MI-Farmington,InvasiveVentilators,Aug-20,70,70,0,0.0
+MI-Farmington,InvasiveVentilators,Sep-20,70,22,48,67.6056338028169
+MI-Farmington,Non Invasive Ventilators,Jan-20,240,240,0,0.0
+MI-Farmington,Non Invasive Ventilators,Feb-20,240,240,0,0.0
+MI-Farmington,Non Invasive Ventilators,Mar-20,240,240,0,0.0
+MI-Farmington,Non Invasive Ventilators,Apr-20,240,240,0,0.0
+MI-Farmington,Non Invasive Ventilators,May-20,240,240,0,0.0
+MI-Farmington,Non Invasive Ventilators,Jun-20,240,240,0,0.0
+MI-Farmington,Non Invasive Ventilators,Jul-20,240,240,0,0.0
+MI-Farmington,Non Invasive Ventilators,Aug-20,240,240,0,0.0
+MI-Farmington,Non Invasive Ventilators,Sep-20,240,240,0,0.0
+MI-Farmington,BioHazard Liner bags 2gallon,Jan-20,117,0,117,99.15254237288136
+MI-Farmington,BioHazard Liner bags 2gallon,Feb-20,117,0,117,99.15254237288136
+MI-Farmington,BioHazard Liner bags 2gallon,Mar-20,117,0,117,99.15254237288136
+MI-Farmington,BioHazard Liner bags 2gallon,Apr-20,117,0,117,99.15254237288136
+MI-Farmington,BioHazard Liner bags 2gallon,May-20,117,0,117,99.15254237288136
+MI-Farmington,BioHazard Liner bags 2gallon,Jun-20,117,0,117,99.15254237288136
+MI-Farmington,BioHazard Liner bags 2gallon,Jul-20,117,0,117,99.15254237288136
+MI-Farmington,BioHazard Liner bags 2gallon,Aug-20,117,0,117,99.15254237288136
+MI-Farmington,BioHazard Liner bags 2gallon,Sep-20,117,0,117,99.15254237288136
+MI-Farmington,BioHazard Liner bags 44gallon,Jan-20,169,0,169,99.41176470588235
+MI-Farmington,BioHazard Liner bags 44gallon,Feb-20,169,0,169,99.41176470588235
+MI-Farmington,BioHazard Liner bags 44gallon,Mar-20,169,0,169,99.41176470588235
+MI-Farmington,BioHazard Liner bags 44gallon,Apr-20,169,0,169,99.41176470588235
+MI-Farmington,BioHazard Liner bags 44gallon,May-20,169,0,169,99.41176470588235
+MI-Farmington,BioHazard Liner bags 44gallon,Jun-20,169,0,169,99.41176470588235
+MI-Farmington,BioHazard Liner bags 44gallon,Jul-20,169,0,169,99.41176470588235
+MI-Farmington,BioHazard Liner bags 44gallon,Aug-20,169,0,169,99.41176470588235
+MI-Farmington,BioHazard Liner bags 44gallon,Sep-20,169,0,169,99.41176470588235
+MI-Farmington,Blue Solied Linen bags,Jan-20,154,154,0,0.0
+MI-Farmington,Blue Solied Linen bags,Feb-20,154,154,0,0.0
+MI-Farmington,Blue Solied Linen bags,Mar-20,154,154,0,0.0
+MI-Farmington,Blue Solied Linen bags,Apr-20,154,154,0,0.0
+MI-Farmington,Blue Solied Linen bags,May-20,154,154,0,0.0
+MI-Farmington,Blue Solied Linen bags,Jun-20,154,154,0,0.0
+MI-Farmington,Blue Solied Linen bags,Jul-20,154,154,0,0.0
+MI-Farmington,Blue Solied Linen bags,Aug-20,154,154,0,0.0
+MI-Farmington,Blue Solied Linen bags,Sep-20,154,154,0,0.0
+MI-Farmington,Syringes,Jan-20,266,0,266,99.62546816479401
+MI-Farmington,Syringes,Feb-20,266,0,266,99.62546816479401
+MI-Farmington,Syringes,Mar-20,266,0,266,99.62546816479401
+MI-Farmington,Syringes,Apr-20,266,0,266,99.62546816479401
+MI-Farmington,Syringes,May-20,266,0,266,99.62546816479401
+MI-Farmington,Syringes,Jun-20,266,0,266,99.62546816479401
+MI-Farmington,Syringes,Jul-20,266,0,266,99.62546816479401
+MI-Farmington,Syringes,Aug-20,266,0,266,99.62546816479401
+MI-Farmington,Syringes,Sep-20,266,0,266,99.62546816479401
+MI-Farmington,IV Catheters,Jan-20,261,142,119,45.41984732824427
+MI-Farmington,IV Catheters,Feb-20,261,124,137,52.29007633587786
+MI-Farmington,IV Catheters,Mar-20,261,133,128,48.85496183206107
+MI-Farmington,IV Catheters,Apr-20,261,130,131,50.0
+MI-Farmington,IV Catheters,May-20,261,130,131,50.0
+MI-Farmington,IV Catheters,Jun-20,261,127,134,51.14503816793893
+MI-Farmington,IV Catheters,Jul-20,261,97,164,62.595419847328245
+MI-Farmington,IV Catheters,Aug-20,261,77,184,70.22900763358778
+MI-Farmington,IV Catheters,Sep-20,261,115,146,55.725190839694655
+MI-Farmington,Needles,Jan-20,117,117,0,0.0
+MI-Farmington,Needles,Feb-20,117,117,0,0.0
+MI-Farmington,Needles,Mar-20,117,117,0,0.0
+MI-Farmington,Needles,Apr-20,117,117,0,0.0
+MI-Farmington,Needles,May-20,117,117,0,0.0
+MI-Farmington,Needles,Jun-20,117,117,0,0.0
+MI-Farmington,Needles,Jul-20,117,117,0,0.0
+MI-Farmington,Needles,Aug-20,117,117,0,0.0
+MI-Farmington,Needles,Sep-20,117,117,0,0.0
+MI-Farmington,Surface Disinfectant 1 Gallon,Jan-20,72,72,0,0.0
+MI-Farmington,Surface Disinfectant 1 Gallon,Feb-20,72,72,0,0.0
+MI-Farmington,Surface Disinfectant 1 Gallon,Mar-20,72,72,0,0.0
+MI-Farmington,Surface Disinfectant 1 Gallon,Apr-20,72,72,0,0.0
+MI-Farmington,Surface Disinfectant 1 Gallon,May-20,72,72,0,0.0
+MI-Farmington,Surface Disinfectant 1 Gallon,Jun-20,72,72,0,0.0
+MI-Farmington,Surface Disinfectant 1 Gallon,Jul-20,72,72,0,0.0
+MI-Farmington,Surface Disinfectant 1 Gallon,Aug-20,72,72,0,0.0
+MI-Farmington,Surface Disinfectant 1 Gallon,Sep-20,72,72,0,0.0
